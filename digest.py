@@ -39,13 +39,17 @@ RSS_FEEDS = [
     ("Google DeepMind", "https://deepmind.google/blog/rss.xml"),
     ("arXiv cs.CL", "http://export.arxiv.org/rss/cs.CL"),
     ("arXiv cs.AI", "http://export.arxiv.org/rss/cs.AI"),
+    (
+        "中華圏AI",
+        "https://news.google.com/rss/search?q=DeepSeek+OR+Qwen+OR+%22Moonshot+AI%22+OR+Kimi+OR+Zhipu+OR+MiniMax+OR+%22Baidu+Ernie%22&hl=en-US&gl=US&ceid=US:en",
+    ),
 ]
 
 # Anthropicは公式RSSを提供していないため、sitemap.xmlのlastmodで新着/newsを検出する
 ANTHROPIC_SITEMAP_URL = "https://www.anthropic.com/sitemap.xml"
 
 HN_ALGOLIA_URL = "https://hn.algolia.com/api/v1/search_by_date"
-HN_QUERIES = ["AI", "LLM", "Claude", "GPT", "Gemini"]
+HN_QUERIES = ["AI", "LLM", "Claude", "GPT", "Gemini", "DeepSeek", "Qwen", "Kimi"]
 HN_MIN_POINTS = 20
 HN_MAX_ITEMS = 10
 
@@ -241,23 +245,37 @@ def build_prompt(candidates: list, category: str, avoid_urls: list, avoid_words:
     avoid_words_block = "、".join(avoid_words[-30:]) if avoid_words else "(なし)"
 
     return f"""あなたはAIエンジニア向けに毎朝配信するニュースダイジェストの編集者です。
-以下は過去24時間に収集されたAI関連の候補記事一覧です。
+文体は硬い business japanese ではなく、絵文字を交えた**ポップで親しみやすいテンション**
+(友達がテンション高めにAIニュースを教えてくれる感じ)で書いてください。ただし内容の正確さ・
+情報密度は落とさないこと(ノリだけで中身が薄くならないように)。
+
+以下は過去24時間に収集されたAI関連の候補記事一覧です。中華圏(DeepSeek, Qwen, Kimi/Moonshot,
+Zhipu, MiniMaxなど)の動向も含まれています。
 
 {candidates_block}
 
 # タスク
-1. 上記候補から、重要度・速報性の高いものを最大{MAX_PICKS}件選んでください。候補が少ない/重要なものがない場合は無理に{MAX_PICKS}件選ばず、0件でも構いません。
-2. 選んだ各記事について、日本語で1〜2行の簡潔な要約を書いてください（深掘りはせず、何が起きたかが分かれば十分です）。
-3. 「今日の一言」として、カテゴリ「{category}」に関するAI用語・基礎知識を1つ選び、中級者（実務でAIを使うがアルゴリズムの専門家ではない層）向けに3〜4文で解説してください。
+1. 上記候補から、重要度・速報性の高いものを最大{MAX_PICKS}件選んでください。中華圏AIの動きも
+   重要なら積極的に含めてください。候補が少ない/重要なものがない場合は無理に{MAX_PICKS}件選ばず、
+   0件でも構いません。
+2. 選んだ各記事について、日本語で1〜2行の簡潔な要約を書いてください（深掘りはせず、何が起きたか
+   が分かれば十分。絵文字を1つ添えてポップに）。
+3. 「今日の一言」として、カテゴリ「{category}」に関するAI用語・基礎知識を1つ選び、中級者（実務で
+   AIを使うがアルゴリズムの専門家ではない層）向けに3〜4文で、親しみやすい語り口で解説してください。
    ただし、以下の用語は直近で既に解説済みのため避けてください: {avoid_words_block}
+4. 「ビジネス活用アイデア」として、今日選んだニュースの中から1つを起点に、読者が**実務や
+   プライベートで実際に今すぐ試せる**具体的な使い方・アイデアを1つ考えてください。
+   「〇〇を使えば△△ができるかも」のように、明日から動けるレベルの具体性で、
+   ワクワクする書き方にしてください。
 
 # 出力形式
 必ず以下のJSON形式のみを出力してください（前後に説明文やMarkdownのコードフェンスを付けないこと）:
 {{
   "picks": [
-    {{"title": "記事タイトル", "summary": "1〜2行の要約", "url": "URL", "source": "出典名"}}
+    {{"title": "記事タイトル", "summary": "1〜2行の要約(絵文字入り)", "url": "URL", "source": "出典名"}}
   ],
-  "word_of_day": {{"term": "用語", "explanation": "解説文"}}
+  "word_of_day": {{"term": "用語", "explanation": "解説文"}},
+  "business_idea": {{"title": "アイデアの短いタイトル", "idea": "具体的な活用アイデア本文"}}
 }}
 """
 
@@ -287,28 +305,36 @@ def call_claude(candidates: list, category: str, avoid_urls: list, avoid_words: 
 def compose_email(result: dict, today: str) -> tuple:
     picks = result.get("picks", [])
     word = result.get("word_of_day", {})
+    business_idea = result.get("business_idea", {})
 
-    lines = [f"おはようございます。{today} のAI動向ダイジェストです。", ""]
+    lines = [f"おはようございます!☀️ {today} のAI動向ダイジェストです。", ""]
 
-    lines.append("【注目ニュース】")
+    lines.append("📰 注目ニュース")
     if picks:
         for i, pick in enumerate(picks, start=1):
             lines.append(f"{i}. {pick.get('title', '')}")
             lines.append(f"   {pick.get('summary', '')}")
-            lines.append(f"   出典: {pick.get('url', '')} ({pick.get('source', '')})")
+            lines.append(f"   🔗 {pick.get('url', '')} ({pick.get('source', '')})")
     else:
         lines.append("本日は目立った大きな動きはありませんでした。")
     lines.append("")
 
-    lines.append("【今日の一言】")
+    lines.append("💡 今日の一言")
     if word:
         lines.append(f"■ {word.get('term', '')}")
         lines.append(word.get("explanation", ""))
     lines.append("")
+
+    lines.append("🚀 ビジネス活用アイデア")
+    if business_idea:
+        lines.append(f"■ {business_idea.get('title', '')}")
+        lines.append(business_idea.get("idea", ""))
+    lines.append("")
+
     lines.append("---")
     lines.append("本メールはGitHub Actionsにより自動生成されています。")
 
-    subject = f"AI動向ダイジェスト {today}"
+    subject = f"🤖 AI動向ダイジェスト {today}"
     body = "\n".join(lines)
     return subject, body
 
