@@ -1,5 +1,28 @@
 {
-  "category_index": 0,
-  "seen_urls": [],
-  "word_history": []
+  "category_index": 1,
+  "seen_urls": [
+    {
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "date": "2026-07-29T14:51:17.646093+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "date": "2026-07-29T14:51:17.646093+00:00"
+    },
+    {
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "date": "2026-07-29T14:51:17.646093+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.25380",
+      "date": "2026-07-29T14:51:17.646093+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "date": "2026-07-29T14:51:17.646093+00:00"
+    }
+  ],
+  "word_history": [
+    "Mixture of Experts (MoE)"
+  ]
 }
