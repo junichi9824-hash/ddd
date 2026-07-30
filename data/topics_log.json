@@ -1,5 +1,5 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -100,6 +100,22 @@
     {
       "url": "https://arxiv.org/abs/2607.26654",
       "date": "2026-07-30T09:05:15.365059+00:00"
+    },
+    {
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "date": "2026-07-30T21:50:38.835703+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "date": "2026-07-30T21:50:38.835703+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUEI2NXVnZ0Z0UFVQVHN5WV9yb3VJamNGVWdkVEtWMzNjQURtbzQ5bU80c2sxbGU5WE9YeTVWOFV6TGJ2MkptNnc4SUI4WjhJM3FCWHJveVkxSl9Cd3JlM3l2S3FJbXhXNUxCa3c2YTA1Ui1aMmVoeHFBZXpUMjJ5dDBZbHE4Z1RTQ3Jjay1vMVlxWlZLZGR6TzFscVV6azVTRy1RWTFjbDZwbmhWYjBDV2g5d0tDTHNseXdMR3o5aFJGRU8zNHpPM283cnEzN1RCYkhJ0gHYAUFVX3lxTFBkTzN1T0UwVlhKWHpreFVGZEVPRUhKR2xGTjJHYzc5YTV3eEU0OHB4MFhqZW95QzVfRHV5SmlNMkd2ZlAtVThRRjJWOTFwR0lRX09OQ2FCVGp3cVMtMDRQNU5aajN6bUdqU3FvZUJ2M3d6SFhmbDI5SG5XQXlZdldOa05rZzVQY2xmRTEtQ0RPRHMzbVZ3SnhZc0NyeFlfeGpGTFBZMWsyWkY0UHA0N0x0bWtrQ1VXS2F3VE96cU9EWmZ0Q1R2bEJ1cjBFdGxqdy1iem1NTnFQYg",
+      "date": "2026-07-30T21:50:38.835703+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTFwY0dWVFBQSmtTUlNTUkVEcUxJRjhxM0RjaUdpOEpBTWtLV3pBOEpCQlJ1WVRDM2JWOHpYOHUtcDMzWngxdEllMS1vVVhaV3lKWFFaZE1YYURfRkpoUTczQlFaT3p3UGRtemlzNTNUUENYS1FnV3ltWWpRSU5OUk1zZlNiVENobmFRbFZFeXJGWlUxUWdMYmRqMjlOV2Z1blJRUjRpbDdvb2x4NHo1QzdlLUU2NjdQWnhVYnREWUJabWFFQWhpcS1DbThHQQ",
+      "date": "2026-07-30T21:50:38.835703+00:00"
     }
   ],
   "word_history": [
@@ -107,6 +123,7 @@
     "Knowledge Distillation（知識蒸留）",
     "ARC-AGI（Abstract Reasoning Corpus - Artificial General Intelligence）ベンチマーク",
     "Speculative Decoding（推論的デコーディング）",
-    "Human-in-the-Loop (HITL) / ヒューマンインザループ"
+    "Human-in-the-Loop (HITL) / ヒューマンインザループ",
+    "Alignment Faking（アライメント偽装）"
   ]
 }
