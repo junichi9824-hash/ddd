@@ -1,5 +1,5 @@
 {
-  "category_index": 3,
+  "category_index": 4,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -60,11 +60,32 @@
     {
       "url": "https://arxiv.org/abs/2607.24999",
       "date": "2026-07-30T01:19:01.242769+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0N0WDlMd1dFLUVQS1Bfd2U5WDgzVFdydjV3dVNUbHpKX3BmV2l5cWtIRDRWSlZfTHZZYW96QVd5RVliVHJUYWFCLXhnaXozT21NNWppODlGYkw0UzdNd1l2X0V4LUdnR0llajVMZ2VNS29iZEFBSU50LV8zWjhXRHpEVVp2UThjVlhjbVkySHJua3hQZTB5U1EzVUtHdEFJV0NicnhDMEFFNDJ4ek9PSG5RdEY",
+      "date": "2026-07-30T06:35:59.869501+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.26627",
+      "date": "2026-07-30T06:35:59.869501+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.24788",
+      "date": "2026-07-30T06:35:59.869501+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.26178",
+      "date": "2026-07-30T06:35:59.869501+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.26375",
+      "date": "2026-07-30T06:35:59.869501+00:00"
     }
   ],
   "word_history": [
     "Mixture of Experts (MoE)",
     "Knowledge Distillation（知識蒸留）",
-    "ARC-AGI（Abstract Reasoning Corpus - Artificial General Intelligence）ベンチマーク"
+    "ARC-AGI（Abstract Reasoning Corpus - Artificial General Intelligence）ベンチマーク",
+    "Speculative Decoding（推論的デコーディング）"
   ]
 }
