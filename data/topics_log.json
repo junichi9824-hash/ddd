@@ -1,5 +1,5 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -40,10 +40,31 @@
     {
       "url": "https://arxiv.org/abs/2607.25291",
       "date": "2026-07-29T22:48:13.757349+00:00"
+    },
+    {
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "date": "2026-07-30T01:19:01.242769+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmdRV1doTFhhaFhUNWxxZW9zTnJqdU5FTVBmNDg2TWNMOHBqUQ==",
+      "date": "2026-07-30T01:19:01.242769+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.24765",
+      "date": "2026-07-30T01:19:01.242769+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.24841",
+      "date": "2026-07-30T01:19:01.242769+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.24999",
+      "date": "2026-07-30T01:19:01.242769+00:00"
     }
   ],
   "word_history": [
     "Mixture of Experts (MoE)",
-    "Knowledge Distillation（知識蒸留）"
+    "Knowledge Distillation（知識蒸留）",
+    "ARC-AGI（Abstract Reasoning Corpus - Artificial General Intelligence）ベンチマーク"
   ]
 }
