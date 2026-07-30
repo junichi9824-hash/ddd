@@ -290,13 +290,22 @@ def parse_json_response(text: str) -> dict:
 def call_claude(candidates: list, category: str, avoid_urls: list, avoid_words: list) -> dict:
     client = Anthropic(api_key=ANTHROPIC_API_KEY)
     prompt = build_prompt(candidates, category, avoid_urls, avoid_words)
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=1500,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    text = "".join(block.text for block in response.content if block.type == "text")
-    return parse_json_response(text)
+
+    last_error = None
+    for attempt in range(3):
+        response = client.messages.create(
+            model=MODEL,
+            max_tokens=4000,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        text = "".join(block.text for block in response.content if block.type == "text")
+        try:
+            return parse_json_response(text)
+        except json.JSONDecodeError as exc:
+            last_error = exc
+            print(f"[WARN] JSON解析失敗(試行{attempt + 1}/3): {exc}")
+
+    raise last_error
 
 
 # ---------------------------------------------------------------------------
