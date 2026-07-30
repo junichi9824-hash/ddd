@@ -1,5 +1,5 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -80,12 +80,33 @@
     {
       "url": "https://arxiv.org/abs/2607.26375",
       "date": "2026-07-30T06:35:59.869501+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlpRY1MyQXl1bjU0NDRsNU9mMjF6NlliSWZMTllwV19rZjB5X2VpUzVKWE1lSmRmRW1IUkQwSm1oRVZyY1NuSVV1ZktUdmVGM3BUcy1IOEF1MkhLdTRCM0dSdENiYTQ0VTFLRmtaNHp1SlBNenpDbHhtd2h1VklwbHBETE9VR1FrZGxGamNiX0I0NHY3YlppMm5Pb1Q",
+      "date": "2026-07-30T09:05:15.365059+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.26060",
+      "date": "2026-07-30T09:05:15.365059+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.26300",
+      "date": "2026-07-30T09:05:15.365059+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.26497",
+      "date": "2026-07-30T09:05:15.365059+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.26654",
+      "date": "2026-07-30T09:05:15.365059+00:00"
     }
   ],
   "word_history": [
     "Mixture of Experts (MoE)",
     "Knowledge Distillation（知識蒸留）",
     "ARC-AGI（Abstract Reasoning Corpus - Artificial General Intelligence）ベンチマーク",
-    "Speculative Decoding（推論的デコーディング）"
+    "Speculative Decoding（推論的デコーディング）",
+    "Human-in-the-Loop (HITL) / ヒューマンインザループ"
   ]
 }
