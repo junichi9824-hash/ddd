@@ -1,5 +1,5 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -116,6 +116,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTFwY0dWVFBQSmtTUlNTUkVEcUxJRjhxM0RjaUdpOEpBTWtLV3pBOEpCQlJ1WVRDM2JWOHpYOHUtcDMzWngxdEllMS1vVVhaV3lKWFFaZE1YYURfRkpoUTczQlFaT3p3UGRtemlzNTNUUENYS1FnV3ltWWpRSU5OUk1zZlNiVENobmFRbFZFeXJGWlUxUWdMYmRqMjlOV2Z1blJRUjRpbDdvb2x4NHo1QzdlLUU2NjdQWnhVYnREWUJabWFFQWhpcS1DbThHQQ",
       "date": "2026-07-30T21:50:38.835703+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV3o4YXZVWEZta2NwZUlsbXd0QW13UkJhSzluUUFyT2E5VkU0OThQZ2xjakpzV25KYTdPQVVKQ2RSZW5uSE13VUFaUThlUHJkckJySnBiTWJHdTk1NER2cFJoaWN5bWNBdlRSdDU1UmcwVzBFcG9obUZ0RG11NUJKX19oYXBMem02anZ1aGFmZC1HaFJRMnQ4eXJmRlpOVXlfMl9BUHI3ZmJSaDlIVk1adnZrVEcwR1R3VHhaUT1scE00UjZod1lGNzRXcnE0b2xJUmc",
+      "date": "2026-07-31T21:48:36.711835+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ282X01oVUs5N1JNVE1keDhwLUsyNk81a1VBVEhROXlzU1pQSVVaZDJiWHhSVTFWZFdjMnhUdHpDZmZtVFN5SlVPS0oyS2lyTTBFMlR6MjFoYUpWaGZaT01LRGYxYno0OUE1R0d2YUhhdmc4X2dMSFk2SW5paVFXV1JVNmxxRk9IVGs5ZW9UbWxYenNyMkRJeGlpdDJnLTREcWNRbkNXUkR4Y0hMZ0ltNjQtMFVxQ2c",
+      "date": "2026-07-31T21:48:36.711835+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWRFTFZad0hCRFlQRFlIdU9lNk1aR0ptekJaa3hyaV96S3B5TEdDXzZ0V1ZaYUduM3RQUHFyV0phTzhSTi1MU3ZhTjZLU01WRkxKNDRfQUtCVXJpUlVPWU44aDJwd3Q0Sk9MWGtHOC1hWjcxbkVhamNNWGxqVEJwX2QwMW1vSlF2a1FlSXdWd0pfX2toUEwxMWxYRmRhbkJ0WlVkM0ttMnJlMXZpckRJa09NSTRiUdIBtgFBVV95cUxNeXRLM2sxNl9kLXdwaVVRWE9Jck80amNfWEVaQVpqWDBOUE1XdnVmakliOWpoZWRNWGpseUg4S0lCNkpCbHBjNW5mbHN5V01qaVhjZDJlQzZCVWdnX3BhdG5qdG0wU1B4N2lyV1h3VzJGeHNrVmdRcThiOUNOektIV2xQTm5LaWN4d1RCS21GVS1CaUJRc2hhV3JmZ09FenNFc25ZSlllVkVoWjE2YXRXNm41OEdjQQ",
+      "date": "2026-07-31T21:48:36.711835+00:00"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "date": "2026-07-31T21:48:36.711835+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.27353",
+      "date": "2026-07-31T21:48:36.711835+00:00"
     }
   ],
   "word_history": [
@@ -124,6 +144,7 @@
     "ARC-AGI（Abstract Reasoning Corpus - Artificial General Intelligence）ベンチマーク",
     "Speculative Decoding（推論的デコーディング）",
     "Human-in-the-Loop (HITL) / ヒューマンインザループ",
-    "Alignment Faking（アライメント偽装）"
+    "Alignment Faking（アライメント偽装）",
+    "Prompt Chaining（プロンプトチェーン）"
   ]
 }
