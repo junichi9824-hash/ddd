@@ -1,5 +1,5 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -136,6 +136,26 @@
     {
       "url": "https://arxiv.org/abs/2607.27353",
       "date": "2026-07-31T21:48:36.711835+00:00"
+    },
+    {
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "date": "2026-08-01T20:43:13.911436+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04emlXWXpVQXhNcjJsU1d5ZmhnU1J2TFRyeFlxM2hqUUNUNVR2UmxFQUNBanYwWnd5ZUpTRnptVEh2TXU2NU5aa0FRbFV6ejVPd2wxWFNXa3RoaTZPQ0dQSHc0Tkk4WE93Q1JwV0tIWGNBaGNG?oc=5",
+      "date": "2026-08-01T20:43:13.911436+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdGtLdExtU2pqTURVM1dmdFpFR19NNjBaRFd2Tk1kclFyUGpjNkpDd0JzSDFDc3FDeE9uTC11eXVQcXJlNjBzSzRiVTNrRmtmeG9jRXltWG9aVng4UkZUUjlBYTRic3RsY090TjZMdlNCY1dsZFNEZmd6X0l5RnJteGM3cWNZcVVWbm1PZS1pdTh5anJfS0txRGk5R05sNlBLWGxDX3NqaFZzQnd2ejdJV0NsbEVmb05Mc3VkZkxBbDVycDJ0NjBTa3BSM3BTdXBzbFFCczZobHVjSlF4UFREbU9wRzhDYlVJ0gHuAUFVX3lxTFA1Z2pzN1VUY1lGSjdRbHpyWldFUlo4QzZqUXIwRER3SGtOUFVqSWwyQk91cThXZEdONldlRFlCTXZMYlppQVFjc096UENHSDVpdHJsOFJPODJsbnk0a19pN01BTmR2QUNZUGhtV1ZJd01tZno4cHFaZDZZVHM4bHFSWGhuMGdkc1Z4emJuVEp2akZiQTJ4dndNT0xRRmdFQ1liZGZYZ2lRb3Q1LXB0Y2F3N1Vwa1drWDNuTHRjWl96bU9GM3pkNWdGalNoRTFEUHRlWHhXVTZiWDFTR0RUOTQyYU9fTmlURjVfMHlLWUE?oc=5",
+      "date": "2026-08-01T20:43:13.911436+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWlVnUFVUZTZ6ZWVnTElrblFhMVNfRHFhWXpLRjlzaWhtNUVmRFRSNFNxQzgwZXVGaUlOVGl2NmgtRTdrLW5GcXdjVjRuVnVZdXlPazYtdHIwMWZqcjBLWmNBaFBrWUh3T1Zqa3hxZlNyYU1Zc1dlMmpaVFR4ajhuc29KRlZHUGdxZ1dhQ2s1RGxyZVAtRlZMbWFIaXZacjFnZ200ODF1TzMzakczZHhMemhUbDdqUy1KX0RhRE1HVTdQd9IBwgFBVV95cUxORWdsQUZ5UVZBdDUzb1JJMndsbW1SUDdXcjJJSGdvb0dvRklzMlJkSUtKRWNRSHVac2Y0MmxjZWtiNzRWSEJ5TVp1dzR6RmJER0xKOEZzQ09vYW9qdXZnNWxOWVY2MFdnVlY2QkN2LU1Ja25SckJGdWQ5NWt4dGxMUHN5cTZZOFI5Z182bGVHLTM0NlFsN0ZLNExvT3RabFNtaUppdXcwTEFYRlRFZjRBeHEtbVg2bmpRVllfaVh3VDJPdw?oc=5",
+      "date": "2026-08-01T20:43:13.911436+00:00"
+    },
+    {
+      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+      "date": "2026-08-01T20:43:13.911436+00:00"
     }
   ],
   "word_history": [
@@ -145,6 +165,7 @@
     "Speculative Decoding（推論的デコーディング）",
     "Human-in-the-Loop (HITL) / ヒューマンインザループ",
     "Alignment Faking（アライメント偽装）",
-    "Prompt Chaining（プロンプトチェーン）"
+    "Prompt Chaining（プロンプトチェーン）",
+    "Cross-Attention / クロスアテンション"
   ]
 }
