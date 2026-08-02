@@ -1,5 +1,5 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -156,6 +156,26 @@
     {
       "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
       "date": "2026-08-01T20:43:13.911436+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV0VybHVwcTZ4bTJzLUpIcmNxXzZmekZfOURjaGtncmRjdF9CSXJmUzFNbENfdnFYTDl0RUl1ZHN3REZVekRoR181dk9oYW1sTGU3SVF6QTZnQ2J4dm5URUFFMWxkSld1eWszZnEzb1ZuaXQtZ1NCRWhBUlV4eGM1a2dYb2liS25FQkJNRFZwTlMzSTF3aHRXVXFGV3ZGZFRnaGRMT2J5cUlwN0prY3FoV2lwMkNDN2hYeHF3T0drWFlBTXE2MHhRajc0eWZkRHd4OFRn?oc=5",
+      "date": "2026-08-02T21:13:49.719277+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTjdaMHZvTnZTd1YyUy1zeFNKem9fUUxtemFnb210MkVxZjN4bkNEdVdVT3hFekNDeFZBdU0zWkZKdzhuZVEydzJhZUFhM2IzUzVqbVVqMEVJeWVzNFVIOEozajJkN0xIejVrT0VwQ3lUQUoxemI0STVVMzFlVWFoLXlqR3hkZk1fSE81UXJEZ21rakpCejFPZExn?oc=5",
+      "date": "2026-08-02T21:13:49.719277+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?oc=5",
+      "date": "2026-08-02T21:13:49.719277+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTkxa0hLeEZ1WjNXWVFSb04wZVU4WE92X3pWSm82X0Exa1Z6QXY1ZWhGMmtaYjlpYmI1QVFKM3hVZ0FJODYyd2UzM1FNUFFaMlprYjd0c2ljYlM4RVl6M2hJdEE0LXBWYTluU2NOUjBuOVpUdHRVcHJMajJTTHFOclE3Rko?oc=5",
+      "date": "2026-08-02T21:13:49.719277+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPandUYVhVbWJLQVN3Vks2b01rOVBhQU1VU3dEd0cxb2QtR0taRm5VUlJncHNaaFkybzk5aXlpdVgxU0ZTUFAxemw0V00ydkkxS2d0YmIwdEVyZEVWdzZSalNoODIxVS1kNjM1eE1BT2NiZ3dJMTRUNjBPamh5d1paRFZ0OXo0V0RfYm8tN0JlR3JmLWoyWEZsaHRHUmhPS0p3Vi1hMWNTWXRnaG9jM0NKWmJaSl9qQVpkT2FOODVyOS1temJqUVlIMWRzcEE3eDdO?oc=5",
+      "date": "2026-08-02T21:13:49.719277+00:00"
     }
   ],
   "word_history": [
@@ -166,6 +186,7 @@
     "Human-in-the-Loop (HITL) / ヒューマンインザループ",
     "Alignment Faking（アライメント偽装）",
     "Prompt Chaining（プロンプトチェーン）",
-    "Cross-Attention / クロスアテンション"
+    "Cross-Attention / クロスアテンション",
+    "LoRA (Low-Rank Adaptation)"
   ]
 }
