@@ -1,5 +1,5 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -216,6 +216,26 @@
     {
       "url": "https://www.anthropic.com/news/claude-for-nonprofits",
       "date": "2026-08-03T21:53:12.921138+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00146",
+      "date": "2026-08-04T22:21:07.267457+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qSXpHdVRCQ0xvUDBuTUdLOW8tQXV4R3IwVkNLN2NLaFZpbC1tem1JTjRSMDlDR1hWRVdLNmIwWDk4WkNZRHBMSDhydWdNajVhWndLdE5zdlRTM05nZEFUTEhMUVViWElRY1VINVpxUG1RNW5lZXkxbzhESU4",
+      "date": "2026-08-04T22:21:07.267457+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ0hlYmtqNlh6VTBqdTgzX3U1Nzcxb3JiUDA5LXQtZGlpTm1yQ0hyT2g4bl91OWl2WGI2d2FiS1ZOanZBcmZIdFV6SElVS28zUy1FNnQ1ZXpoN1dRTk9pU0NSQmFpQ2pwYnF3Qi1oRjRQWHFyYXZ6TWJULVlEWm5fX0lrbWhwblViWWZ2U0lMYXBBei15bGE1ellNbTg0QVgxV2preHlVdlR2YWhGbFNCVnJ4RlJSQQ",
+      "date": "2026-08-04T22:21:07.267457+00:00"
+    },
+    {
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "date": "2026-08-04T22:21:07.267457+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.00004",
+      "date": "2026-08-04T22:21:07.267457+00:00"
     }
   ],
   "word_history": [
@@ -229,6 +249,7 @@
     "Cross-Attention / クロスアテンション",
     "LoRA (Low-Rank Adaptation)",
     "Out-of-Distribution (OOD) Detection / 分布外検出",
-    "Early Exit (アーリーエグジット)"
+    "Early Exit (アーリーエグジット)",
+    "Tool Use / ツール使用"
   ]
 }
