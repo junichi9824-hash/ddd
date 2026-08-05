@@ -1,5 +1,5 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -236,6 +236,26 @@
     {
       "url": "https://arxiv.org/abs/2608.00004",
       "date": "2026-08-04T22:21:07.267457+00:00"
+    },
+    {
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "date": "2026-08-05T22:18:51.045358+00:00"
+    },
+    {
+      "url": "https://eu.36kr.com/",
+      "date": "2026-08-05T22:18:51.045358+00:00"
+    },
+    {
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "date": "2026-08-05T22:18:51.045358+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.02609",
+      "date": "2026-08-05T22:18:51.045358+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.02616",
+      "date": "2026-08-05T22:18:51.045358+00:00"
     }
   ],
   "word_history": [
@@ -250,6 +270,7 @@
     "LoRA (Low-Rank Adaptation)",
     "Out-of-Distribution (OOD) Detection / 分布外検出",
     "Early Exit (アーリーエグジット)",
-    "Tool Use / ツール使用"
+    "Tool Use / ツール使用",
+    "Reward Hacking（リワードハッキング）"
   ]
 }
