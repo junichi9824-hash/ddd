@@ -1,5 +1,5 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -256,6 +256,26 @@
     {
       "url": "https://arxiv.org/abs/2608.02616",
       "date": "2026-08-05T22:18:51.045358+00:00"
+    },
+    {
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "date": "2026-08-07T01:54:12.573014+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQajRiOXpEcXlUXzRDSlE1cTYyZy01eVlUTjNITHZ2R1gzNjRRMXZfV18wUzYybzA1UUx5d1pzbFJzQWtCRnJGNGYwWmtIOUZuOUZfRHFWWnl1NFhPOTdqSTBwdFhnQk9qd1BhNkZhWGJobEZjTlFmLUQ2ZEtQUDNTX0JhWmc5M0VyZERVZWdVTkFmTlkzS2owME1PUVdYZVFvaV95TXA2MWhBUllSMWFsZjRTRlVQTEMyT1NYbDZMV2l0SjJNOVM3dU1B0gHKAUFVX3lxTFBvdmpuQml3NFBuU2JNWmY1RkdRVS11X2dEbHAzYmFkVW5YSXNKYWNmVWJ6MDROY1lxZS1odWlmRVZmUkZNNlNsNzlteUQ5SnhMMy1TMUZadUFqLUdFUEhDTFJsX2xiTUtfX3Z0bGZNMXUyTm13d0xWSzRuNHVhNk9OQUQ5NEVYMHZYRFB1aWhRaG56c1ZqVmE4YlcwOUNVMXdoVnFsTGNKR050LVNuUHVSN3I5UkdzN01qb2ZUSHh1NmxzSjZVelowbXc",
+      "date": "2026-08-07T01:54:12.573014+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxMcEhPOVRWZ25kVXA0VlpBaGpJdzRGdHNXY2JJM29sTWVZTEhJQkwxQVl5ZFB6NXhESlBiZXB3V1dwR1E1V2tFenp3aDFfbG5rQjRta1NuT1JwSzlGRE1NTHdvb0gybzFLQ0NqOXdiVXNUUVl2cXdfaFM5Y2hlZHJ4R2lEMlA1RXQzSFVueQ",
+      "date": "2026-08-07T01:54:12.573014+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmRraEV3dUtWanpMeEpLczAxNnZreXI3N2dhRFp1RkdiQy1sR0NKOE9nbjFqWExjRGZlelMzSU84dW83Q1VFU1pGT3pXc3luQmg2X25YRjQtT3FON1JFQ0JuN1FSYkNSNF9SVllwRTA2M0ZudHppVHl0U1ZMR2l4dTdKWklMeUdoeTFNdFR2bVdrZmpxaEtJZV9rZGhoMnM0S2R6WWxlTEFGakZQRUtTWWZn",
+      "date": "2026-08-07T01:54:12.573014+00:00"
+    },
+    {
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "date": "2026-08-07T01:54:12.573014+00:00"
     }
   ],
   "word_history": [
@@ -271,6 +291,7 @@
     "Out-of-Distribution (OOD) Detection / 分布外検出",
     "Early Exit (アーリーエグジット)",
     "Tool Use / ツール使用",
-    "Reward Hacking（リワードハッキング）"
+    "Reward Hacking（リワードハッキング）",
+    "Retrieval-Augmented Generation (RAG)"
   ]
 }
