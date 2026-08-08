@@ -1,5 +1,5 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -296,6 +296,26 @@
     {
       "url": "https://arxiv.org/abs/2608.05152",
       "date": "2026-08-07T20:06:11.677490+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05151",
+      "date": "2026-08-08T19:44:37.657209+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05153",
+      "date": "2026-08-08T19:44:37.657209+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05158",
+      "date": "2026-08-08T19:44:37.657209+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.05188",
+      "date": "2026-08-08T19:44:37.657209+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "date": "2026-08-08T19:44:37.657209+00:00"
     }
   ],
   "word_history": [
@@ -313,6 +333,7 @@
     "Tool Use / ツール使用",
     "Reward Hacking（リワードハッキング）",
     "Retrieval-Augmented Generation (RAG)",
-    "Positional Encoding（ポジショナルエンコーディング）"
+    "Positional Encoding（ポジショナルエンコーディング）",
+    "Continued Pre-training (CPT / 継続事前学習)"
   ]
 }
