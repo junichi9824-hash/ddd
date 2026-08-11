@@ -1,5 +1,5 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
     {
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -356,6 +356,26 @@
     {
       "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
       "date": "2026-08-10T20:10:43.756449+00:00"
+    },
+    {
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "date": "2026-08-11T20:24:48.415663+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVF91bFhmQWlENEZCSG1kcEpjZUx4VzVfbzVwbm5vYlB6bHBBV1RCMHNWbUxjQmplUUY4NnV6YS1ieTBfQV9rbmxNT2pHdkZLTUpwamFOS2c3SHJnY01iMDZrQTFDMEk5dHFZMDVteWU4ZHpwWVBIdjg1d3dvNmQ2V0gyOUlHZkx2TTNoSkl4NWdyMzloMlQwWWhkWnZpNzVzR0Jj?oc=5",
+      "date": "2026-08-11T20:24:48.415663+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnJ3QWt1N092NUJ4U2wwX1lTb2RwamhMLVF4S1pVMTR0ZFc2T2JpQUx1Y2RnbllwZjhCYUJhYXEwQ0ozVWZjZmU5NDM0dG85WE5ZY3Q3eGEwdTdhM0pZUnpvcEYybkptbDhSOXpZNThlYW5Tc2k0N2lldXF3VnVrMTJOUmpmcnpZeGZuSXQ5WlJWSUJtMlh5dDlHa2FrQmExMEJiekdOMnVZN1h5WUZjS25vM0VrUdIBtgFBVV95cUxPTFRZSmRndUdrZGpCc2M4RkZweTZhNzlqaW9yYkVndmxVZlFJVl9IYjlEN0h5dVRvcnh0dGtzUEJTYTM4WFkzN3pSQk0wRXRNNW16X2lvWUJYYVdqeTNNZHRSWU9qeG12aHhRdHVVREZBS3FjVXVDc1B4V2F5SmZmX1hNR3lfbko1RWtwclpaZnJUWm1oOUlQOGF3aTZSYkZxTC1SbVEwR3FJNlh1ejBhOVdzcU42QQ?oc=5",
+      "date": "2026-08-11T20:24:48.415663+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.07525",
+      "date": "2026-08-11T20:24:48.415663+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.07968",
+      "date": "2026-08-11T20:24:48.415663+00:00"
     }
   ],
   "word_history": [
@@ -376,6 +396,7 @@
     "Positional Encoding（ポジショナルエンコーディング）",
     "Continued Pre-training (CPT / 継続事前学習)",
     "Zero-Shot Generalization（ゼロショット汎化）",
-    "KV-Cache（キーバリュー・キャッシュ）"
+    "KV-Cache（キーバリュー・キャッシュ）",
+    "Tool Use（ツール使用）"
   ]
 }
