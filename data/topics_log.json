@@ -1,86 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "date": "2026-07-29T22:48:13.757349+00:00"
-    },
-    {
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "date": "2026-07-29T22:48:13.757349+00:00"
-    },
-    {
-      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-      "date": "2026-07-29T22:48:13.757349+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "date": "2026-07-29T22:48:13.757349+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.25291",
-      "date": "2026-07-29T22:48:13.757349+00:00"
-    },
-    {
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "date": "2026-07-30T01:19:01.242769+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmdRV1doTFhhaFhUNWxxZW9zTnJqdU5FTVBmNDg2TWNMOHBqUQ==",
-      "date": "2026-07-30T01:19:01.242769+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.24765",
-      "date": "2026-07-30T01:19:01.242769+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.24841",
-      "date": "2026-07-30T01:19:01.242769+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.24999",
-      "date": "2026-07-30T01:19:01.242769+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0N0WDlMd1dFLUVQS1Bfd2U5WDgzVFdydjV3dVNUbHpKX3BmV2l5cWtIRDRWSlZfTHZZYW96QVd5RVliVHJUYWFCLXhnaXozT21NNWppODlGYkw0UzdNd1l2X0V4LUdnR0llajVMZ2VNS29iZEFBSU50LV8zWjhXRHpEVVp2UThjVlhjbVkySHJua3hQZTB5U1EzVUtHdEFJV0NicnhDMEFFNDJ4ek9PSG5RdEY",
-      "date": "2026-07-30T06:35:59.869501+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.26627",
-      "date": "2026-07-30T06:35:59.869501+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.24788",
-      "date": "2026-07-30T06:35:59.869501+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.26178",
-      "date": "2026-07-30T06:35:59.869501+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.26375",
-      "date": "2026-07-30T06:35:59.869501+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlpRY1MyQXl1bjU0NDRsNU9mMjF6NlliSWZMTllwV19rZjB5X2VpUzVKWE1lSmRmRW1IUkQwSm1oRVZyY1NuSVV1ZktUdmVGM3BUcy1IOEF1MkhLdTRCM0dSdENiYTQ0VTFLRmtaNHp1SlBNenpDbHhtd2h1VklwbHBETE9VR1FrZGxGamNiX0I0NHY3YlppMm5Pb1Q",
-      "date": "2026-07-30T09:05:15.365059+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.26060",
-      "date": "2026-07-30T09:05:15.365059+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.26300",
-      "date": "2026-07-30T09:05:15.365059+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.26497",
-      "date": "2026-07-30T09:05:15.365059+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.26654",
-      "date": "2026-07-30T09:05:15.365059+00:00"
-    },
     {
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "date": "2026-07-30T21:50:38.835703+00:00"
@@ -376,6 +296,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzctODBHN1loZGM0T2ZUdEZaRUxZcGpaUkZaMmVISFhwdFJBbmljbXlWNjBRaGZkZm5LU1JVRHIybkNRQnZsOXBwTzdrRXFEM0txa1lGV24xNlFzaTM3aFJwUWhycmluYmg3TDVfcnk5WW82WXI2cURWOXBsZ21rRUtXa3JfSFVvUGNPZENJZkplVm1peDRqQWsxbzlXZTlIYkN2Mm14TEF2em1LZE9GeGRtMVkzal91RjEwNjl5Qk5MWklIUjlkVnBNQW5mdGlwd21jVDlWcXBqU2V3dUtpYTE5d2Y1ZVZIZ0JzajJqbEo0cEdaVW8tV2tV",
       "date": "2026-08-12T20:21:39.194142+00:00"
+    },
+    {
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "date": "2026-08-13T20:04:39.579397+00:00"
+    },
+    {
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "date": "2026-08-13T20:04:39.579397+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c",
+      "date": "2026-08-13T20:04:39.579397+00:00"
+    },
+    {
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "date": "2026-08-13T20:04:39.579397+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3anJpcVhsUGY1OUZOV3ZodnlWUzBIRnNYbGRDLTlFV2sxR1Bsem1FRlVrUzlTWUZoNmJzVWpISUgtXzg1ZnZVYlFHVHdaSXhzNThPazhCd0J2WThzYzRlb2dOa1dYQldHYi10Mw",
+      "date": "2026-08-13T20:04:39.579397+00:00"
     }
   ],
   "word_history": [
@@ -398,6 +338,7 @@
     "Zero-Shot Generalization（ゼロショット汎化）",
     "KV-Cache（キーバリュー・キャッシュ）",
     "Tool Use（ツール使用）",
-    "Specification Gaming（スペック・ゲーミング）"
+    "Specification Gaming（スペック・ゲーミング）",
+    "Context Window（コンテキストウィンドウ）"
   ]
 }
