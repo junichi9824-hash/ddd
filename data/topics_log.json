@@ -1,22 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "date": "2026-07-30T21:50:38.835703+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "date": "2026-07-30T21:50:38.835703+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUEI2NXVnZ0Z0UFVQVHN5WV9yb3VJamNGVWdkVEtWMzNjQURtbzQ5bU80c2sxbGU5WE9YeTVWOFV6TGJ2MkptNnc4SUI4WjhJM3FCWHJveVkxSl9Cd3JlM3l2S3FJbXhXNUxCa3c2YTA1Ui1aMmVoeHFBZXpUMjJ5dDBZbHE4Z1RTQ3Jjay1vMVlxWlZLZGR6TzFscVV6azVTRy1RWTFjbDZwbmhWYjBDV2g5d0tDTHNseXdMR3o5aFJGRU8zNHpPM283cnEzN1RCYkhJ0gHYAUFVX3lxTFBkTzN1T0UwVlhKWHpreFVGZEVPRUhKR2xGTjJHYzc5YTV3eEU0OHB4MFhqZW95QzVfRHV5SmlNMkd2ZlAtVThRRjJWOTFwR0lRX09OQ2FCVGp3cVMtMDRQNU5aajN6bUdqU3FvZUJ2M3d6SFhmbDI5SG5XQXlZdldOa05rZzVQY2xmRTEtQ0RPRHMzbVZ3SnhZc0NyeFlfeGpGTFBZMWsyWkY0UHA0N0x0bWtrQ1VXS2F3VE96cU9EWmZ0Q1R2bEJ1cjBFdGxqdy1iem1NTnFQYg",
-      "date": "2026-07-30T21:50:38.835703+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTFwY0dWVFBQSmtTUlNTUkVEcUxJRjhxM0RjaUdpOEpBTWtLV3pBOEpCQlJ1WVRDM2JWOHpYOHUtcDMzWngxdEllMS1vVVhaV3lKWFFaZE1YYURfRkpoUTczQlFaT3p3UGRtemlzNTNUUENYS1FnV3ltWWpRSU5OUk1zZlNiVENobmFRbFZFeXJGWlUxUWdMYmRqMjlOV2Z1blJRUjRpbDdvb2x4NHo1QzdlLUU2NjdQWnhVYnREWUJabWFFQWhpcS1DbThHQQ",
-      "date": "2026-07-30T21:50:38.835703+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV3o4YXZVWEZta2NwZUlsbXd0QW13UkJhSzluUUFyT2E5VkU0OThQZ2xjakpzV25KYTdPQVVKQ2RSZW5uSE13VUFaUThlUHJkckJySnBiTWJHdTk1NER2cFJoaWN5bWNBdlRSdDU1UmcwVzBFcG9obUZ0RG11NUJKX19oYXBMem02anZ1aGFmZC1HaFJRMnQ4eXJmRlpOVXlfMl9BUHI3ZmJSaDlIVk1adnZrVEcwR1R3VHhaUT1scE00UjZod1lGNzRXcnE0b2xJUmc",
       "date": "2026-07-31T21:48:36.711835+00:00"
@@ -316,6 +300,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3anJpcVhsUGY1OUZOV3ZodnlWUzBIRnNYbGRDLTlFV2sxR1Bsem1FRlVrUzlTWUZoNmJzVWpISUgtXzg1ZnZVYlFHVHdaSXhzNThPazhCd0J2WThzYzRlb2dOa1dYQldHYi10Mw",
       "date": "2026-08-13T20:04:39.579397+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0hZUGVrZmdGTmVpTkVseXpHNzFmZ1cxaUdrT0I0Q1ZVYjFlVnZPdDFUZkV4RWdjMEpoUGxyQ0xEeHJ2VWVKZ0ZLZHc4bURlcEJyVWpUaWZXT0xqR3ljTmZXLXJjZ3FDaHFmRkVkanF1MHhRTlU3dTRtLWxJbDBFVTVB?oc=5",
+      "date": "2026-08-14T20:02:51.497308+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVVWdThLeXZqbHlybUdPMkRCSXBheDh1LXNjU1EzT1JFMHZUX1ZfWGQ4ekNNRlFjd3pKbmZPbHFJd2Y4QlVzbTNjejBGZWFMU2YyelEtNlp5Y21JWENQNzFHSXVJcW85bk8wcFBxVEVCaG5TSEdxRGRHMGY1Vk53emRzeTFEXzFWVl9UQlBBZUFneGNEWUZnYzFpVWU5UG5DX2NkQ1ZVc1NBV19tYzdWdU5QZkR1Zw?oc=5",
+      "date": "2026-08-14T20:02:51.497308+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0JXWjNoMDQ1Zl93ZWRmejA4djlQQzVodHhYb0lCQnJqSGtFbUxTUDQyYnI3NmN6NF9aazJRTkx4YlZ6b2ROVzNPQUpKTTgtVGh2bDU1aUE0RXItRUV0RE1tckNPNjhoUkxhNUs3ejBJNVAtZU1LMDR4cllacVBDZjV3UU96TnFMbkxqaUdTa3pacWhneDVUQmpLd1hsMmFrcGlB?oc=5",
+      "date": "2026-08-14T20:02:51.497308+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0U3dEtvVWEtc1BnWEV5T1E2aWQ0SWdOaVVFUlFkb2piTV81NDFIVzBqU29FVzhIWFRXUkNrOFh4cFR3dEgyRlRTdlhyTUw1WFFCQTdpSnVicmlhZmNwZXkyNkQ0c1AyWld6eld4NU1RMTFOenExVWJvejNpVVlLZEk3dWhmdG9aR2xuS0lablVrclBiTTUxVWxzLXBPdVk0VTA0WTdMOVRSTmFPVmhGRF9HMmd2eE0?oc=5",
+      "date": "2026-08-14T20:02:51.497308+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "date": "2026-08-14T20:02:51.497308+00:00"
     }
   ],
   "word_history": [
@@ -339,6 +343,7 @@
     "KV-Cache（キーバリュー・キャッシュ）",
     "Tool Use（ツール使用）",
     "Specification Gaming（スペック・ゲーミング）",
-    "Context Window（コンテキストウィンドウ）"
+    "Context Window（コンテキストウィンドウ）",
+    "Attention Mechanism（アテンション機構）"
   ]
 }
