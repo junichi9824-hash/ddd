@@ -1,26 +1,6 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "date": "2026-08-01T20:43:13.911436+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04emlXWXpVQXhNcjJsU1d5ZmhnU1J2TFRyeFlxM2hqUUNUNVR2UmxFQUNBanYwWnd5ZUpTRnptVEh2TXU2NU5aa0FRbFV6ejVPd2wxWFNXa3RoaTZPQ0dQSHc0Tkk4WE93Q1JwV0tIWGNBaGNG?oc=5",
-      "date": "2026-08-01T20:43:13.911436+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdGtLdExtU2pqTURVM1dmdFpFR19NNjBaRFd2Tk1kclFyUGpjNkpDd0JzSDFDc3FDeE9uTC11eXVQcXJlNjBzSzRiVTNrRmtmeG9jRXltWG9aVng4UkZUUjlBYTRic3RsY090TjZMdlNCY1dsZFNEZmd6X0l5RnJteGM3cWNZcVVWbm1PZS1pdTh5anJfS0txRGk5R05sNlBLWGxDX3NqaFZzQnd2ejdJV0NsbEVmb05Mc3VkZkxBbDVycDJ0NjBTa3BSM3BTdXBzbFFCczZobHVjSlF4UFREbU9wRzhDYlVJ0gHuAUFVX3lxTFA1Z2pzN1VUY1lGSjdRbHpyWldFUlo4QzZqUXIwRER3SGtOUFVqSWwyQk91cThXZEdONldlRFlCTXZMYlppQVFjc096UENHSDVpdHJsOFJPODJsbnk0a19pN01BTmR2QUNZUGhtV1ZJd01tZno4cHFaZDZZVHM4bHFSWGhuMGdkc1Z4emJuVEp2akZiQTJ4dndNT0xRRmdFQ1liZGZYZ2lRb3Q1LXB0Y2F3N1Vwa1drWDNuTHRjWl96bU9GM3pkNWdGalNoRTFEUHRlWHhXVTZiWDFTR0RUOTQyYU9fTmlURjVfMHlLWUE?oc=5",
-      "date": "2026-08-01T20:43:13.911436+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWlVnUFVUZTZ6ZWVnTElrblFhMVNfRHFhWXpLRjlzaWhtNUVmRFRSNFNxQzgwZXVGaUlOVGl2NmgtRTdrLW5GcXdjVjRuVnVZdXlPazYtdHIwMWZqcjBLWmNBaFBrWUh3T1Zqa3hxZlNyYU1Zc1dlMmpaVFR4ajhuc29KRlZHUGdxZ1dhQ2s1RGxyZVAtRlZMbWFIaXZacjFnZ200ODF1TzMzakczZHhMemhUbDdqUy1KX0RhRE1HVTdQd9IBwgFBVV95cUxORWdsQUZ5UVZBdDUzb1JJMndsbW1SUDdXcjJJSGdvb0dvRklzMlJkSUtKRWNRSHVac2Y0MmxjZWtiNzRWSEJ5TVp1dzR6RmJER0xKOEZzQ09vYW9qdXZnNWxOWVY2MFdnVlY2QkN2LU1Ja25SckJGdWQ5NWt4dGxMUHN5cTZZOFI5Z182bGVHLTM0NlFsN0ZLNExvT3RabFNtaUppdXcwTEFYRlRFZjRBeHEtbVg2bmpRVllfaVh3VDJPdw?oc=5",
-      "date": "2026-08-01T20:43:13.911436+00:00"
-    },
-    {
-      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-      "date": "2026-08-01T20:43:13.911436+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV0VybHVwcTZ4bTJzLUpIcmNxXzZmekZfOURjaGtncmRjdF9CSXJmUzFNbENfdnFYTDl0RUl1ZHN3REZVekRoR181dk9oYW1sTGU3SVF6QTZnQ2J4dm5URUFFMWxkSld1eWszZnEzb1ZuaXQtZ1NCRWhBUlV4eGM1a2dYb2liS25FQkJNRFZwTlMzSTF3aHRXVXFGV3ZGZFRnaGRMT2J5cUlwN0prY3FoV2lwMkNDN2hYeHF3T0drWFlBTXE2MHhRajc0eWZkRHd4OFRn?oc=5",
       "date": "2026-08-02T21:13:49.719277+00:00"
@@ -320,6 +300,26 @@
     {
       "url": "https://arxiv.org/abs/2608.12373",
       "date": "2026-08-15T19:01:10.628183+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBENmJOcWJDcGR0blh0cDlCQkk1bmw4a0s1NGZ3TVphR1A0bU1YWlBJbVFfaWFpc1dLeU1JQWJmNjZlN0F3ZmRSR3VZc0w2Z2w4dWpsdlpKWTJFTzZYdzRXRUxn",
+      "date": "2026-08-16T19:01:09.996574+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT09QYS1lYWxjTFFrbEtpUE9CQWVBajI5S0E2SG1vLWxvVkMzUHVGLTlHNkc5dTJUWGxBdmJQMmpkNTFsS1FqT2wzWGtfMnBFbHQ4MTF5TkxiRlRuQUdUaWRxdkZORko4N29hM1dtdlJ6cldnUTdaQmotSF92cGxoOW5OV0IwWDcwRS0tRjBZN2E3NllfbjIwN1lDNFcwVUxJXzlOQWdlSWlWTGxCNkptZGpwdzU5V1U",
+      "date": "2026-08-16T19:01:09.996574+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PaVY3SmR5ZTdvVHlOdXdxUmltX0ZFS2lCdGZjeTZDWDZncm9oamxRQmRPamxyY3FUa2ZDTkN6aVpCUmJkMGttTEFUXzhVcV91SW83RmhzY0ExcnpoVlZCYmRHcmF5YUlSYlZwcDNUbkZpUl90",
+      "date": "2026-08-16T19:01:09.996574+00:00"
+    },
+    {
+      "url": "https://littlelearner-ll.github.io/",
+      "date": "2026-08-16T19:01:09.996574+00:00"
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "date": "2026-08-16T19:01:09.996574+00:00"
     }
   ],
   "word_history": [
@@ -345,6 +345,7 @@
     "Specification Gaming（スペック・ゲーミング）",
     "Context Window（コンテキストウィンドウ）",
     "Attention Mechanism（アテンション機構）",
-    "Adapter / アダプター"
+    "Adapter / アダプター",
+    "Benchmark / ベンチマーク"
   ]
 }
