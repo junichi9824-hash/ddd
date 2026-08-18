@@ -1,26 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "date": "2026-08-03T21:53:12.921138+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnd6ckhOVUhwcGJjRmxRdlhObS1ncXRhZm9OeVUwaEgwOTg5YmNBTGVWcHZsdXd4dXVrWWdlZGtsYkw0eDIyY1A3NjdSM0o0bFBGUEZRNDF2NjYwZEtCamNpeTFqN3ZaQVlTclNuQWYxNXh4ZVlqaWF3WkNNVk1fbmJXcTdISlBmUVVWS01STmFYZldLSGk5akJQZVB5X09OSzVoVWF4Wko4TEF4cGozQUlWM202dFJWMGxSRTdpcTNaaUp6bmNyZXpWbVRFb2JoSzdCVQ?oc=5",
-      "date": "2026-08-03T21:53:12.921138+00:00"
-    },
-    {
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "date": "2026-08-03T21:53:12.921138+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28966",
-      "date": "2026-08-03T21:53:12.921138+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-for-nonprofits",
-      "date": "2026-08-03T21:53:12.921138+00:00"
-    },
     {
       "url": "https://arxiv.org/abs/2608.00146",
       "date": "2026-08-04T22:21:07.267457+00:00"
@@ -300,6 +280,26 @@
     {
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "date": "2026-08-17T19:18:18.451630+00:00"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "date": "2026-08-18T19:35:59.566152+00:00"
+    },
+    {
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "date": "2026-08-18T19:35:59.566152+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1RUX0hsd3JSTUh3ZzQyM09NeUlDclVQV3dqV1h4WkdPVWpUUDBORlMzMDNtNUctWVV0LTkyUkJPdkp0SDYxREhIcmlUVDU0dlZNWlVrcmRCSHZDazdXMFRQMEkzUWVuWnNidTQ0Q1RtUzMxdVpGTHBfYTYxT2NZd3hJSW55U3BLaGFvd2FjQVp5SFdWX1VPanpSYmdHMUEtVDNKUlgyNVVLMFFkYTctYXpVUDhQZw?oc=5",
+      "date": "2026-08-18T19:35:59.566152+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVTGlZZ3VYYjJ3YjlGVnJ2UkJ3X05PMDdrNENPWWdCaldVbTFNOE9NazZ4c0Q5ZGZ6MlVIUjFmT1VkXzBzem9LMDY1bUpMX2hDbWVmLVpYTEhQN3htYng1YjZHSXEwVDB5cnJTcExBdVhfcHFvemQzV0M4MA?oc=5",
+      "date": "2026-08-18T19:35:59.566152+00:00"
+    },
+    {
+      "url": "https://openai.com/index/asana",
+      "date": "2026-08-18T19:35:59.566152+00:00"
     }
   ],
   "word_history": [
@@ -327,6 +327,7 @@
     "Attention Mechanism（アテンション機構）",
     "Adapter / アダプター",
     "Benchmark / ベンチマーク",
-    "Token Budget（トークンバジェット）"
+    "Token Budget（トークンバジェット）",
+    "Memory Substrate（メモリ基盤）"
   ]
 }
