@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://arxiv.org/abs/2608.00146",
-      "date": "2026-08-04T22:21:07.267457+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qSXpHdVRCQ0xvUDBuTUdLOW8tQXV4R3IwVkNLN2NLaFZpbC1tem1JTjRSMDlDR1hWRVdLNmIwWDk4WkNZRHBMSDhydWdNajVhWndLdE5zdlRTM05nZEFUTEhMUVViWElRY1VINVpxUG1RNW5lZXkxbzhESU4",
-      "date": "2026-08-04T22:21:07.267457+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ0hlYmtqNlh6VTBqdTgzX3U1Nzcxb3JiUDA5LXQtZGlpTm1yQ0hyT2g4bl91OWl2WGI2d2FiS1ZOanZBcmZIdFV6SElVS28zUy1FNnQ1ZXpoN1dRTk9pU0NSQmFpQ2pwYnF3Qi1oRjRQWHFyYXZ6TWJULVlEWm5fX0lrbWhwblViWWZ2U0lMYXBBei15bGE1ellNbTg0QVgxV2preHlVdlR2YWhGbFNCVnJ4RlJSQQ",
-      "date": "2026-08-04T22:21:07.267457+00:00"
-    },
-    {
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "date": "2026-08-04T22:21:07.267457+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.00004",
-      "date": "2026-08-04T22:21:07.267457+00:00"
-    },
     {
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "date": "2026-08-05T22:18:51.045358+00:00"
@@ -300,6 +280,26 @@
     {
       "url": "https://openai.com/index/asana",
       "date": "2026-08-18T19:35:59.566152+00:00"
+    },
+    {
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "date": "2026-08-19T19:12:55.783849+00:00"
+    },
+    {
+      "url": "https://openai.com/index/replit",
+      "date": "2026-08-19T19:12:55.783849+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVJ2aDZjWFFmalp0LTJPeS10andIdzNKOE5SS29EeWw3ZDQwTUZ3RkQ1NHluV0NPTnBvZkQxT1JqREo3SE1zdVVWZEJwaDNPTGM5X19JVFVCdkFkR20yalgxUVpzV1l4QWR1d3JNR21pT3VsSVhOVUlWTFczWUYxS0x5dDd0WWRkZW5Udk1VYXJfSnpaRmYwVGY4b2hzamRtOTQwdFM5NmhmN29KV0s3cA?oc=5",
+      "date": "2026-08-19T19:12:55.783849+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFR6bW50VXpUSUN4WjF4SDN6aEIzX0lWeE5iXzBfT0dqQk1ZS0pzalRpbEJNVWFDX2F6UkFFY0dzOE5mb0RKNEZTVERGSDVlcmVLSWlINll2VjlKeHVURnlaMGJhZWhYbUFuc1E3Uk5fOExZMFVOajhCU0tyT1dlVTNaMDR3Zk14MmE4NzRR?oc=5",
+      "date": "2026-08-19T19:12:55.783849+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.17153",
+      "date": "2026-08-19T19:12:55.783849+00:00"
     }
   ],
   "word_history": [
@@ -328,6 +328,7 @@
     "Adapter / アダプター",
     "Benchmark / ベンチマーク",
     "Token Budget（トークンバジェット）",
-    "Memory Substrate（メモリ基盤）"
+    "Memory Substrate（メモリ基盤）",
+    "Data Poisoning（データ汚染）"
   ]
 }
