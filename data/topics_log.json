@@ -1,26 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "date": "2026-08-05T22:18:51.045358+00:00"
-    },
-    {
-      "url": "https://eu.36kr.com/",
-      "date": "2026-08-05T22:18:51.045358+00:00"
-    },
-    {
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "date": "2026-08-05T22:18:51.045358+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.02609",
-      "date": "2026-08-05T22:18:51.045358+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.02616",
-      "date": "2026-08-05T22:18:51.045358+00:00"
-    },
     {
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
       "date": "2026-08-07T01:54:12.573014+00:00"
@@ -300,6 +280,26 @@
     {
       "url": "https://arxiv.org/abs/2608.17153",
       "date": "2026-08-19T19:12:55.783849+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "date": "2026-08-20T19:46:34.146235+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcXV3OWFwQnlLWkwwZUlpUFBBOVZzWWxjQXJuRVd5cUN0NE13TlYtNW40Q090RzZHM09ydnZva2h2czVqZllxWkgzWU1ma0lxSFhSdWdCY3ZfZDY0MC1xSkFETmdYdUMzSVlJY2ZPZUxPZVA5RlJuWUNyMUNlWEUyV18ydDFJSzBrLWlTcVE3Y0JQTnk1SVZGLVhERmFTdU5WVENmcWo4cFRfUQ",
+      "date": "2026-08-20T19:46:34.146235+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18131",
+      "date": "2026-08-20T19:46:34.146235+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JY2Q2cmVRYUNLTV91V2FPZ3h0c3FEdjdhMFJHSklqMFJvRnpmZ2xZdUNqRm80OW1OdFNoampmakFWZlhPZ19uQ00ycE9FY2dnUzd3UlVUNmlEVG9CV29kVXA1Z2dYcm9xT3JtU1dxd0ppdVdKVmc",
+      "date": "2026-08-20T19:46:34.146235+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18082",
+      "date": "2026-08-20T19:46:34.146235+00:00"
     }
   ],
   "word_history": [
@@ -329,6 +329,7 @@
     "Benchmark / ベンチマーク",
     "Token Budget（トークンバジェット）",
     "Memory Substrate（メモリ基盤）",
-    "Data Poisoning（データ汚染）"
+    "Data Poisoning（データ汚染）",
+    "Agentic AI / エージェンティックAI"
   ]
 }
