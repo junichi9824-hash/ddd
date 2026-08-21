@@ -1,26 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "date": "2026-08-07T01:54:12.573014+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQajRiOXpEcXlUXzRDSlE1cTYyZy01eVlUTjNITHZ2R1gzNjRRMXZfV18wUzYybzA1UUx5d1pzbFJzQWtCRnJGNGYwWmtIOUZuOUZfRHFWWnl1NFhPOTdqSTBwdFhnQk9qd1BhNkZhWGJobEZjTlFmLUQ2ZEtQUDNTX0JhWmc5M0VyZERVZWdVTkFmTlkzS2owME1PUVdYZVFvaV95TXA2MWhBUllSMWFsZjRTRlVQTEMyT1NYbDZMV2l0SjJNOVM3dU1B0gHKAUFVX3lxTFBvdmpuQml3NFBuU2JNWmY1RkdRVS11X2dEbHAzYmFkVW5YSXNKYWNmVWJ6MDROY1lxZS1odWlmRVZmUkZNNlNsNzlteUQ5SnhMMy1TMUZadUFqLUdFUEhDTFJsX2xiTUtfX3Z0bGZNMXUyTm13d0xWSzRuNHVhNk9OQUQ5NEVYMHZYRFB1aWhRaG56c1ZqVmE4YlcwOUNVMXdoVnFsTGNKR050LVNuUHVSN3I5UkdzN01qb2ZUSHh1NmxzSjZVelowbXc",
-      "date": "2026-08-07T01:54:12.573014+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxMcEhPOVRWZ25kVXA0VlpBaGpJdzRGdHNXY2JJM29sTWVZTEhJQkwxQVl5ZFB6NXhESlBiZXB3V1dwR1E1V2tFenp3aDFfbG5rQjRta1NuT1JwSzlGRE1NTHdvb0gybzFLQ0NqOXdiVXNUUVl2cXdfaFM5Y2hlZHJ4R2lEMlA1RXQzSFVueQ",
-      "date": "2026-08-07T01:54:12.573014+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmRraEV3dUtWanpMeEpLczAxNnZreXI3N2dhRFp1RkdiQy1sR0NKOE9nbjFqWExjRGZlelMzSU84dW83Q1VFU1pGT3pXc3luQmg2X25YRjQtT3FON1JFQ0JuN1FSYkNSNF9SVllwRTA2M0ZudHppVHl0U1ZMR2l4dTdKWklMeUdoeTFNdFR2bVdrZmpxaEtJZV9rZGhoMnM0S2R6WWxlTEFGakZQRUtTWWZn",
-      "date": "2026-08-07T01:54:12.573014+00:00"
-    },
-    {
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "date": "2026-08-07T01:54:12.573014+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWlxY05iSlRiWm9ISG5HVEVIX01yLTlUbmE4UDRkd1VtNTJfUEg4VE9UMGw5aGtvXzlkeDNVVy1mQVJESXlSOW9McUo1VTVxRU83NGdtT01reVB4aXp5VU9jNnFxSHFidDN5LUtPSUVqaWtGX181V3c3Vm83OHpkaEpWUTlDcnc1SF9QNEtYYmxpalBTd3YxeGl1S2ZNcEZ3MFRHLVhFRkF1d0ZOelhHZkhkZ24tcFp1bS1sM0JUMTAwWnFWSk96VnlsMEFCN21q0gHQAUFVX3lxTFBCZXJtRVB3R2otOVhZTzNtOTNQejJKT2I4ODd6aDdGYXlHYWJlWXVfWGdVcDFQdkpZakRPZDkxNmFDX3Z5dTlYZ0pUREowWmZyTzBwWUt6dkJJU2w1RDFFbU5GckRYNzZMVWtOaGtFSHhNTFZFbnh0bl93a2FfcXoySkNXTXI3dWVmUVdibGp6RjhRSmtmZkFZTk5XYkZxUEZSelY4aWhPUmt4OXFUWTcwWDRNSXh5WW1Cb2VXY2ZKLW5paERxVFJIZlltT0hweGk",
       "date": "2026-08-07T20:06:11.677490+00:00"
@@ -300,6 +280,26 @@
     {
       "url": "https://arxiv.org/abs/2608.18082",
       "date": "2026-08-20T19:46:34.146235+00:00"
+    },
+    {
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "date": "2026-08-21T19:16:40.603651+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "date": "2026-08-21T19:16:40.603651+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19203",
+      "date": "2026-08-21T19:16:40.603651+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19437",
+      "date": "2026-08-21T19:16:40.603651+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19662",
+      "date": "2026-08-21T19:16:40.603651+00:00"
     }
   ],
   "word_history": [
@@ -330,6 +330,7 @@
     "Token Budget（トークンバジェット）",
     "Memory Substrate（メモリ基盤）",
     "Data Poisoning（データ汚染）",
-    "Agentic AI / エージェンティックAI"
+    "Agentic AI / エージェンティックAI",
+    "Multi-Head Attention（マルチヘッド・アテンション）"
   ]
 }
