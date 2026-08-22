@@ -1,26 +1,6 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWlxY05iSlRiWm9ISG5HVEVIX01yLTlUbmE4UDRkd1VtNTJfUEg4VE9UMGw5aGtvXzlkeDNVVy1mQVJESXlSOW9McUo1VTVxRU83NGdtT01reVB4aXp5VU9jNnFxSHFidDN5LUtPSUVqaWtGX181V3c3Vm83OHpkaEpWUTlDcnc1SF9QNEtYYmxpalBTd3YxeGl1S2ZNcEZ3MFRHLVhFRkF1d0ZOelhHZkhkZ24tcFp1bS1sM0JUMTAwWnFWSk96VnlsMEFCN21q0gHQAUFVX3lxTFBCZXJtRVB3R2otOVhZTzNtOTNQejJKT2I4ODd6aDdGYXlHYWJlWXVfWGdVcDFQdkpZakRPZDkxNmFDX3Z5dTlYZ0pUREowWmZyTzBwWUt6dkJJU2w1RDFFbU5GckRYNzZMVWtOaGtFSHhNTFZFbnh0bl93a2FfcXoySkNXTXI3dWVmUVdibGp6RjhRSmtmZkFZTk5XYkZxUEZSelY4aWhPUmt4OXFUWTcwWDRNSXh5WW1Cb2VXY2ZKLW5paERxVFJIZlltT0hweGk",
-      "date": "2026-08-07T20:06:11.677490+00:00"
-    },
-    {
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "date": "2026-08-07T20:06:11.677490+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ",
-      "date": "2026-08-07T20:06:11.677490+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05254",
-      "date": "2026-08-07T20:06:11.677490+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05152",
-      "date": "2026-08-07T20:06:11.677490+00:00"
-    },
     {
       "url": "https://arxiv.org/abs/2608.05151",
       "date": "2026-08-08T19:44:37.657209+00:00"
@@ -300,6 +280,26 @@
     {
       "url": "https://arxiv.org/abs/2608.19662",
       "date": "2026-08-21T19:16:40.603651+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjh2ZHRjbTBkRkxvTWRFbW5ZaU5NWXlpOGlzOFduOFZ6ZjJubTVhd05Za1FPUVRIQ1g4UVJzX3FOc3dvUUwwN1BURmZydXpwSVdGUmw0LVhsQTBXM3QzYkY0cHlndWpzcFpUWnVEcnpaQTY2LUN6U1RPaEt3OUZnWldVd2I0eUp2d3NlME5nQlRwZXc3a0FlNDY5bnZsWnoyeUpGMHBfWQ?oc=5",
+      "date": "2026-08-22T19:04:09.603136+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjh4T2ktbGhlTHhNRThtci1wRkEwZDR2Um5fdGcycDdQNGJCcDllWVRMd3F1M3JnLWZuRUxBOTFsR2c4cGVQZDRWWTdad3JIT1pNdENGOVJQNjZDOFdlRkV4czV1b041N3dNWlZZZUlPckVMTFZjTVhOdzhnNHlTR3Q0YTRFLXVBYlNGbnBYOWlwZXB0eERSUThkSGpYZzQ?oc=5",
+      "date": "2026-08-22T19:04:09.603136+00:00"
+    },
+    {
+      "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
+      "date": "2026-08-22T19:04:09.603136+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdWNUcWFXalVtMTYwc0RBRjM2cTNIY1IxTkdYWFowRGRsNTE0MHR0Y3ByeElHMWxXSXRBSzBzNHViNzItSVl0TzdncERNV3lIY3d4WG5nWHRxQVk4WHR4aFNoVlZ6U1JUdlBmVWYzTHZKOUlJV1NEVHF4RVM2VUNmZnVNUS0zRDRvd2F0d3dNX3AwWUx6SnJmT0RnRHFULU15dlc0dXVmdXBDX0ZndWtIRkFtVVVfendGTEdDYmJadWN6Tkg1andoNHJYX2JJODg2UHR6SUYtcmpta2t5bVV0bTBNUnlPeXB6RTgxQUpXNkxMUVp6QzVNSg?oc=5",
+      "date": "2026-08-22T19:04:09.603136+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPTnVHQjctTjRVNUxXVlJlSUJNLTkxT0c5dThEVjUxaG1wUTJ2QWdKMkVfWFNnbjVwV2ZCOTFodG1oTldUWUw1enVpcnJJd21pUVNEakJtdHdrYmlEWmNCcFFvMGpWYXp1SVZUSUVqbHQ3NC1aSW1CaWZjTXJsZnFiTTI5aXU2Zi1raUpJLXIwTVAwYUxkbDM1VmVuXzBUR0dwMXIycnVCUVNLbmNZMkduYldENWdGRXJqcVZSZmhGR3B6cDJYeHF4Vk1wbnBhZWRpV2g5NzdLMGdyNG1yUmhSSi1QOThrNXFYZDZObUVoZnkwam9TVVpnNDZXRkcybFBHQjF3NVNTTWw0dDFCSGhYME5UVS04MG1PUGdyMHRyZWE?oc=5",
+      "date": "2026-08-22T19:04:09.603136+00:00"
     }
   ],
   "word_history": [
@@ -331,6 +331,7 @@
     "Memory Substrate（メモリ基盤）",
     "Data Poisoning（データ汚染）",
     "Agentic AI / エージェンティックAI",
-    "Multi-Head Attention（マルチヘッド・アテンション）"
+    "Multi-Head Attention（マルチヘッド・アテンション）",
+    "Fine-tuning（ファインチューニング）"
   ]
 }
