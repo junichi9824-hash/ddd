@@ -1,26 +1,6 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
-    {
-      "url": "https://arxiv.org/abs/2608.05151",
-      "date": "2026-08-08T19:44:37.657209+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05153",
-      "date": "2026-08-08T19:44:37.657209+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05158",
-      "date": "2026-08-08T19:44:37.657209+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.05188",
-      "date": "2026-08-08T19:44:37.657209+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "date": "2026-08-08T19:44:37.657209+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcDVVbTdOQ0pSUi1YeVphVExQdnltbEhZYWRtajZHWkNuOTAtSFhieldQY21MaXRlbzloR3lqelRBUWFNS1ZYZ1d3cmRXSGFQeFJvUnJDVnZsbDk1THNaNGpqdlZYTGR3RWZ0TURYVGpVLTc5Si0yVjdReUpUQjF0aXpzckV2R3BjX05QZTF4U2xITDQ?oc=5",
       "date": "2026-08-09T19:51:22.633684+00:00"
@@ -300,6 +280,22 @@
     {
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPTnVHQjctTjRVNUxXVlJlSUJNLTkxT0c5dThEVjUxaG1wUTJ2QWdKMkVfWFNnbjVwV2ZCOTFodG1oTldUWUw1enVpcnJJd21pUVNEakJtdHdrYmlEWmNCcFFvMGpWYXp1SVZUSUVqbHQ3NC1aSW1CaWZjTXJsZnFiTTI5aXU2Zi1raUpJLXIwTVAwYUxkbDM1VmVuXzBUR0dwMXIycnVCUVNLbmNZMkduYldENWdGRXJqcVZSZmhGR3B6cDJYeHF4Vk1wbnBhZWRpV2g5NzdLMGdyNG1yUmhSSi1QOThrNXFYZDZObUVoZnkwam9TVVpnNDZXRkcybFBHQjF3NVNTTWw0dDFCSGhYME5UVS04MG1PUGdyMHRyZWE?oc=5",
       "date": "2026-08-22T19:04:09.603136+00:00"
+    },
+    {
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "date": "2026-08-23T19:02:44.274163+00:00"
+    },
+    {
+      "url": "https://www.marktechpost.com/2024/08/23/harvey-introduces-harvey-tenet-a-kimi-k3-base-post-trained-with-fireworks-for-long-horizon-legal-agent-work/",
+      "date": "2026-08-23T19:02:44.274163+00:00"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2024-08-23/deepseek-ends-weekend-peak-pricing-for-api-users-from-today",
+      "date": "2026-08-23T19:02:44.274163+00:00"
+    },
+    {
+      "url": "https://www.scmp.com/business/article/3274515/african-businesses-keep-options-open-chinese-ai-gains-ground",
+      "date": "2026-08-23T19:02:44.274163+00:00"
     }
   ],
   "word_history": [
@@ -332,6 +328,7 @@
     "Data Poisoning（データ汚染）",
     "Agentic AI / エージェンティックAI",
     "Multi-Head Attention（マルチヘッド・アテンション）",
-    "Fine-tuning（ファインチューニング）"
+    "Fine-tuning（ファインチューニング）",
+    "Scaling Law（スケーリングの法則）"
   ]
 }
