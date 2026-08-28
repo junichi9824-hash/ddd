@@ -1,66 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-08-11T20:24:48.415663+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVF91bFhmQWlENEZCSG1kcEpjZUx4VzVfbzVwbm5vYlB6bHBBV1RCMHNWbUxjQmplUUY4NnV6YS1ieTBfQV9rbmxNT2pHdkZLTUpwamFOS2c3SHJnY01iMDZrQTFDMEk5dHFZMDVteWU4ZHpwWVBIdjg1d3dvNmQ2V0gyOUlHZkx2TTNoSkl4NWdyMzloMlQwWWhkWnZpNzVzR0Jj?oc=5",
-      "date": "2026-08-11T20:24:48.415663+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnJ3QWt1N092NUJ4U2wwX1lTb2RwamhMLVF4S1pVMTR0ZFc2T2JpQUx1Y2RnbllwZjhCYUJhYXEwQ0ozVWZjZmU5NDM0dG85WE5ZY3Q3eGEwdTdhM0pZUnpvcEYybkptbDhSOXpZNThlYW5Tc2k0N2lldXF3VnVrMTJOUmpmcnpZeGZuSXQ5WlJWSUJtMlh5dDlHa2FrQmExMEJiekdOMnVZN1h5WUZjS25vM0VrUdIBtgFBVV95cUxPTFRZSmRndUdrZGpCc2M4RkZweTZhNzlqaW9yYkVndmxVZlFJVl9IYjlEN0h5dVRvcnh0dGtzUEJTYTM4WFkzN3pSQk0wRXRNNW16X2lvWUJYYVdqeTNNZHRSWU9qeG12aHhRdHVVREZBS3FjVXVDc1B4V2F5SmZmX1hNR3lfbko1RWtwclpaZnJUWm1oOUlQOGF3aTZSYkZxTC1SbVEwR3FJNlh1ejBhOVdzcU42QQ?oc=5",
-      "date": "2026-08-11T20:24:48.415663+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07525",
-      "date": "2026-08-11T20:24:48.415663+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.07968",
-      "date": "2026-08-11T20:24:48.415663+00:00"
-    },
-    {
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "date": "2026-08-12T20:21:39.194142+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "date": "2026-08-12T20:21:39.194142+00:00"
-    },
-    {
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "date": "2026-08-12T20:21:39.194142+00:00"
-    },
-    {
-      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "date": "2026-08-12T20:21:39.194142+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzctODBHN1loZGM0T2ZUdEZaRUxZcGpaUkZaMmVISFhwdFJBbmljbXlWNjBRaGZkZm5LU1JVRHIybkNRQnZsOXBwTzdrRXFEM0txa1lGV24xNlFzaTM3aFJwUWhycmluYmg3TDVfcnk5WW82WXI2cURWOXBsZ21rRUtXa3JfSFVvUGNPZENJZkplVm1peDRqQWsxbzlXZTlIYkN2Mm14TEF2em1LZE9GeGRtMVkzal91RjEwNjl5Qk5MWklIUjlkVnBNQW5mdGlwd21jVDlWcXBqU2V3dUtpYTE5d2Y1ZVZIZ0JzajJqbEo0cEdaVW8tV2tV",
-      "date": "2026-08-12T20:21:39.194142+00:00"
-    },
-    {
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "date": "2026-08-13T20:04:39.579397+00:00"
-    },
-    {
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "date": "2026-08-13T20:04:39.579397+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c",
-      "date": "2026-08-13T20:04:39.579397+00:00"
-    },
-    {
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "date": "2026-08-13T20:04:39.579397+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3anJpcVhsUGY1OUZOV3ZodnlWUzBIRnNYbGRDLTlFV2sxR1Bsem1FRlVrUzlTWUZoNmJzVWpISUgtXzg1ZnZVYlFHVHdaSXhzNThPazhCd0J2WThzYzRlb2dOa1dYQldHYi10Mw",
-      "date": "2026-08-13T20:04:39.579397+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0hZUGVrZmdGTmVpTkVseXpHNzFmZ1cxaUdrT0I0Q1ZVYjFlVnZPdDFUZkV4RWdjMEpoUGxyQ0xEeHJ2VWVKZ0ZLZHc4bURlcEJyVWpUaWZXT0xqR3ljTmZXLXJjZ3FDaHFmRkVkanF1MHhRTlU3dTRtLWxJbDBFVTVB?oc=5",
       "date": "2026-08-14T20:02:51.497308+00:00"
@@ -296,6 +236,26 @@
     {
       "url": "https://www.anthropic.com/news/the-anthropic-economic-index",
       "date": "2026-08-25T19:46:45.316855+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2ZVcER1YXNsaEthelVtNENlUXBCMzdyRV80bWhNWHBHSk5rVmMzZGJyaFZfWS1YclBDWklqc0RFTEZzYm1fSXJzd1RWVDR4U1d2QzZfWTRFTUtfa1Ewa2FBUzRGZU93dkE4dWZJM0YwdHFhaWlrLTF2ajRBaWt2TGZMS1oyclVaM0lpQms1dGx1T3JTVlFLdA?oc=5",
+      "date": "2026-08-28T01:38:26.914133+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54cVZEazdobmFadjBKY0h4NnJyaUVINVRlaDN2aTZSVWNNRFZJV1ZkNXoxaTlhS0Z5YzItWEpPd25ybG5KMzd4TDM1bE5ldHI3V2c?oc=5",
+      "date": "2026-08-28T01:38:26.914133+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "date": "2026-08-28T01:38:26.914133+00:00"
+    },
+    {
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "date": "2026-08-28T01:38:26.914133+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "date": "2026-08-28T01:38:26.914133+00:00"
     }
   ],
   "word_history": [
@@ -331,6 +291,7 @@
     "Fine-tuning（ファインチューニング）",
     "Scaling Law（スケーリングの法則）",
     "Lost-in-the-Middle (LitM) 効果",
-    "Tool-Integrated Reasoning (TIR)"
+    "Tool-Integrated Reasoning (TIR)",
+    "Activation Steering（アクティベーション・ステアリング）"
   ]
 }
