@@ -1,26 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0hZUGVrZmdGTmVpTkVseXpHNzFmZ1cxaUdrT0I0Q1ZVYjFlVnZPdDFUZkV4RWdjMEpoUGxyQ0xEeHJ2VWVKZ0ZLZHc4bURlcEJyVWpUaWZXT0xqR3ljTmZXLXJjZ3FDaHFmRkVkanF1MHhRTlU3dTRtLWxJbDBFVTVB?oc=5",
-      "date": "2026-08-14T20:02:51.497308+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVVWdThLeXZqbHlybUdPMkRCSXBheDh1LXNjU1EzT1JFMHZUX1ZfWGQ4ekNNRlFjd3pKbmZPbHFJd2Y4QlVzbTNjejBGZWFMU2YyelEtNlp5Y21JWENQNzFHSXVJcW85bk8wcFBxVEVCaG5TSEdxRGRHMGY1Vk53emRzeTFEXzFWVl9UQlBBZUFneGNEWUZnYzFpVWU5UG5DX2NkQ1ZVc1NBV19tYzdWdU5QZkR1Zw?oc=5",
-      "date": "2026-08-14T20:02:51.497308+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0JXWjNoMDQ1Zl93ZWRmejA4djlQQzVodHhYb0lCQnJqSGtFbUxTUDQyYnI3NmN6NF9aazJRTkx4YlZ6b2ROVzNPQUpKTTgtVGh2bDU1aUE0RXItRUV0RE1tckNPNjhoUkxhNUs3ejBJNVAtZU1LMDR4cllacVBDZjV3UU96TnFMbkxqaUdTa3pacWhneDVUQmpLd1hsMmFrcGlB?oc=5",
-      "date": "2026-08-14T20:02:51.497308+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0U3dEtvVWEtc1BnWEV5T1E2aWQ0SWdOaVVFUlFkb2piTV81NDFIVzBqU29FVzhIWFRXUkNrOFh4cFR3dEgyRlRTdlhyTUw1WFFCQTdpSnVicmlhZmNwZXkyNkQ0c1AyWld6eld4NU1RMTFOenExVWJvejNpVVlLZEk3dWhmdG9aR2xuS0lablVrclBiTTUxVWxzLXBPdVk0VTA0WTdMOVRSTmFPVmhGRF9HMmd2eE0?oc=5",
-      "date": "2026-08-14T20:02:51.497308+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "date": "2026-08-14T20:02:51.497308+00:00"
-    },
     {
       "url": "https://www.reuters.com",
       "date": "2026-08-15T19:01:10.628183+00:00"
@@ -256,6 +236,26 @@
     {
       "url": "https://www.anthropic.com/news/claude-corps",
       "date": "2026-08-28T01:38:26.914133+00:00"
+    },
+    {
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "date": "2026-08-29T01:43:19.957393+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "date": "2026-08-29T01:43:19.957393+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26112",
+      "date": "2026-08-29T01:43:19.957393+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySHJLYU1RTzJHQzUxVV85ZXBKNFl3VGNOeEtOZ2lXU2hCUjAtUVJOMWZObmYyU3FYYXQzdVhtbkFCOWhfTzdTblBDUmY3RlpwOVBj",
+      "date": "2026-08-29T01:43:19.957393+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUE3UDhTbTN2MWtYenJsbUZFWmtZZ093V1E5NHI0bTN6VS1wY1h4MjhpVHlSeWFrR3ZmRmlwc0VxbEdpVjB0ODhOSEdLWGdFLUlyQXQ5dkVFSmp5S3BMQmNPRjBQdUs1MTRIN1VXeDRxU1pEUjdDR1pEVkNzX2VRd25qUW5LZEh6aVE2bmZTbVg2dFAzSm5Mdlg2amYxLVR6ZU0yVmwwejkxazRfMHV1dlpLdHY4Y3VQMnVr0gG7AUFVX3lxTE83MzJxYTVYYUk5NGtCVmZQdC1sMGdtLXFFa2QtT2ZCWDFnNHBETlZiTV9GaGJydDFQZGh1ZGRjLXkzTkpvblRpZ2lnUmh1Z00yQUVTWDFZZUJUS2hpdllRSjg1WEVaZEptRGcwdFgyNWM1RXBza294VF9FT0czQ25nZU1MUEdMUE52eUJEQk1GZmcxNVEwQ01vbTNWb2dzR09wQ25ETElyU1pTcDlCYWFFR3NpS1hLVU5UZk0",
+      "date": "2026-08-29T01:43:19.957393+00:00"
     }
   ],
   "word_history": [
@@ -292,6 +292,7 @@
     "Scaling Law（スケーリングの法則）",
     "Lost-in-the-Middle (LitM) 効果",
     "Tool-Integrated Reasoning (TIR)",
-    "Activation Steering（アクティベーション・ステアリング）"
+    "Activation Steering（アクティベーション・ステアリング）",
+    "Speculative Decoding（推測デコーディング）"
   ]
 }
