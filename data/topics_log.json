@@ -1,26 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://www.reuters.com",
-      "date": "2026-08-15T19:01:10.628183+00:00"
-    },
-    {
-      "url": "https://www.sitepoint.com",
-      "date": "2026-08-15T19:01:10.628183+00:00"
-    },
-    {
-      "url": "https://finance.yahoo.com",
-      "date": "2026-08-15T19:01:10.628183+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12426",
-      "date": "2026-08-15T19:01:10.628183+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.12373",
-      "date": "2026-08-15T19:01:10.628183+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBENmJOcWJDcGR0blh0cDlCQkk1bmw4a0s1NGZ3TVphR1A0bU1YWlBJbVFfaWFpc1dLeU1JQWJmNjZlN0F3ZmRSR3VZc0w2Z2w4dWpsdlpKWTJFTzZYdzRXRUxn",
       "date": "2026-08-16T19:01:09.996574+00:00"
@@ -256,6 +236,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUE3UDhTbTN2MWtYenJsbUZFWmtZZ093V1E5NHI0bTN6VS1wY1h4MjhpVHlSeWFrR3ZmRmlwc0VxbEdpVjB0ODhOSEdLWGdFLUlyQXQ5dkVFSmp5S3BMQmNPRjBQdUs1MTRIN1VXeDRxU1pEUjdDR1pEVkNzX2VRd25qUW5LZEh6aVE2bmZTbVg2dFAzSm5Mdlg2amYxLVR6ZU0yVmwwejkxazRfMHV1dlpLdHY4Y3VQMnVr0gG7AUFVX3lxTE83MzJxYTVYYUk5NGtCVmZQdC1sMGdtLXFFa2QtT2ZCWDFnNHBETlZiTV9GaGJydDFQZGh1ZGRjLXkzTkpvblRpZ2lnUmh1Z00yQUVTWDFZZUJUS2hpdllRSjg1WEVaZEptRGcwdFgyNWM1RXBza294VF9FT0czQ25nZU1MUEdMUE52eUJEQk1GZmcxNVEwQ01vbTNWb2dzR09wQ25ETElyU1pTcDlCYWFFR3NpS1hLVU5UZk0",
       "date": "2026-08-29T01:43:19.957393+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSkk3QVo0cVJKbmpvbW0yR2VoZGtCOXJRaGdaSzh4TExkQ1l5Ym5rdUNuQUJXczdVcXpzTmVlTkhYOFhUQzFqRUNrcmJ3TGkzMDZ2VEpVU2xDTWNLU3BqQU5vTGJZcGlWeE1PVUVqZG5jbE1UeFh4MEE3SXFQaldzM1dPNUxWTHNMdFE0R0doU3JjeUxyaHk3MFkyMW02T21HRktOUG9NbmFSXzBzZGVaeng4a05lME9kek53UmtWUXI5dXlKaDRXODR6b2VxNC02TUE",
+      "date": "2026-08-29T20:51:01.541072+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "date": "2026-08-29T20:51:01.541072+00:00"
+    },
+    {
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "date": "2026-08-29T20:51:01.541072+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26157",
+      "date": "2026-08-29T20:51:01.541072+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.26199",
+      "date": "2026-08-29T20:51:01.541072+00:00"
     }
   ],
   "word_history": [
@@ -293,6 +293,7 @@
     "Lost-in-the-Middle (LitM) 効果",
     "Tool-Integrated Reasoning (TIR)",
     "Activation Steering（アクティベーション・ステアリング）",
-    "Speculative Decoding（推測デコーディング）"
+    "Speculative Decoding（推測デコーディング）",
+    "Mixture of Experts (MoE / 混合専門家)"
   ]
 }
