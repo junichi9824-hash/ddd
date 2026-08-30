@@ -1,26 +1,6 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBENmJOcWJDcGR0blh0cDlCQkk1bmw4a0s1NGZ3TVphR1A0bU1YWlBJbVFfaWFpc1dLeU1JQWJmNjZlN0F3ZmRSR3VZc0w2Z2w4dWpsdlpKWTJFTzZYdzRXRUxn",
-      "date": "2026-08-16T19:01:09.996574+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT09QYS1lYWxjTFFrbEtpUE9CQWVBajI5S0E2SG1vLWxvVkMzUHVGLTlHNkc5dTJUWGxBdmJQMmpkNTFsS1FqT2wzWGtfMnBFbHQ4MTF5TkxiRlRuQUdUaWRxdkZORko4N29hM1dtdlJ6cldnUTdaQmotSF92cGxoOW5OV0IwWDcwRS0tRjBZN2E3NllfbjIwN1lDNFcwVUxJXzlOQWdlSWlWTGxCNkptZGpwdzU5V1U",
-      "date": "2026-08-16T19:01:09.996574+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PaVY3SmR5ZTdvVHlOdXdxUmltX0ZFS2lCdGZjeTZDWDZncm9oamxRQmRPamxyY3FUa2ZDTkN6aVpCUmJkMGttTEFUXzhVcV91SW83RmhzY0ExcnpoVlZCYmRHcmF5YUlSYlZwcDNUbkZpUl90",
-      "date": "2026-08-16T19:01:09.996574+00:00"
-    },
-    {
-      "url": "https://littlelearner-ll.github.io/",
-      "date": "2026-08-16T19:01:09.996574+00:00"
-    },
-    {
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "date": "2026-08-16T19:01:09.996574+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2Jtc09SYi1ad1lnTkxwLVJVWnlJUGlpYXFtM3NIb2x3b3RVV3J0U0ZMankxaHdVakdZa2FRQXlYT3ZlQ2hKb1VORHlEb3FReWZsaVB0NTMwX253eWwxc25avDuZgU2f0JqNWlCWmxaR041NlZiRXJncHp3MjFsZVpqWGF4b00xcF9xWF9PdmNxckp4VVNncjZJSlZhZ3I0MUZhSU5yZUY0TnJmTkwyQlJLYW4",
       "date": "2026-08-17T19:18:18.451630+00:00"
@@ -256,6 +236,22 @@
     {
       "url": "https://arxiv.org/abs/2608.26199",
       "date": "2026-08-29T20:51:01.541072+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoQm9PVnR2QlFUNjNaUF9lNDVteEYweEtRaHBMMUJzNkJwSWlhRDZJYzBmb1NWWGltdlBod24wZHVMakpmd3BhSGVoRWdMc1NFQXBGNWR5Zw?oc=5",
+      "date": "2026-08-30T20:56:40.476670+00:00"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+      "date": "2026-08-30T20:56:40.476670+00:00"
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "date": "2026-08-30T20:56:40.476670+00:00"
+    },
+    {
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "date": "2026-08-30T20:56:40.476670+00:00"
     }
   ],
   "word_history": [
@@ -294,6 +290,7 @@
     "Tool-Integrated Reasoning (TIR)",
     "Activation Steering（アクティベーション・ステアリング）",
     "Speculative Decoding（推測デコーディング）",
-    "Mixture of Experts (MoE / 混合専門家)"
+    "Mixture of Experts (MoE / 混合専門家)",
+    "Knowledge Distillation（知識蒸留）"
   ]
 }
