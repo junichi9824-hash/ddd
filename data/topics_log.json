@@ -1,26 +1,6 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2Jtc09SYi1ad1lnTkxwLVJVWnlJUGlpYXFtM3NIb2x3b3RVV3J0U0ZMankxaHdVakdZa2FRQXlYT3ZlQ2hKb1VORHlEb3FReWZsaVB0NTMwX253eWwxc25avDuZgU2f0JqNWlCWmxaR041NlZiRXJncHp3MjFsZVpqWGF4b00xcF9xWF9PdmNxckp4VVNncjZJSlZhZ3I0MUZhSU5yZUY0TnJmTkwyQlJLYW4",
-      "date": "2026-08-17T19:18:18.451630+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuUk8zV3JXamFZMWtFQkJUNk5pVjhLZ2JqTmFNSHJfZmtPaEQ2WlY0SkYwaFFMaHFfMmZMQmxycWsxazM2RUtoRHhnbkxCVzM1dlNDV3I1Um5ac2cta295SlEtVnpSQTBBMVlFU1MzMWdMeWI4RlE",
-      "date": "2026-08-17T19:18:18.451630+00:00"
-    },
-    {
-      "url": "https://openai.com/index/the-defenders-window",
-      "date": "2026-08-17T19:18:18.451630+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOHFKUFZyRUwyaEc5NzdFdV9TbzhkcTJvNmtvSjcwSUJmazZDR3FZcDRHTjBWcUtzLUVWLVkxNUh1XzRfTnNGMWRJWGYwclFXM3RNMUlacjNQQkE5cFFHMXNPZU5sSXJ5X2Q4ZEZTeGM3WmIzRnRPejRZQU5UZnk5RUFYdTY3MHp2Mk94ZjJqZm9teGp4VzJyRWZOOEZzS0R6R29LcU1SNmVybVltRUpYbWtva0NWMGI4NzlXbU9BNVpOUXRpeVZXa2I0cnJBdzFiNnVGM2hTZ3JJV2xvWWJV",
-      "date": "2026-08-17T19:18:18.451630+00:00"
-    },
-    {
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "date": "2026-08-17T19:18:18.451630+00:00"
-    },
     {
       "url": "https://openai.com/index/chatgpt-for-teens",
       "date": "2026-08-18T19:35:59.566152+00:00"
@@ -252,6 +232,26 @@
     {
       "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
       "date": "2026-08-30T20:56:40.476670+00:00"
+    },
+    {
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "date": "2026-08-31T22:44:53.008831+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGVpZmlzQ09VYkdFQktNaG5fWmNRTlZiV1czLXREc3FWcEtINjg0RF9rM2RUcER4T09pSlVMUkYzejJKWFNuTFZHYzhnZXFoaktSeU5JUTlMRC1mT2pzdkNuT19mQ2NQbTNySllWZUdLa1RhUEpFWHpSOVFpalU3dDZBMjFVaERCckE5NVVHV2NOMm9TeEJEZEUxNWFjR1k?oc=5",
+      "date": "2026-08-31T22:44:53.008831+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmZPX3lCdDc0UmdEMG1uY0tTLTF1U281d29Tc05nRDdoTGROcmYwVnBZR29HMHV6UlBlbEZsbDZUS2IzUTYwY2xUZ0dsa0RTaDNVZ1pqVmgzSnhzUXlPR3N1OW5jWlRqNndZSC1xSEYtS2JSWXI5OUhZUDh1TGlvSnNaVFBqRXJqMWYyZ016cU5KaFZLZ0VNMEN1UzNYN2t3RTI5dGZPTEhhWGFlVEZLT1o1RHJOM01ER0hhVw?oc=5",
+      "date": "2026-08-31T22:44:53.008831+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "date": "2026-08-31T22:44:53.008831+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YbGVHZnRUMW1TcHFiYVZVVzVzUl82Wlh2UnpjazJULUxndVg0S1hodkZWdWttNG03YkZNd2g2d0Z1dGVYRUVLWlQyR1l4dzlsR1BZOEVfVFdiVWIyd2JOeWwxS1ZaeUo0UWNxeWpGWUw5R25hdWc?oc=5",
+      "date": "2026-08-31T22:44:53.008831+00:00"
     }
   ],
   "word_history": [
