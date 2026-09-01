@@ -1,26 +1,6 @@
 {
-  "category_index": 3,
+  "category_index": 4,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "date": "2026-08-18T19:35:59.566152+00:00"
-    },
-    {
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "date": "2026-08-18T19:35:59.566152+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1RUX0hsd3JSTUh3ZzQyM09NeUlDclVQV3dqV1h4WkdPVWpUUDBORlMzMDNtNUctWVV0LTkyUkJPdkp0SDYxREhIcmlUVDU0dlZNWlVrcmRCSHZDazdXMFRQMEkzUWVuWnNidTQ0Q1RtUzMxdVpGTHBfYTYxT2NZd3hJSW55U3BLaGFvd2FjQVp5SFdWX1VPanpSYmdHMUEtVDNKUlgyNVVLMFFkYTctYXpVUDhQZw?oc=5",
-      "date": "2026-08-18T19:35:59.566152+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVTGlZZ3VYYjJ3YjlGVnJ2UkJ3X05PMDdrNENPWWdCaldVbTFNOE9NazZ4c0Q5ZGZ6MlVIUjFmT1VkXzBzem9LMDY1bUpMX2hDbWVmLVpYTEhQN3htYng1YjZHSXEwVDB5cnJTcExBdVhfcHFvemQzV0M4MA?oc=5",
-      "date": "2026-08-18T19:35:59.566152+00:00"
-    },
-    {
-      "url": "https://openai.com/index/asana",
-      "date": "2026-08-18T19:35:59.566152+00:00"
-    },
     {
       "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
       "date": "2026-08-19T19:12:55.783849+00:00"
@@ -252,6 +232,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YbGVHZnRUMW1TcHFiYVZVVzVzUl82Wlh2UnpjazJULUxndVg0S1hodkZWdWttNG03YkZNd2g2d0Z1dGVYRUVLWlQyR1l4dzlsR1BZOEVfVFdiVWIyd2JOeWwxS1ZaeUo0UWNxeWpGWUw5R25hdWc?oc=5",
       "date": "2026-08-31T22:44:53.008831+00:00"
+    },
+    {
+      "url": "https://openai.com/index/path-to-astra",
+      "date": "2026-09-01T20:56:50.394329+00:00"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "date": "2026-09-01T20:56:50.394329+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "date": "2026-09-01T20:56:50.394329+00:00"
+    },
+    {
+      "url": "https://www.pandaily.com",
+      "date": "2026-09-01T20:56:50.394329+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "date": "2026-09-01T20:56:50.394329+00:00"
     }
   ],
   "word_history": [
@@ -291,6 +291,7 @@
     "Activation Steering（アクティベーション・ステアリング）",
     "Speculative Decoding（推測デコーディング）",
     "Mixture of Experts (MoE / 混合専門家)",
-    "Knowledge Distillation（知識蒸留）"
+    "Knowledge Distillation（知識蒸留）",
+    "Layer Skipping（レイヤースキッピング）"
   ]
 }
