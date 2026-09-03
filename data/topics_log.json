@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "date": "2026-08-20T19:46:34.146235+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcXV3OWFwQnlLWkwwZUlpUFBBOVZzWWxjQXJuRVd5cUN0NE13TlYtNW40Q090RzZHM09ydnZva2h2czVqZllxWkgzWU1ma0lxSFhSdWdCY3ZfZDY0MC1xSkFETmdYdUMzSVlJY2ZPZUxPZVA5RlJuWUNyMUNlWEUyV18ydDFJSzBrLWlTcVE3Y0JQTnk1SVZGLVhERmFTdU5WVENmcWo4cFRfUQ",
-      "date": "2026-08-20T19:46:34.146235+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.18131",
-      "date": "2026-08-20T19:46:34.146235+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JY2Q2cmVRYUNLTV91V2FPZ3h0c3FEdjdhMFJHSklqMFJvRnpmZ2xZdUNqRm80OW1OdFNoampmakFWZlhPZ19uQ00ycE9FY2dnUzd3UlVUNmlEVG9CV29kVXA1Z2dYcm9xT3JtU1dxd0ppdVdKVmc",
-      "date": "2026-08-20T19:46:34.146235+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.18082",
-      "date": "2026-08-20T19:46:34.146235+00:00"
-    },
     {
       "url": "https://api-docs.deepseek.com/guides/vision/",
       "date": "2026-08-21T19:16:40.603651+00:00"
@@ -252,6 +232,26 @@
     {
       "url": "https://arxiv.org/abs/2609.00275",
       "date": "2026-09-02T20:56:00.475663+00:00"
+    },
+    {
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "date": "2026-09-03T20:54:41.608247+00:00"
+    },
+    {
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "date": "2026-09-03T20:54:41.608247+00:00"
+    },
+    {
+      "url": "https://www.reuters.com",
+      "date": "2026-09-03T20:54:41.608247+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "date": "2026-09-03T20:54:41.608247+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVmtqR2JvOTJBZFVoVDVVOVp1bnB2VlhJTlcyYnVSUnlLRDh0RFJSOW5GZmYtdHgzbEVGZHk1eVZLdmZsbFJ3NU5PMkpsU1dDdDVrWGVhV0x3cTBXc3pqNG9pazctZTh5eGptbExCd0E1T0hUeERMUzNSaTFtVVBpeWx5ODVaTGhzRmRhLXFodWMzdW9fTWxidGljeTdpcWNvd0ZYVXh4TTRDVVppbERkMjdOZmYyd1d2NnE2MVZZU3RxV2lJTDB1N2FVRjBvSTZBVUI",
+      "date": "2026-09-03T20:54:41.608247+00:00"
     }
   ],
   "word_history": [
@@ -293,6 +293,7 @@
     "Mixture of Experts (MoE / 混合専門家)",
     "Knowledge Distillation（知識蒸留）",
     "Layer Skipping（レイヤースキッピング）",
-    "Chain-of-Thought (CoT) / 思考の鎖"
+    "Chain-of-Thought (CoT) / 思考の鎖",
+    "Evaluation Awareness（評価認識）"
   ]
 }
