@@ -1,26 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "date": "2026-08-21T19:16:40.603651+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "date": "2026-08-21T19:16:40.603651+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19203",
-      "date": "2026-08-21T19:16:40.603651+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19437",
-      "date": "2026-08-21T19:16:40.603651+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.19662",
-      "date": "2026-08-21T19:16:40.603651+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjh2ZHRjbTBkRkxvTWRFbW5ZaU5NWXlpOGlzOFduOFZ6ZjJubTVhd05Za1FPUVRIQ1g4UVJzX3FOc3dvUUwwN1BURmZydXpwSVdGUmw0LVhsQTBXM3QzYkY0cHlndWpzcFpUWnVEcnpaQTY2LUN6U1RPaEt3OUZnWldVd2I0eUp2d3NlME5nQlRwZXc3a0FlNDY5bnZsWnoyeUpGMHBfWQ?oc=5",
       "date": "2026-08-22T19:04:09.603136+00:00"
@@ -252,6 +232,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVmtqR2JvOTJBZFVoVDVVOVp1bnB2VlhJTlcyYnVSUnlLRDh0RFJSOW5GZmYtdHgzbEVGZHk1eVZLdmZsbFJ3NU5PMkpsU1dDdDVrWGVhV0x3cTBXc3pqNG9pazctZTh5eGptbExCd0E1T0hUeERMUzNSaTFtVVBpeWx5ODVaTGhzRmRhLXFodWMzdW9fTWxidGljeTdpcWNvd0ZYVXh4TTRDVVppbERkMjdOZmYyd1d2NnE2MVZZU3RxV2lJTDB1N2FVRjBvSTZBVUI",
       "date": "2026-09-03T20:54:41.608247+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2JjdG0xZVFfY3YyalRpcjBfNmU1LUs4NFdpRGZpM0c0UFB5ZWtpZV9FWFZpTkVpNkptRjJRODJBSHFHMGFRS0FudEZPNHFQYW9lZkFnaXVaUC1ycGlsR2ZjaEdrS3J2NFpjTGJxN0ZENUN0aHA2d0lseV85dnhPdmplT1Yxd0xQYnhaOFpPYmhaZGROTlAxNlNJTk1uZjdodkRpT1l4Y2FNMC1zNFBESmNCMzNSZw?oc=5",
+      "date": "2026-09-04T20:41:38.107740+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa3RpRFFxZVdLcmd4TW9jUndJZlR2OVYzVmZiZXI3LVNfN1ZYVTNoT2RiRXJMcXFubjRoZkh1Y2VGSldEWWxMbUQ4cUt3Mmg1emh6WkhWajNYa1BHaFdpT04zNzQ2WlEzN0dET1ozWHBncEFWSjJONnFpNHBPa0N3dE9n?oc=5",
+      "date": "2026-09-04T20:41:38.107740+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.03181",
+      "date": "2026-09-04T20:41:38.107740+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "date": "2026-09-04T20:41:38.107740+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0enc4X1Q4N2Q4cENWODdnc1FsOXpxeVJIVUQwRXNWSzA3VjBCczlpLThrM0ppLUZIMUVxTnJHZVZna2VJcjhIRGhPcnRtT1NYQVBSejIxWFhGVkN2VEo4ZVluZl9GUWtXbnQ3OWwzU2dKQ1VXVFE40gF8QVVfeXFMUE5CMnNXUG1hLThFa2ZBQkRvNVhIbnNpeDNfWGxSSzRKWTRjWUFIRm1xbHZuZDBJYlEtMkUxLTdIWFVsSzd0VF9hQXF1ZXo0WWZCYnNzbmV3bVRDRmhFTUdCWmRKOTIxZVphaERqQ1l6NkhnbzRWMW1mT1lsYw?oc=5",
+      "date": "2026-09-04T20:41:38.107740+00:00"
     }
   ],
   "word_history": [
@@ -294,6 +294,7 @@
     "Knowledge Distillation（知識蒸留）",
     "Layer Skipping（レイヤースキッピング）",
     "Chain-of-Thought (CoT) / 思考の鎖",
-    "Evaluation Awareness（評価認識）"
+    "Evaluation Awareness（評価認識）",
+    "In-Context Learning（インコンテキスト・ラーニング）"
   ]
 }
