@@ -1,26 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjh2ZHRjbTBkRkxvTWRFbW5ZaU5NWXlpOGlzOFduOFZ6ZjJubTVhd05Za1FPUVRIQ1g4UVJzX3FOc3dvUUwwN1BURmZydXpwSVdGUmw0LVhsQTBXM3QzYkY0cHlndWpzcFpUWnVEcnpaQTY2LUN6U1RPaEt3OUZnWldVd2I0eUp2d3NlME5nQlRwZXc3a0FlNDY5bnZsWnoyeUpGMHBfWQ?oc=5",
-      "date": "2026-08-22T19:04:09.603136+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjh4T2ktbGhlTHhNRThtci1wRkEwZDR2Um5fdGcycDdQNGJCcDllWVRMd3F1M3JnLWZuRUxBOTFsR2c4cGVQZDRWWTdad3JIT1pNdENGOVJQNjZDOFdlRkV4czV1b041N3dNWlZZZUlPckVMTFZjTVhOdzhnNHlTR3Q0YTRFLXVBYlNGbnBYOWlwZXB0eERSUThkSGpYZzQ?oc=5",
-      "date": "2026-08-22T19:04:09.603136+00:00"
-    },
-    {
-      "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
-      "date": "2026-08-22T19:04:09.603136+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdWNUcWFXalVtMTYwc0RBRjM2cTNIY1IxTkdYWFowRGRsNTE0MHR0Y3ByeElHMWxXSXRBSzBzNHViNzItSVl0TzdncERNV3lIY3d4WG5nWHRxQVk4WHR4aFNoVlZ6U1JUdlBmVWYzTHZKOUlJV1NEVHF4RVM2VUNmZnVNUS0zRDRvd2F0d3dNX3AwWUx6SnJmT0RnRHFULU15dlc0dXVmdXBDX0ZndWtIRkFtVVVfendGTEdDYmJadWN6Tkg1andoNHJYX2JJODg2UHR6SUYtcmpta2t5bVV0bTBNUnlPeXB6RTgxQUpXNkxMUVp6QzVNSg?oc=5",
-      "date": "2026-08-22T19:04:09.603136+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPTnVHQjctTjRVNUxXVlJlSUJNLTkxT0c5dThEVjUxaG1wUTJ2QWdKMkVfWFNnbjVwV2ZCOTFodG1oTldUWUw1enVpcnJJd21pUVNEakJtdHdrYmlEWmNCcFFvMGpWYXp1SVZUSUVqbHQ3NC1aSW1CaWZjTXJsZnFiTTI5aXU2Zi1raUpJLXIwTVAwYUxkbDM1VmVuXzBUR0dwMXIycnVCUVNLbmNZMkduYldENWdGRXJqcVZSZmhGR3B6cDJYeHF4Vk1wbnBhZWRpV2g5NzdLMGdyNG1yUmhSSi1QOThrNXFYZDZObUVoZnkwam9TVVpnNDZXRkcybFBHQjF3NVNTTWw0dDFCSGhYME5UVS04MG1PUGdyMHRyZWE?oc=5",
-      "date": "2026-08-22T19:04:09.603136+00:00"
-    },
     {
       "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
       "date": "2026-08-23T19:02:44.274163+00:00"
@@ -252,6 +232,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0enc4X1Q4N2Q4cENWODdnc1FsOXpxeVJIVUQwRXNWSzA3VjBCczlpLThrM0ppLUZIMUVxTnJHZVZna2VJcjhIRGhPcnRtT1NYQVBSejIxWFhGVkN2VEo4ZVluZl9GUWtXbnQ3OWwzU2dKQ1VXVFE40gF8QVVfeXFMUE5CMnNXUG1hLThFa2ZBQkRvNVhIbnNpeDNfWGxSSzRKWTRjWUFIRm1xbHZuZDBJYlEtMkUxLTdIWFVsSzd0VF9hQXF1ZXo0WWZCYnNzbmV3bVRDRmhFTUdCWmRKOTIxZVphaERqQ1l6NkhnbzRWMW1mT1lsYw?oc=5",
       "date": "2026-09-04T20:41:38.107740+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmtpbFBmOWl2NkpQOVYyMEUyV0NvNWVKLTJrQ2FBNTZVRUlUbUhUdHFNV2g2bU5yUUdnNjQtUXRWXzFaUTcxSW5HR1JKWWR6Q3ZhTXBaVGJYdTdiRTBfUGVQaVhEY3BvSkRTYW9Za3ZINTRNc2lFRTBEbWM5bjNXN01ySmoyV2ZkRHJDUk5kajNyRFdIUGVkTllVREFLU0czWldRX0pzRVp3SnAzZTk5Q0lvSEs3bkFVSUZfVGVpMUo",
+      "date": "2026-09-05T20:15:03.211631+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JUGhsVVVqSmFCLXRiNXlmaTJINTJSS25FMjh5Tk1ISnU4UEF6dk1ZSHVEblV2TWxOMWJrRTV2bF9rWlBPMDdURXVBX1VENXFqNEszUjlrQlhkSzZPeURTTEJjbG9fdUhkRkhJYm03cWlPLTBpNEE",
+      "date": "2026-09-05T20:15:03.211631+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qd19iQ0dxM3dJRC13RDBrbDlLME5LMGJ6bXE2cElYQUVQTHBBY1Nua1A4YU96d2RVZDZack5TdVdBVmtZbVlWbnhSYVlTZE14OU1N",
+      "date": "2026-09-05T20:15:03.211631+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VVZwOU9RSXJKMkpDQ1VxTXI2bFhFZV83RFJvWjlxNU54TzlQNkJmUWExVm1QT1R6OWlNNmpubU02cDNKc0QzYUtJTUhNZWFDRDRhZTFEWEdPWUxOcmZzZ3JkNUdVcFJfZ1M4SmV1U3FkclF1MGRtQ0N4MWM",
+      "date": "2026-09-05T20:15:03.211631+00:00"
+    },
+    {
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "date": "2026-09-05T20:15:03.211631+00:00"
     }
   ],
   "word_history": [
@@ -295,6 +295,7 @@
     "Layer Skipping（レイヤースキッピング）",
     "Chain-of-Thought (CoT) / 思考の鎖",
     "Evaluation Awareness（評価認識）",
-    "In-Context Learning（インコンテキスト・ラーニング）"
+    "In-Context Learning（インコンテキスト・ラーニング）",
+    "Inference Optimization（推論最適化）"
   ]
 }
