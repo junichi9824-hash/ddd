@@ -1,22 +1,6 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
-    {
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "date": "2026-08-23T19:02:44.274163+00:00"
-    },
-    {
-      "url": "https://www.marktechpost.com/2024/08/23/harvey-introduces-harvey-tenet-a-kimi-k3-base-post-trained-with-fireworks-for-long-horizon-legal-agent-work/",
-      "date": "2026-08-23T19:02:44.274163+00:00"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2024-08-23/deepseek-ends-weekend-peak-pricing-for-api-users-from-today",
-      "date": "2026-08-23T19:02:44.274163+00:00"
-    },
-    {
-      "url": "https://www.scmp.com/business/article/3274515/african-businesses-keep-options-open-chinese-ai-gains-ground",
-      "date": "2026-08-23T19:02:44.274163+00:00"
-    },
     {
       "url": "https://arxiv.org/abs/2608.20359",
       "date": "2026-08-24T19:45:02.698959+00:00"
@@ -252,6 +236,22 @@
     {
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "date": "2026-09-05T20:15:03.211631+00:00"
+    },
+    {
+      "url": "https://openai.com/index/an-alien-mind",
+      "date": "2026-09-06T20:18:56.971186+00:00"
+    },
+    {
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "date": "2026-09-06T20:18:56.971186+00:00"
+    },
+    {
+      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+      "date": "2026-09-06T20:18:56.971186+00:00"
+    },
+    {
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "date": "2026-09-06T20:18:56.971186+00:00"
     }
   ],
   "word_history": [
@@ -296,6 +296,7 @@
     "Chain-of-Thought (CoT) / 思考の鎖",
     "Evaluation Awareness（評価認識）",
     "In-Context Learning（インコンテキスト・ラーニング）",
-    "Inference Optimization（推論最適化）"
+    "Inference Optimization（推論最適化）",
+    "Prompt Tuning（プロンプト・チューニング）"
   ]
 }
