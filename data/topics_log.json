@@ -1,5 +1,5 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
     {
       "url": "https://arxiv.org/abs/2608.20359",
@@ -252,6 +252,26 @@
     {
       "url": "https://github.com/okf-memory/okf-agent-memory",
       "date": "2026-09-06T20:18:56.971186+00:00"
+    },
+    {
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "date": "2026-09-07T09:20:04.777933+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.04290",
+      "date": "2026-09-07T09:20:04.777933+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.04485",
+      "date": "2026-09-07T09:20:04.777933+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.04298",
+      "date": "2026-09-07T09:20:04.777933+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjhEY0ZZS05RYnE4OXkzLWE3ZDFGenJJNnFyUDFIenlfbkNFX1NSaTNBVVhJZHRpMHVjdjhnNVBXNlJPS2VrTDRVZnZmLWlFeW9DOWJLazUtdXozVnVIaFRJeVNNdzh0b1pEWWFDRmhzc1o1OWIzcHU2UTZfUWxnZGJ2ZGktYmpYU3RaUXlkbW8yNGdONHhqaWtEQ094YkNBWHdJVGkwTUVXZ3FYRUthcEdrTG4zOEtWVnRTcnk3aEZCcTF1YkhkYnhnOVjSAcwBQVVfeXFMTjJMX2UzVFpCM0k0a1FxRVdjZjVMYjlCMzlQWnVNM2lpYmlHSlVoaG51YnpvRFMwNTFnYms4UFBfbWJaekc0a3UwbjBITC0tSVowYmNva1VXSHlYZ212Ri11STVWeUdiWlJneGJvUURKOGY3NzM3TWpLZ2VncnNvaThhMm9NM3RMTlphbDBLU3pGVDZwVU8yNW1rZEJ2ZnJRWEJnSTR1UjNBcDRyZlRoYmw3eXltRFNrS0pnWGRxR2RfYldRaGZ5QzlXb0cw",
+      "date": "2026-09-07T09:20:04.777933+00:00"
     }
   ],
   "word_history": [
@@ -297,6 +317,7 @@
     "Evaluation Awareness（評価認識）",
     "In-Context Learning（インコンテキスト・ラーニング）",
     "Inference Optimization（推論最適化）",
-    "Prompt Tuning（プロンプト・チューニング）"
+    "Prompt Tuning（プロンプト・チューニング）",
+    "Cross-Lingual Consistency（多言語一貫性）"
   ]
 }
