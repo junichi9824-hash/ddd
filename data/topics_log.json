@@ -1,26 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "date": "2026-08-25T19:46:45.316855+00:00"
-    },
-    {
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "date": "2026-08-25T19:46:45.316855+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.21377",
-      "date": "2026-08-25T19:46:45.316855+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWThaMmJPUUlvYmRNYkFfRHByODdKTVYzSzd3ZzYzRE1wVUFvSXlWU1VGWTNOY1ZzOUczTnV1dHFDdUV1WVAyUHk3X1NTcF95cU96OWJULXpzV3Z2OU1tOXBIVnlRNDhYN1YyZGtWNHQ2MjRUaHFET3NBR2R3bTNJQUxhVndiQ0pkdEMwLU10TW9KaGNPMHFfbjAxUlRsbFdnTllOckhqTktheXdMeE1BWmdWdkI4UDdDM3lOVXpnONIBvwFBVV95cUxOa3h1bWlia2xLUk5RQjctWGxhcmMxRWFhTUxZZ2RqYk1OendyU2R4azZUZGg4anlMeWY3RnhZMDYyaGZ1ZWxCdHNqYnlfU1ZJY096MGxkbnRBWEJHNVNKQXg4ZGN3bkFrbUdfMTFScWFBcnp5eXhaUkZaaGpiUGNJbFl4VnlEMDhRelE1elJJMXRyVmJSVWhaVUpLUmdLS0JZY2hQcndDRVVRV2VyMmhtQU1kQkN4LTFWaEJyODltcw?oc=5",
-      "date": "2026-08-25T19:46:45.316855+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/the-anthropic-economic-index",
-      "date": "2026-08-25T19:46:45.316855+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2ZVcER1YXNsaEthelVtNENlUXBCMzdyRV80bWhNWHBHSk5rVmMzZGJyaFZfWS1YclBDWklqc0RFTEZzYm1fSXJzd1RWVDR4U1d2QzZfWTRFTUtfa1Ewa2FBUzRGZU93dkE4dWZJM0YwdHFhaWlrLTF2ajRBaWt2TGZMS1oyclVaM0lpQms1dGx1T3JTVlFLdA?oc=5",
       "date": "2026-08-28T01:38:26.914133+00:00"
@@ -272,6 +252,26 @@
     {
       "url": "https://arxiv.org/abs/2609.04442",
       "date": "2026-09-07T21:26:29.388083+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "date": "2026-09-08T21:02:43.033366+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "date": "2026-09-08T21:02:43.033366+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kVVplWG9QcHBrWGpKc2xibTJBbURpUHJkV21URGZ4SnNCc3MyZm5zMTV6bGRLNHBCRjQxVEkyUkM2bnFnSHk2cGVoSklCWGFtVnVOLWN0ZDIwMW1lMnUwNXdVQ0laUkJOamp3Uk9zQmVRNFNyalE",
+      "date": "2026-09-08T21:02:43.033366+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn",
+      "date": "2026-09-08T21:02:43.033366+00:00"
+    },
+    {
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "date": "2026-09-08T21:02:43.033366+00:00"
     }
   ],
   "word_history": [
@@ -319,6 +319,7 @@
     "Inference Optimization（推論最適化）",
     "Prompt Tuning（プロンプト・チューニング）",
     "Cross-Lingual Consistency（多言語一貫性）",
-    "Quantization（量子化）"
+    "Quantization（量子化）",
+    "Reward Model（報酬モデル）"
   ]
 }
