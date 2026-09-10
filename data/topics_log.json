@@ -1,5 +1,5 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
     {
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2ZVcER1YXNsaEthelVtNENlUXBCMzdyRV80bWhNWHBHSk5rVmMzZGJyaFZfWS1YclBDWklqc0RFTEZzYm1fSXJzd1RWVDR4U1d2QzZfWTRFTUtfa1Ewa2FBUzRGZU93dkE4dWZJM0YwdHFhaWlrLTF2ajRBaWt2TGZMS1oyclVaM0lpQms1dGx1T3JTVlFLdA?oc=5",
@@ -292,6 +292,26 @@
     {
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "date": "2026-09-09T20:51:29.663267+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05Z0syNTRLWDhkd1Vsb0FYVEpvQU1UMTk2QlhfdUlmRnpicFZKRURmZHhBQklldzhNaHFURzczWUMzbXpzdnFxYUQ1ZlYzVjE5dTNwYjk1Y3d1VmFOeUkyQVBzMDV4ajllVUl1ZDZfT1NOTlk",
+      "date": "2026-09-10T20:46:22.092156+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "date": "2026-09-10T20:46:22.092156+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "date": "2026-09-10T20:46:22.092156+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWDQyVVNaRnBHU09CNEpKaGRzQ3VVZFR5dHVBczdoMS1NbXV3aXJDNFhJR0VsRWoyNk5jdUNBME9LTEsyR05wdnJkNVdZT3RoeThobTc0bjBWSTVMd1J1SGN2enpBUERHVFozbUhINkgtUEoxeGtwbGFONHdZb3lyS2VtdkN5b3NhZHpJVi1TUzNMc09KZkhXckpqRXRiVzlVa2JxX1U4NzJYR05nRFhXbFlZOGp3UGtMV0xOVnduRGtIdDdRcFJLekprVVhjS255NXQ2b3RB0gHWAUFVX3lxTE1teGRFYkpfbTlMeHdvOVg1MFJXdmtkZXROclFNc2tVNHI1LWxkYkNycTFWTGFBTFY3bUU4cEFSQVdaUDk0VmNuWmVIWGZKZnFfUWgwYmpPNWpkaW1Mc3RINHJmUlRwS2E5VEdrM1BPZlhTUklvMHBnSTlBVEZuV05PZkFHSG5CeVpzQ1BfSG1LeHRPN21DWDc0eG1ZeHZQNTRMdGVRMEtwbGszamZFTGFoTEhXMUYyNk1XZGpiQkQyYlp4b1VQMVB5bDJYSmJ5bXBpaXdjMHc",
+      "date": "2026-09-10T20:46:22.092156+00:00"
+    },
+    {
+      "url": "https://cognition.com/blog/swe-2",
+      "date": "2026-09-10T20:46:22.092156+00:00"
     }
   ],
   "word_history": [
@@ -341,6 +361,7 @@
     "Cross-Lingual Consistency（多言語一貫性）",
     "Quantization（量子化）",
     "Reward Model（報酬モデル）",
-    "Distillation（蒸留）"
+    "Distillation（蒸留）",
+    "Inference Optimization（推論最適化）"
   ]
 }
