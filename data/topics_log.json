@@ -1,26 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2ZVcER1YXNsaEthelVtNENlUXBCMzdyRV80bWhNWHBHSk5rVmMzZGJyaFZfWS1YclBDWklqc0RFTEZzYm1fSXJzd1RWVDR4U1d2QzZfWTRFTUtfa1Ewa2FBUzRGZU93dkE4dWZJM0YwdHFhaWlrLTF2ajRBaWt2TGZMS1oyclVaM0lpQms1dGx1T3JTVlFLdA?oc=5",
-      "date": "2026-08-28T01:38:26.914133+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54cVZEazdobmFadjBKY0h4NnJyaUVINVRlaDN2aTZSVWNNRFZJV1ZkNXoxaTlhS0Z5YzItWEpPd25ybG5KMzd4TDM1bE5ldHI3V2c?oc=5",
-      "date": "2026-08-28T01:38:26.914133+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "date": "2026-08-28T01:38:26.914133+00:00"
-    },
-    {
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "date": "2026-08-28T01:38:26.914133+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "date": "2026-08-28T01:38:26.914133+00:00"
-    },
     {
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "date": "2026-08-29T01:43:19.957393+00:00"
@@ -312,6 +292,26 @@
     {
       "url": "https://cognition.com/blog/swe-2",
       "date": "2026-09-10T20:46:22.092156+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcHBnY1JTVzF0bEM5d1pZVzBIaHJRSERic0lvMnhGZ3JJZXlRMmpWTUNmTGZ4MEJoeFhTWG82bHV3ZHFULTRXSlBKaHFXLTVaS2piYVhVdHFlUmNqMlhkQnNCeUxsbkdyVlJ3ZHo2QW41bDc2YXNoZlRlYXpPeUVXOFdQM1FYUkw3bWhoSHJCNng4ZUNQODVjWHg4S01YMnI4NDBXQ3BXd2Q0ano4dzRkMEdnNG1rZ1ZHOEdqaU5IbG9wQmlQ0gHEAUFVX3lxTE9MNFVycTNTSzIyVU41WXVuMnFDUFdkRW5CTkRtQXRudVVSUmpac1NKOHgzZWNlYXQ1dVJFUFhna2wxUlF0Z0hnTndUMUljTEVnc0NlRzQ2UFpzQTgySFhLT240aU5iOWJwaENQUVZPV1NxLUhnMkNGY0hDdDVIRlFFRFJPT2FVT3BFSlBJNktwZFNjNlZITHViQ2FXSFZLNkUzaHJOckk3anhiaHNJU3NEeEdtMk1hQXptd184eW1EUXo1SWM?oc=5",
+      "date": "2026-09-11T20:53:07.676703+00:00"
+    },
+    {
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "date": "2026-09-11T20:53:07.676703+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXAxdU5ESG9vS2EtNk9Sd1NCUDEzSzgyRnpNTjhIQXBhWExvV3UzS0lQNWNkN3lsaVMtNENINzdaRGRja3ZnbTRDNGJIeDBHeVRtcHBzOU9aLWotVnBXRDd5SGRBb1hHMjRrcDA4UmdVWUZzSTg1bGhuajYteHg2Y25mdU16VkwwVlNyaklQSFhBWmRWOUdvUkwyMlJmLXV0UUVOczNJZkpHVF84VUhISzlWMEdJXzVnRHdhTndpX1l3ekt3YnEyaGlYdlJ5QTNkcURfM0ZkbGlfR3dPcUcyd1E5RzluLUtU?oc=5",
+      "date": "2026-09-11T20:53:07.676703+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10702",
+      "date": "2026-09-11T20:53:07.676703+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLUllQm9GSVhqampKNXBQSjcxVENFX2lwN0xwU05wZVlxdzNnNU9iOXBRV0FQNU5HWmxyRjM2Y243TEd4SElLYkpIYjQ4YnUyZnk1cFdiQWF4S3oteGx3OThldTlsSzQ1bXhXbXJxYVFoZ2w2bTBWdDlpWEZkZmFWWTlxWHBsM282OWdkTU5yUTkyYllxbTBDOWIyZDJ0NzdGS1dPdEV4djV2RHp0Q29oaUM4aw?oc=5",
+      "date": "2026-09-11T20:53:07.676703+00:00"
     }
   ],
   "word_history": [
@@ -362,6 +362,7 @@
     "Quantization（量子化）",
     "Reward Model（報酬モデル）",
     "Distillation（蒸留）",
-    "Inference Optimization（推論最適化）"
+    "Inference Optimization（推論最適化）",
+    "Latent Space Language Model（潜在空間言語モデル）"
   ]
 }
