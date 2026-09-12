@@ -1,26 +1,6 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "date": "2026-08-29T01:43:19.957393+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-for-teachers",
-      "date": "2026-08-29T01:43:19.957393+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.26112",
-      "date": "2026-08-29T01:43:19.957393+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ySHJLYU1RTzJHQzUxVV85ZXBKNFl3VGNOeEtOZ2lXU2hCUjAtUVJOMWZObmYyU3FYYXQzdVhtbkFCOWhfTzdTblBDUmY3RlpwOVBj",
-      "date": "2026-08-29T01:43:19.957393+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUE3UDhTbTN2MWtYenJsbUZFWmtZZ093V1E5NHI0bTN6VS1wY1h4MjhpVHlSeWFrR3ZmRmlwc0VxbEdpVjB0ODhOSEdLWGdFLUlyQXQ5dkVFSmp5S3BMQmNPRjBQdUs1MTRIN1VXeDRxU1pEUjdDR1pEVkNzX2VRd25qUW5LZEh6aVE2bmZTbVg2dFAzSm5Mdlg2amYxLVR6ZU0yVmwwejkxazRfMHV1dlpLdHY4Y3VQMnVr0gG7AUFVX3lxTE83MzJxYTVYYUk5NGtCVmZQdC1sMGdtLXFFa2QtT2ZCWDFnNHBETlZiTV9GaGJydDFQZGh1ZGRjLXkzTkpvblRpZ2lnUmh1Z00yQUVTWDFZZUJUS2hpdllRSjg1WEVaZEptRGcwdFgyNWM1RXBza294VF9FT0czQ25nZU1MUEdMUE52eUJEQk1GZmcxNVEwQ01vbTNWb2dzR09wQ25ETElyU1pTcDlCYWFFR3NpS1hLVU5UZk0",
-      "date": "2026-08-29T01:43:19.957393+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSkk3QVo0cVJKbmpvbW0yR2VoZGtCOXJRaGdaSzh4TExkQ1l5Ym5rdUNuQUJXczdVcXpzTmVlTkhYOFhUQzFqRUNrcmJ3TGkzMDZ2VEpVU2xDTWNLU3BqQU5vTGJZcGlWeE1PVUVqZG5jbE1UeFh4MEE3SXFQaldzM1dPNUxWTHNMdFE0R0doU3JjeUxyaHk3MFkyMW02T21HRktOUG9NbmFSXzBzZGVaeng4a05lME9kek53UmtWUXI5dXlKaDRXODR6b2VxNC02TUE",
       "date": "2026-08-29T20:51:01.541072+00:00"
@@ -312,6 +292,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLUllQm9GSVhqampKNXBQSjcxVENFX2lwN0xwU05wZVlxdzNnNU9iOXBRV0FQNU5HWmxyRjM2Y243TEd4SElLYkpIYjQ4YnUyZnk1cFdiQWF4S3oteGx3OThldTlsSzQ1bXhXbXJxYVFoZ2w2bTBWdDlpWEZkZmFWWTlxWHBsM282OWdkTU5yUTkyYllxbTBDOWIyZDJ0NzdGS1dPdEV4djV2RHp0Q29oaUM4aw?oc=5",
       "date": "2026-09-11T20:53:07.676703+00:00"
+    },
+    {
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "date": "2026-09-12T20:28:18.099908+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10712",
+      "date": "2026-09-12T20:28:18.099908+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2k3eFBPZ19fQ1NzcE01UEExWWZSR3ByUGJYQk4xZ3owX1dHbmJGcW8tdWJfM0xOVkljTlhvTTgyU2twYUZBT0hrUUFNUWdwaDJaQXVPeTkwRENOdDRYb1ZVa3pBR2tpdnJGUkZqN0ZQLTFVSlhodHl6ZHROcHVlV1NyNUxxNjA",
+      "date": "2026-09-12T20:28:18.099908+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.11018",
+      "date": "2026-09-12T20:28:18.099908+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.10656",
+      "date": "2026-09-12T20:28:18.099908+00:00"
     }
   ],
   "word_history": [
@@ -363,6 +363,7 @@
     "Reward Model（報酬モデル）",
     "Distillation（蒸留）",
     "Inference Optimization（推論最適化）",
-    "Latent Space Language Model（潜在空間言語モデル）"
+    "Latent Space Language Model（潜在空間言語モデル）",
+    "Reinforcement Learning from Human Feedback (RLHF / 人間フィードバックからの強化学習)"
   ]
 }
