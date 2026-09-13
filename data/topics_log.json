@@ -1,26 +1,6 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSkk3QVo0cVJKbmpvbW0yR2VoZGtCOXJRaGdaSzh4TExkQ1l5Ym5rdUNuQUJXczdVcXpzTmVlTkhYOFhUQzFqRUNrcmJ3TGkzMDZ2VEpVU2xDTWNLU3BqQU5vTGJZcGlWeE1PVUVqZG5jbE1UeFh4MEE3SXFQaldzM1dPNUxWTHNMdFE0R0doU3JjeUxyaHk3MFkyMW02T21HRktOUG9NbmFSXzBzZGVaeng4a05lME9kek53UmtWUXI5dXlKaDRXODR6b2VxNC02TUE",
-      "date": "2026-08-29T20:51:01.541072+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "date": "2026-08-29T20:51:01.541072+00:00"
-    },
-    {
-      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-      "date": "2026-08-29T20:51:01.541072+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.26157",
-      "date": "2026-08-29T20:51:01.541072+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.26199",
-      "date": "2026-08-29T20:51:01.541072+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoQm9PVnR2QlFUNjNaUF9lNDVteEYweEtRaHBMMUJzNkJwSWlhRDZJYzBmb1NWWGltdlBod24wZHVMakpmd3BhSGVoRWdMc1NFQXBGNWR5Zw?oc=5",
       "date": "2026-08-30T20:56:40.476670+00:00"
@@ -312,6 +292,22 @@
     {
       "url": "https://arxiv.org/abs/2609.10656",
       "date": "2026-09-12T20:28:18.099908+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdTBkcTJTZUV4eFBPTGhURGNqTjRodllXRG02RnBXRklxRUpHMVEtNTJNaEVXYWZGbUpMUHFnY0h2cEM3Yjk5ZFBadFFjQl92M3R4T0tEZnZ6UVJKSnQxVmNqeWIyQ3gwREd6ZnkwYnJ5LUhOWkpiZGZ5WE5zejF6LVc2dzlNTml1Z25vbXE2cWVIb1E?oc=5",
+      "date": "2026-09-13T20:40:00.277719+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDhIVDBwOFpsTDBsWEFSaDhpMnlaMDZ2VkZPZmp1YkNOdjdreXIwcVVTUzBqbXJJQTFzM05lTWxUd1F6em9BYXZZWlJadTBkTHV0SGIwTl9HdVVTZWl6UUFwSmFTSkFWb1BjX1RQQXpnQWdkRTFqYmlDMmx5eUdfU0JoSjJ4dHNkb3ViNk9UdUNyUWlOdDlfeGMtOFZZbnRxZzBXLTBjYWVGMUJrTFlFSFNDWnZnNExKOS16ckRxdw?oc=5",
+      "date": "2026-09-13T20:40:00.277719+00:00"
+    },
+    {
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "date": "2026-09-13T20:40:00.277719+00:00"
+    },
+    {
+      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "date": "2026-09-13T20:40:00.277719+00:00"
     }
   ],
   "word_history": [
@@ -364,6 +360,7 @@
     "Distillation（蒸留）",
     "Inference Optimization（推論最適化）",
     "Latent Space Language Model（潜在空間言語モデル）",
-    "Reinforcement Learning from Human Feedback (RLHF / 人間フィードバックからの強化学習)"
+    "Reinforcement Learning from Human Feedback (RLHF / 人間フィードバックからの強化学習)",
+    "Emergent Abilities（創発的能力）"
   ]
 }
