@@ -1,46 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "date": "2026-08-31T22:44:53.008831+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGVpZmlzQ09VYkdFQktNaG5fWmNRTlZiV1czLXREc3FWcEtINjg0RF9rM2RUcER4T09pSlVMUkYzejJKWFNuTFZHYzhnZXFoaktSeU5JUTlMRC1mT2pzdkNuT19mQ2NQbTNySllWZUdLa1RhUEpFWHpSOVFpalU3dDZBMjFVaERCckE5NVVHV2NOMm9TeEJEZEUxNWFjR1k?oc=5",
-      "date": "2026-08-31T22:44:53.008831+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmZPX3lCdDc0UmdEMG1uY0tTLTF1U281d29Tc05nRDdoTGROcmYwVnBZR29HMHV6UlBlbEZsbDZUS2IzUTYwY2xUZ0dsa0RTaDNVZ1pqVmgzSnhzUXlPR3N1OW5jWlRqNndZSC1xSEYtS2JSWXI5OUhZUDh1TGlvSnNaVFBqRXJqMWYyZ016cU5KaFZLZ0VNMEN1UzNYN2t3RTI5dGZPTEhhWGFlVEZLT1o1RHJOM01ER0hhVw?oc=5",
-      "date": "2026-08-31T22:44:53.008831+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "date": "2026-08-31T22:44:53.008831+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YbGVHZnRUMW1TcHFiYVZVVzVzUl82Wlh2UnpjazJULUxndVg0S1hodkZWdWttNG03YkZNd2g2d0Z1dGVYRUVLWlQyR1l4dzlsR1BZOEVfVFdiVWIyd2JOeWwxS1ZaeUo0UWNxeWpGWUw5R25hdWc?oc=5",
-      "date": "2026-08-31T22:44:53.008831+00:00"
-    },
-    {
-      "url": "https://openai.com/index/path-to-astra",
-      "date": "2026-09-01T20:56:50.394329+00:00"
-    },
-    {
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "date": "2026-09-01T20:56:50.394329+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "date": "2026-09-01T20:56:50.394329+00:00"
-    },
-    {
-      "url": "https://www.pandaily.com",
-      "date": "2026-09-01T20:56:50.394329+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "date": "2026-09-01T20:56:50.394329+00:00"
-    },
     {
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
       "date": "2026-09-02T20:56:00.475663+00:00"
@@ -312,6 +272,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVjhKYjlQSjFGLXVnX1hCYkllMUR0VGpUZVM3OUJLOTd3RDVScl9uM2FCY2RQT0VPb1ZCT1VKZ3BZa0U1QUcyWURBM3V5bkkzeG5fdVk1WnFqVGZSLWxhMXA4ZkwtM0hWV201SU41V1JSY2JLaEQ1TEotYkVrVkJ0Mi1TenBpSHpjM3dSVFpDbF9iQQ",
       "date": "2026-09-14T21:44:32.443151+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "date": "2026-09-15T21:11:46.878816+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13682",
+      "date": "2026-09-15T21:11:46.878816+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94c0RfZURESHhXSWx0bzdjbEp4NHlLT2VHaWpMVEtlY3dRYWZFTTRybTFXdWhidjU3dVp4MnlaVy1uNGRycHRSVWlkVXQwamdtc0NzeTV6ajVvajllaXdqS3NDenZXNTc4c0FuRURteGJGdHM?oc=5",
+      "date": "2026-09-15T21:11:46.878816+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13356",
+      "date": "2026-09-15T21:11:46.878816+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13436",
+      "date": "2026-09-15T21:11:46.878816+00:00"
     }
   ],
   "word_history": [
@@ -366,6 +346,7 @@
     "Latent Space Language Model（潜在空間言語モデル）",
     "Reinforcement Learning from Human Feedback (RLHF / 人間フィードバックからの強化学習)",
     "Emergent Abilities（創発的能力）",
-    "Confidence Calibration（信頼度キャリブレーション）"
+    "Confidence Calibration（信頼度キャリブレーション）",
+    "Routing（ルーティング）"
   ]
 }
