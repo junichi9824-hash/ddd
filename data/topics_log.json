@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "date": "2026-09-02T20:56:00.475663+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IS2JDTXdWekVaY1pyZmN0eGhCSjF1bGhaZzFpem16UXVvQVVFd2JMSjhtN1FuRDBxdU94OHlGTzRsdEYwZF9MMnQ5Q25SaWN3TzFN",
-      "date": "2026-09-02T20:56:00.475663+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00015",
-      "date": "2026-09-02T20:56:00.475663+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00137",
-      "date": "2026-09-02T20:56:00.475663+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.00275",
-      "date": "2026-09-02T20:56:00.475663+00:00"
-    },
     {
       "url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "date": "2026-09-03T20:54:41.608247+00:00"
@@ -292,6 +272,26 @@
     {
       "url": "https://arxiv.org/abs/2609.13436",
       "date": "2026-09-15T21:11:46.878816+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0pwYWFjUzRHY01qUm9FSy1SS3NhZkJBZVBtZUVndVRtMTNFT3FJcVoya3BqNEphYnFiOFdzLUNpXzlJc0pwMEdOeEFQUlJmSFVjRXc2Q3pPZTc2bTM0WDZ6UktacTFRSUJVQ294RGtxNExuanZrWmkxUXdhVkJYQlhWU0sweTBpMWlQTndFWmU3OUNBak5vR1BiRWFkRWhtSFJKNzNqYVo3N2N4LXMyWG4zQllKMmh3SFE",
+      "date": "2026-09-16T21:12:49.936543+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlBmbjBqTWtqb01PXzlzN2JSUHJmVEtFWTdxd3BRb000aWg0VjM0WEpyX3hJUjFEQlJ3Z0pvYjQzMVJMcmdPc2IySVF1Z2Jqb3RUNjFvQkM0MDIycGR1ekc2eDg4X1EwbDg2ZUxKLUROQm5vbVBOaFctejZQZjNmTWEzQjVLaFk2azRoR3ZCakRMNnNTQ1ljUFl4SjhKUWxLMFlKWm5kcTM3M2szV0p5VnkzS0o2d3VfZmNQSmhHd2xLeEEwS2R2Ynlud3lydm_SAc8BQVVfeXFMUGJyUzNyT09xd3hGakR6ZDRmRkNwaC1zRFJPRzNEVHRSbUQxbzFrRnlCamFXZWp1bF92bG5aTDA5d1BYU2c5YUxtYi1sUjhsY01UU00xNGc5dkhpRGhoeldmN0pOb2JrUkxhY1pzSkl4U29xbG9hbUstdU1KLWtEbHRmNFE5RXYzUjNyYzBPRFp5ZUFPbDlLYjlGVktvVDlRcm4yaU5zbTNUMjlDWjJaWFBXRC0xa0lGcThtUFJ0TG1ZXzI2M3RCZDZkT1hMY1Fz",
+      "date": "2026-09-16T21:12:49.936543+00:00"
+    },
+    {
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "date": "2026-09-16T21:12:49.936543+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15990",
+      "date": "2026-09-16T21:12:49.936543+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42SGVodk1NMDR2Tm1zSmR6cTFrRjNGWV8zRzBFdlRwZC1DU3V2QXRPMlVjc0p0YUZkSkRrQ3AwTzlEMnlGRmpfU0VKWFlkQ1BGN2I0VGRlRF90TmtVbG5Tb0hqd3JzelU",
+      "date": "2026-09-16T21:12:49.936543+00:00"
     }
   ],
   "word_history": [
@@ -347,6 +347,7 @@
     "Reinforcement Learning from Human Feedback (RLHF / 人間フィードバックからの強化学習)",
     "Emergent Abilities（創発的能力）",
     "Confidence Calibration（信頼度キャリブレーション）",
-    "Routing（ルーティング）"
+    "Routing（ルーティング）",
+    "Semantic Shadowing（セマンティック・シャドウイング）"
   ]
 }
