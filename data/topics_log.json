@@ -1,26 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "date": "2026-09-03T20:54:41.608247+00:00"
-    },
-    {
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "date": "2026-09-03T20:54:41.608247+00:00"
-    },
-    {
-      "url": "https://www.reuters.com",
-      "date": "2026-09-03T20:54:41.608247+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "date": "2026-09-03T20:54:41.608247+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVmtqR2JvOTJBZFVoVDVVOVp1bnB2VlhJTlcyYnVSUnlLRDh0RFJSOW5GZmYtdHgzbEVGZHk1eVZLdmZsbFJ3NU5PMkpsU1dDdDVrWGVhV0x3cTBXc3pqNG9pazctZTh5eGptbExCd0E1T0hUeERMUzNSaTFtVVBpeWx5ODVaTGhzRmRhLXFodWMzdW9fTWxidGljeTdpcWNvd0ZYVXh4TTRDVVppbERkMjdOZmYyd1d2NnE2MVZZU3RxV2lJTDB1N2FVRjBvSTZBVUI",
-      "date": "2026-09-03T20:54:41.608247+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2JjdG0xZVFfY3YyalRpcjBfNmU1LUs4NFdpRGZpM0c0UFB5ZWtpZV9FWFZpTkVpNkptRjJRODJBSHFHMGFRS0FudEZPNHFQYW9lZkFnaXVaUC1ycGlsR2ZjaEdrS3J2NFpjTGJxN0ZENUN0aHA2d0lseV85dnhPdmplT1Yxd0xQYnhaOFpPYmhaZGROTlAxNlNJTk1uZjdodkRpT1l4Y2FNMC1zNFBESmNCMzNSZw?oc=5",
       "date": "2026-09-04T20:41:38.107740+00:00"
@@ -292,6 +272,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42SGVodk1NMDR2Tm1zSmR6cTFrRjNGWV8zRzBFdlRwZC1DU3V2QXRPMlVjc0p0YUZkSkRrQ3AwTzlEMnlGRmpfU0VKWFlkQ1BGN2I0VGRlRF90TmtVbG5Tb0hqd3JzelU",
       "date": "2026-09-16T21:12:49.936543+00:00"
+    },
+    {
+      "url": "https://openai.com/index/astra-for-law",
+      "date": "2026-09-17T21:14:20.321675+00:00"
+    },
+    {
+      "url": "https://www.cnbc.com/articles/moonshot-kimi-wall-street-deals",
+      "date": "2026-09-17T21:14:20.321675+00:00"
+    },
+    {
+      "url": "https://digitimes.com/ai-reshape-technical-work",
+      "date": "2026-09-17T21:14:20.321675+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "date": "2026-09-17T21:14:20.321675+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.17848",
+      "date": "2026-09-17T21:14:20.321675+00:00"
     }
   ],
   "word_history": [
@@ -348,6 +348,7 @@
     "Emergent Abilities（創発的能力）",
     "Confidence Calibration（信頼度キャリブレーション）",
     "Routing（ルーティング）",
-    "Semantic Shadowing（セマンティック・シャドウイング）"
+    "Semantic Shadowing（セマンティック・シャドウイング）",
+    "Retrieval-Augmented Generation (RAG / 検索拡張生成)"
   ]
 }
