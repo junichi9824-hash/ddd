@@ -1,26 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2JjdG0xZVFfY3YyalRpcjBfNmU1LUs4NFdpRGZpM0c0UFB5ZWtpZV9FWFZpTkVpNkptRjJRODJBSHFHMGFRS0FudEZPNHFQYW9lZkFnaXVaUC1ycGlsR2ZjaEdrS3J2NFpjTGJxN0ZENUN0aHA2d0lseV85dnhPdmplT1Yxd0xQYnhaOFpPYmhaZGROTlAxNlNJTk1uZjdodkRpT1l4Y2FNMC1zNFBESmNCMzNSZw?oc=5",
-      "date": "2026-09-04T20:41:38.107740+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa3RpRFFxZVdLcmd4TW9jUndJZlR2OVYzVmZiZXI3LVNfN1ZYVTNoT2RiRXJMcXFubjRoZkh1Y2VGSldEWWxMbUQ4cUt3Mmg1emh6WkhWajNYa1BHaFdpT04zNzQ2WlEzN0dET1ozWHBncEFWSjJONnFpNHBPa0N3dE9n?oc=5",
-      "date": "2026-09-04T20:41:38.107740+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.03181",
-      "date": "2026-09-04T20:41:38.107740+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "date": "2026-09-04T20:41:38.107740+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0enc4X1Q4N2Q4cENWODdnc1FsOXpxeVJIVUQwRXNWSzA3VjBCczlpLThrM0ppLUZIMUVxTnJHZVZna2VJcjhIRGhPcnRtT1NYQVBSejIxWFhGVkN2VEo4ZVluZl9GUWtXbnQ3OWwzU2dKQ1VXVFE40gF8QVVfeXFMUE5CMnNXUG1hLThFa2ZBQkRvNVhIbnNpeDNfWGxSSzRKWTRjWUFIRm1xbHZuZDBJYlEtMkUxLTdIWFVsSzd0VF9hQXF1ZXo0WWZCYnNzbmV3bVRDRmhFTUdCWmRKOTIxZVphaERqQ1l6NkhnbzRWMW1mT1lsYw?oc=5",
-      "date": "2026-09-04T20:41:38.107740+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmtpbFBmOWl2NkpQOVYyMEUyV0NvNWVKLTJrQ2FBNTZVRUlUbUhUdHFNV2g2bU5yUUdnNjQtUXRWXzFaUTcxSW5HR1JKWWR6Q3ZhTXBaVGJYdTdiRTBfUGVQaVhEY3BvSkRTYW9Za3ZINTRNc2lFRTBEbWM5bjNXN01ySmoyV2ZkRHJDUk5kajNyRFdIUGVkTllVREFLU0czWldRX0pzRVp3SnAzZTk5Q0lvSEs3bkFVSUZfVGVpMUo",
       "date": "2026-09-05T20:15:03.211631+00:00"
@@ -292,6 +272,26 @@
     {
       "url": "https://arxiv.org/abs/2609.17848",
       "date": "2026-09-17T21:14:20.321675+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTC1FR2JYdFEyUl9KZEQycnktcjFoZ3Jmbkx3SzBiR28yd1V3XzNsMUVXR21lRUsybXo1NVg3djhkNjJjQ0JyNlRUa2tQbE9oanNpZFdid1JLR1BUMVhWcll0R043R0UxelBJaEV0MndXZ2h5LVJyLTdhbWZDTUNPYlBhZW5TOGVIREZsZFpKb04yS2pBbzc0eDZoSkE",
+      "date": "2026-09-18T20:49:08.671990+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSkw5NG1LTVF0ejF2YlMtMllTTW8yQW1TaFVXYS1tMEw4QjJaZ2RDUjlLZlYtMXh1dmJnR0JUS3BQbUl1YTZWemlTQTNTdVFIbzY2LUx1Ynk1YkRUOTRvMThEMEN0bTB5Z0RqVzZYS0pnQWQxcndtbVRLeTM0TW41S2hSLXZiQ1dhM1hoNmdvZjdyWHdH",
+      "date": "2026-09-18T20:49:08.671990+00:00"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "date": "2026-09-18T20:49:08.671990+00:00"
+    },
+    {
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "date": "2026-09-18T20:49:08.671990+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.19417",
+      "date": "2026-09-18T20:49:08.671990+00:00"
     }
   ],
   "word_history": [
@@ -349,6 +349,7 @@
     "Confidence Calibration（信頼度キャリブレーション）",
     "Routing（ルーティング）",
     "Semantic Shadowing（セマンティック・シャドウイング）",
-    "Retrieval-Augmented Generation (RAG / 検索拡張生成)"
+    "Retrieval-Augmented Generation (RAG / 検索拡張生成)",
+    "Full-Duplex Speech Models（フルデュプレックス音声モデル）"
   ]
 }
