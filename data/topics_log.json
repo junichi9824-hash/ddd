@@ -1,26 +1,6 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmtpbFBmOWl2NkpQOVYyMEUyV0NvNWVKLTJrQ2FBNTZVRUlUbUhUdHFNV2g2bU5yUUdnNjQtUXRWXzFaUTcxSW5HR1JKWWR6Q3ZhTXBaVGJYdTdiRTBfUGVQaVhEY3BvSkRTYW9Za3ZINTRNc2lFRTBEbWM5bjNXN01ySmoyV2ZkRHJDUk5kajNyRFdIUGVkTllVREFLU0czWldRX0pzRVp3SnAzZTk5Q0lvSEs3bkFVSUZfVGVpMUo",
-      "date": "2026-09-05T20:15:03.211631+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JUGhsVVVqSmFCLXRiNXlmaTJINTJSS25FMjh5Tk1ISnU4UEF6dk1ZSHVEblV2TWxOMWJrRTV2bF9rWlBPMDdURXVBX1VENXFqNEszUjlrQlhkSzZPeURTTEJjbG9fdUhkRkhJYm03cWlPLTBpNEE",
-      "date": "2026-09-05T20:15:03.211631+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qd19iQ0dxM3dJRC13RDBrbDlLME5LMGJ6bXE2cElYQUVQTHBBY1Nua1A4YU96d2RVZDZack5TdVdBVmtZbVlWbnhSYVlTZE14OU1N",
-      "date": "2026-09-05T20:15:03.211631+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VVZwOU9RSXJKMkpDQ1VxTXI2bFhFZV83RFJvWjlxNU54TzlQNkJmUWExVm1QT1R6OWlNNmpubU02cDNKc0QzYUtJTUhNZWFDRDRhZTFEWEdPWUxOcmZzZ3JkNUdVcFJfZ1M4SmV1U3FkclF1MGRtQ0N4MWM",
-      "date": "2026-09-05T20:15:03.211631+00:00"
-    },
-    {
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "date": "2026-09-05T20:15:03.211631+00:00"
-    },
     {
       "url": "https://openai.com/index/an-alien-mind",
       "date": "2026-09-06T20:18:56.971186+00:00"
@@ -292,6 +272,26 @@
     {
       "url": "https://arxiv.org/abs/2609.19417",
       "date": "2026-09-18T20:49:08.671990+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTNLY3QzSDJwV0VoSmRiSmlxaW40N2Y2Mmpabkc5Vi1DdEZjVmVVU1JsSFlUbjdEUkUzS1lheXliRS1YRlRTbUVLNzUyWjktZW83NzluTU5tSzNRb2ZZdEoteDQ4czJiTmZOOGdEckVqblhZVkJwMW1tb1JRb0UycTJKaDNWekc3MDVFaC15M0ZsTFpVeFdRQUdQVXY2ZlNCOVp5TnEzVzhYNGVFMHNseElldHdjQQ",
+      "date": "2026-09-19T20:30:05.393051+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3hVUElCbEQ2RVhkY3ExU2VOcFU1clZTWUs0SktDNU5KMG5LS1pjSVctWlhHMk5IazFYMDZGWE5wRWY3TkhndFUyVnRpekpTV3diSkM2ZG1DMkJnSEk2ZGVlb2VqNzRheXc2eWZJSUtGcE5RQnF1QzVsblp6V1VlR3RXSzU2T2g3WWswbWxVbjE4SG0yNDZ0cEdwcTU5NHdVdGtQSGY1dWpPWmtrcF9LZGFpc0c5U2poNy1ucW1EdmlPV2pyS2c",
+      "date": "2026-09-19T20:30:05.393051+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWW44Y1lja0FHYlU5bHBOSjZxc1h1by1tNGcyaEVtcDVtZkJrbTJNeGQ1SVF4X3Z5UkdSUWFhUi1EN3NnVHlCbS16T2NzSzJFbHozNHBRSXRLMEdMRDdNc2lQSEVHZzVNRDJCRkNmMUNGYTB4ZUE",
+      "date": "2026-09-19T20:30:05.393051+00:00"
+    },
+    {
+      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+      "date": "2026-09-19T20:30:05.393051+00:00"
+    },
+    {
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "date": "2026-09-19T20:30:05.393051+00:00"
     }
   ],
   "word_history": [
@@ -350,6 +350,7 @@
     "Routing（ルーティング）",
     "Semantic Shadowing（セマンティック・シャドウイング）",
     "Retrieval-Augmented Generation (RAG / 検索拡張生成)",
-    "Full-Duplex Speech Models（フルデュプレックス音声モデル）"
+    "Full-Duplex Speech Models（フルデュプレックス音声モデル）",
+    "Adapter (アダプター) / Parameter-Efficient Fine-Tuning (PEFT)"
   ]
 }
