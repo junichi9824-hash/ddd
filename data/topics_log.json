@@ -1,22 +1,6 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/an-alien-mind",
-      "date": "2026-09-06T20:18:56.971186+00:00"
-    },
-    {
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "date": "2026-09-06T20:18:56.971186+00:00"
-    },
-    {
-      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-      "date": "2026-09-06T20:18:56.971186+00:00"
-    },
-    {
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "date": "2026-09-06T20:18:56.971186+00:00"
-    },
     {
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "date": "2026-09-07T09:20:04.777933+00:00"
@@ -292,6 +276,26 @@
     {
       "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
       "date": "2026-09-19T20:30:05.393051+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcW83SUN6S3dlZ19qVVgwZ3h0bmpwemJRRmZ0RFhsT3hkbEhUQ3JWOVFWSWpSU0NEYTNHTlp1RWZyVE00dFJSUjJ3UFMxTjhZWUU3RWRZOV9iSjZVUUVxc1ROd25UWkJqZmFOSDdwWlFLQ2gxV0UxeWNxbU8xRFY2NUZtYXc3NnVBU1NYcWJTcUVxdW8wYjk2aVMyc1k1QnQwUllPc0xTTkxQczdHeGNCSlNtOTRsSHR6VW81RWZXVXFaa3BrajRZdGp2ejR6VExKcTduRmRaTQ?oc=5",
+      "date": "2026-09-20T20:41:41.997028+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNakFkM2h4YjhMMm9IZl8td1dqS1RuRkVXVG9wRUgtb0xoNTNxWEtJTVF3WTc2d2lMTkVScUxrVU8xYXdJcWR2S09xZ2Z4N0UtVklfNXh4dEw3X3NLdm1MVXFvampScTN5bVNvNldQVmhjVTJVSjU2d1V2Y3lGZ0l3U1c2QzVEQ1hrbzdfakh3dVRJQlXSAZgBQVVfeXFMTlVBal91aTJMYUhIMXhTQWttd081Z0RvamtVMHg1VG1zVHRUWDcxYnNvMllPU2xNTlJINFpTM0tEanhHSWpVOVBzeXVZVElsRW5JVU1VM3QzdU9Ob19EOUpWX09yeUV1MDhUN1h4cUFjZEZTSHdJSVdmUnFRTWt1elNKQ0ZfbUNsNjVHc09lSl9ZSlhuT0p0RVU?oc=5",
+      "date": "2026-09-20T20:41:41.997028+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBURmg4a0h5UjhaZnhrNXBOb0Z4ck5PQUtESUFVOGtIVmpld2wtYWRIOU5XWFVPaV9ZVUdRWXJDcTNYSnV1cVZwY3VZYkJabGJRMjVDRFNqQU5oaXhJYkJxb1NtU1drWndGZHM3ejdNaktUbkF5MmpYNA?oc=5",
+      "date": "2026-09-20T20:41:41.997028+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmJfTDNkaFR6VTZRZ21FQV9yaXZXc3VZMWNlckZaSWg3aGpwX3gxelRBOTNmeGxxTzJRNS1qTFBxWHZXRzlka1hJY3dpcDRxQndBUTU2X1BwSE5XYUg1UjBjSW1lTHZYRW1QX2xUUHdvdTVzSHFZSnQxZGtVX0ZKekppWWFnUno4SGxXeF92WmFIRG1acl80OHFNeUNfS1BtMjAtNA?oc=5",
+      "date": "2026-09-20T20:41:41.997028+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FZmx6VTd3REIzdDcxS1JyeUo2WjdfM1ZRbmRFWEJSbDZPaXNOZTFyTGlRZlYtNC1VZVRDVkxEQjZRY2NQUFVLVlZTVlpsWHlpWGVhdG1WdkUxS3VidEJ1YzIwMVRTWHExcFd6RVVTSGFzSG5JMHc?oc=5",
+      "date": "2026-09-20T20:41:41.997028+00:00"
     }
   ],
   "word_history": [
@@ -351,6 +355,7 @@
     "Semantic Shadowing（セマンティック・シャドウイング）",
     "Retrieval-Augmented Generation (RAG / 検索拡張生成)",
     "Full-Duplex Speech Models（フルデュプレックス音声モデル）",
-    "Adapter (アダプター) / Parameter-Efficient Fine-Tuning (PEFT)"
+    "Adapter (アダプター) / Parameter-Efficient Fine-Tuning (PEFT)",
+    "Benchmark / ベンチマーク"
   ]
 }
