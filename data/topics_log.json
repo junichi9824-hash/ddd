@@ -1,46 +1,6 @@
 {
-  "category_index": 3,
+  "category_index": 4,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "date": "2026-09-07T09:20:04.777933+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04290",
-      "date": "2026-09-07T09:20:04.777933+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04485",
-      "date": "2026-09-07T09:20:04.777933+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04298",
-      "date": "2026-09-07T09:20:04.777933+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjhEY0ZZS05RYnE4OXkzLWE3ZDFGenJJNnFyUDFIenlfbkNFX1NSaTNBVVhJZHRpMHVjdjhnNVBXNlJPS2VrTDRVZnZmLWlFeW9DOWJLazUtdXozVnVIaFRJeVNNdzh0b1pEWWFDRmhzc1o1OWIzcHU2UTZfUWxnZGJ2ZGktYmpYU3RaUXlkbW8yNGdONHhqaWtEQ094YkNBWHdJVGkwTUVXZ3FYRUthcEdrTG4zOEtWVnRTcnk3aEZCcTF1YkhkYnhnOVjSAcwBQVVfeXFMTjJMX2UzVFpCM0k0a1FxRVdjZjVMYjlCMzlQWnVNM2lpYmlHSlVoaG51YnpvRFMwNTFnYms4UFBfbWJaekc0a3UwbjBITC0tSVowYmNva1VXSHlYZ212Ri11STVWeUdiWlJneGJvUURKOGY3NzM3TWpLZ2VncnNvaThhMm9NM3RMTlphbDBLU3pGVDZwVU8yNW1rZEJ2ZnJRWEJnSTR1UjNBcDRyZlRoYmw3eXltRFNrS0pnWGRxR2RfYldRaGZ5QzlXb0cw",
-      "date": "2026-09-07T09:20:04.777933+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04526",
-      "date": "2026-09-07T21:26:29.388083+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16UHpfYXBMLXl0eDFCVm5pSUtTa2c0ZGFZQnpPeTUxTTFQMS15dXhkUUFEV25YN2ZsWXBaM1o0aGo1dF95T0gtR3h3R3gtektUT0d0OUZJcUtIMTZKc2hoN3EwajJZOG5Oa2swU1NTYw",
-      "date": "2026-09-07T21:26:29.388083+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04373",
-      "date": "2026-09-07T21:26:29.388083+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04463",
-      "date": "2026-09-07T21:26:29.388083+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04442",
-      "date": "2026-09-07T21:26:29.388083+00:00"
-    },
     {
       "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
       "date": "2026-09-08T21:02:43.033366+00:00"
@@ -296,6 +256,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FZmx6VTd3REIzdDcxS1JyeUo2WjdfM1ZRbmRFWEJSbDZPaXNOZTFyTGlRZlYtNC1VZVRDVkxEQjZRY2NQUFVLVlZTVlpsWHlpWGVhdG1WdkUxS3VidEJ1YzIwMVRTWHExcFd6RVVTSGFzSG5JMHc?oc=5",
       "date": "2026-09-20T20:41:41.997028+00:00"
+    },
+    {
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "date": "2026-09-21T21:55:33.749715+00:00"
+    },
+    {
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "date": "2026-09-21T21:55:33.749715+00:00"
+    },
+    {
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "date": "2026-09-21T21:55:33.749715+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.20824",
+      "date": "2026-09-21T21:55:33.749715+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.20971",
+      "date": "2026-09-21T21:55:33.749715+00:00"
     }
   ],
   "word_history": [
@@ -356,6 +336,7 @@
     "Retrieval-Augmented Generation (RAG / 検索拡張生成)",
     "Full-Duplex Speech Models（フルデュプレックス音声モデル）",
     "Adapter (アダプター) / Parameter-Efficient Fine-Tuning (PEFT)",
-    "Benchmark / ベンチマーク"
+    "Benchmark / ベンチマーク",
+    "プリフィル（Prefill）"
   ]
 }
