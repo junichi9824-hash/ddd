@@ -1,26 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "date": "2026-09-08T21:02:43.033366+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "date": "2026-09-08T21:02:43.033366+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kVVplWG9QcHBrWGpKc2xibTJBbURpUHJkV21URGZ4SnNCc3MyZm5zMTV6bGRLNHBCRjQxVEkyUkM2bnFnSHk2cGVoSklCWGFtVnVOLWN0ZDIwMW1lMnUwNXdVQ0laUkJOamp3Uk9zQmVRNFNyalE",
-      "date": "2026-09-08T21:02:43.033366+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn",
-      "date": "2026-09-08T21:02:43.033366+00:00"
-    },
-    {
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "date": "2026-09-08T21:02:43.033366+00:00"
-    },
     {
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "date": "2026-09-09T20:51:29.663267+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://arxiv.org/abs/2609.20971",
       "date": "2026-09-21T21:55:33.749715+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "date": "2026-09-22T21:11:52.567069+00:00"
+    },
+    {
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "date": "2026-09-22T21:11:52.567069+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWThhYXJzdkc0V0V3S2NkS2w0akJjUjJfdzVlSlYzSlppTUI1RlZUVW0zWmZVcGZXT1hMaEY0NDBqdTZqUk9QeUtpNXFiZ3VjSkYycUlDX2p3WUYtRm9FRjNKQXZfbjFsbVhYcWhWSXlZMDdJMGZpcFRnYTZMM2kzZjFHYnB2cjJVbDRERG5ZWXFnbkJaX0hSQmFnQU1WN0ltZDc5MjFMSHpfenJfT1BkNTZFazQtNHJVWWRnNmhXV0dlWHRXT29uR2VldXZxeDllNk51aHE2TWhnQ2VCdGlR",
+      "date": "2026-09-22T21:11:52.567069+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaXpwTWlfaEVNZmJEOEVwTTVqS01XT29ibzk4QkFmM1RFVU1nbFVZbl9fLXpVWHJnYWRRM1Zla2ltOXZ1ZmE5by1TcXkyX1FzcE1aWjNfVW1iUFdPVm0zN0ZSWnZ0UUk0MDFka0xhVk5odFU0M3ZvMzFVS21BMjRVeVl6azRtVy1LLUJR",
+      "date": "2026-09-22T21:11:52.567069+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2ZLc3FkMFBGdGM0Mno4QmV0ZFJtVWZ2X3RyLUp6SmFUX0tQQ0FPRHlLRmdJVmU5dy11SlE3SXFJUVlySDNQOXlmZTFkV3JNc19nSDlyUlhJZzgyMDY1d0VRaV9IT054T2stSTd5VWNOVVJNa0w3VHctTW9GdUJjYkRkQXdmSW1pOWllUVV4OVdOU003ckJBaWloZ0JKUmdtVTFiLVRhajY2N2pKUHhiYXV1Z3Y",
+      "date": "2026-09-22T21:11:52.567069+00:00"
     }
   ],
   "word_history": [
@@ -337,6 +337,7 @@
     "Full-Duplex Speech Models（フルデュプレックス音声モデル）",
     "Adapter (アダプター) / Parameter-Efficient Fine-Tuning (PEFT)",
     "Benchmark / ベンチマーク",
-    "プリフィル（Prefill）"
+    "プリフィル（Prefill）",
+    "Agent Scaffolding（エージェント・スカッフォルディング）"
   ]
 }
