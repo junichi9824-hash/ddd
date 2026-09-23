@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "date": "2026-09-09T20:51:29.663267+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZk92eWg4ODl3QnlnbmROdWEwaTllZm5TTFlPZXRKSnFjUUxjcnAwUGxDd2poTDh0V2N1S2xaLTI4YzN0V09YOXd5MmszMkdUWUE4V2pOcEp3SjJuVUUxZjhNeXBNbW14dl9fRGRIWTJfZkN2bFNGc0V2Zk40SEtiZzFvaFdETm5jN3d2eE1tVHgxbDktV3Bfa3FfQnpGV2tsYTRNSFFKWjFGaTNQaVZ1VGE5MWc",
-      "date": "2026-09-09T20:51:29.663267+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lTHJBMWJDT0twcnM3d2oyX3hia0ZfRTZ6MVJ3aDl4RktKSk52VjdVNXZtN3Vrblp0MnB1R1JqN082U3RxZFNJUVNydjEzVnBtUFlHay1GWWZWYjdpT240cVduWWt2OTFBaDlnOV9UV19VMjc4MThJVDh0QkVoV2M",
-      "date": "2026-09-09T20:51:29.663267+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJZU15QjJlR0xrcWp5VDI1YTgwUDktR3VMeVFYQkRncVJOMFJ5Mkd1ZkxkNGlWaWZHcXFuY3B3Uy02TGI2UGFSNmprWElXdXl3LWdxS3MtMTFiWTVXcGlJWkRqeWNwZmpZSFgzSWd6MmxEWEE2aGZFS25QaU0",
-      "date": "2026-09-09T20:51:29.663267+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "date": "2026-09-09T20:51:29.663267+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05Z0syNTRLWDhkd1Vsb0FYVEpvQU1UMTk2QlhfdUlmRnpicFZKRURmZHhBQklldzhNaHFURzczWUMzbXpzdnFxYUQ1ZlYzVjE5dTNwYjk1Y3d1VmFOeUkyQVBzMDV4ajllVUl1ZDZfT1NOTlk",
       "date": "2026-09-10T20:46:22.092156+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2ZLc3FkMFBGdGM0Mno4QmV0ZFJtVWZ2X3RyLUp6SmFUX0tQQ0FPRHlLRmdJVmU5dy11SlE3SXFJUVlySDNQOXlmZTFkV3JNc19nSDlyUlhJZzgyMDY1d0VRaV9IT054T2stSTd5VWNOVVJNa0w3VHctTW9GdUJjYkRkQXdmSW1pOWllUVV4OVdOU003ckJBaWloZ0JKUmdtVTFiLVRhajY2N2pKUHhiYXV1Z3Y",
       "date": "2026-09-22T21:11:52.567069+00:00"
+    },
+    {
+      "url": "https://qz.com/",
+      "date": "2026-09-23T21:25:40.278420+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.25611",
+      "date": "2026-09-23T21:25:40.278420+00:00"
+    },
+    {
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "date": "2026-09-23T21:25:40.278420+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "date": "2026-09-23T21:25:40.278420+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNZXdKRTNKSWxHZEFza3k0bHV2Tng3RnNuY3pjWmtCZWQwaEF5Si1IblRzRnpoamRwRV9UbmF6NFlTV1AzNXZkOGxBNVFZalQtU3RCZTJqbERuRHEyMlVEdU5SY2V6d0xQRzEtRHZJbmVLZUc1MnlvdVM5VTQxLTJaWWRjTUQwdXJRaHplMkVicHZ4SkZlbzhYcHhLS2Y4WklOam5FcnZMSURnV0Fnc0M2a1p1UTZwa0F2WW5WaklNZXBNSzFIXzZMaU9NeUFvZjdzNldwV0plWTNCcy1SLW9yNHhEREN5R2tra2hreTNXSDF5V3hXcy1EYmNhUDNBSUF2VkpyNTRKbVlGbGh4Wmt2MVJDc2hDOTFBNC1GNlRETmlObjBmSzlmbF9hYmxuZ0NSVjQwRHd2YWhUTXBJZUdjWENrUEZCTVM4UmtBYWlSdXBYaVY0YmMtV2V3ak1TVmpjTmxiR0FJSXM",
+      "date": "2026-09-23T21:25:40.278420+00:00"
     }
   ],
   "word_history": [
@@ -338,6 +338,7 @@
     "Adapter (アダプター) / Parameter-Efficient Fine-Tuning (PEFT)",
     "Benchmark / ベンチマーク",
     "プリフィル（Prefill）",
-    "Agent Scaffolding（エージェント・スカッフォルディング）"
+    "Agent Scaffolding（エージェント・スカッフォルディング）",
+    "Over-Refusal（過度な拒否）"
   ]
 }
