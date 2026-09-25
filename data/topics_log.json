@@ -1,26 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcHBnY1JTVzF0bEM5d1pZVzBIaHJRSERic0lvMnhGZ3JJZXlRMmpWTUNmTGZ4MEJoeFhTWG82bHV3ZHFULTRXSlBKaHFXLTVaS2piYVhVdHFlUmNqMlhkQnNCeUxsbkdyVlJ3ZHo2QW41bDc2YXNoZlRlYXpPeUVXOFdQM1FYUkw3bWhoSHJCNng4ZUNQODVjWHg4S01YMnI4NDBXQ3BXd2Q0ano4dzRkMEdnNG1rZ1ZHOEdqaU5IbG9wQmlQ0gHEAUFVX3lxTE9MNFVycTNTSzIyVU41WXVuMnFDUFdkRW5CTkRtQXRudVVSUmpac1NKOHgzZWNlYXQ1dVJFUFhna2wxUlF0Z0hnTndUMUljTEVnc0NlRzQ2UFpzQTgySFhLT240aU5iOWJwaENQUVZPV1NxLUhnMkNGY0hDdDVIRlFFRFJPT2FVT3BFSlBJNktwZFNjNlZITHViQ2FXSFZLNkUzaHJOckk3anhiaHNJU3NEeEdtMk1hQXptd184eW1EUXo1SWM?oc=5",
-      "date": "2026-09-11T20:53:07.676703+00:00"
-    },
-    {
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "date": "2026-09-11T20:53:07.676703+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXAxdU5ESG9vS2EtNk9Sd1NCUDEzSzgyRnpNTjhIQXBhWExvV3UzS0lQNWNkN3lsaVMtNENINzdaRGRja3ZnbTRDNGJIeDBHeVRtcHBzOU9aLWotVnBXRDd5SGRBb1hHMjRrcDA4UmdVWUZzSTg1bGhuajYteHg2Y25mdU16VkwwVlNyaklQSFhBWmRWOUdvUkwyMlJmLXV0UUVOczNJZkpHVF84VUhISzlWMEdJXzVnRHdhTndpX1l3ekt3YnEyaGlYdlJ5QTNkcURfM0ZkbGlfR3dPcUcyd1E5RzluLUtU?oc=5",
-      "date": "2026-09-11T20:53:07.676703+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.10702",
-      "date": "2026-09-11T20:53:07.676703+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLUllQm9GSVhqampKNXBQSjcxVENFX2lwN0xwU05wZVlxdzNnNU9iOXBRV0FQNU5HWmxyRjM2Y243TEd4SElLYkpIYjQ4YnUyZnk1cFdiQWF4S3oteGx3OThldTlsSzQ1bXhXbXJxYVFoZ2w2bTBWdDlpWEZkZmFWWTlxWHBsM282OWdkTU5yUTkyYllxbTBDOWIyZDJ0NzdGS1dPdEV4djV2RHp0Q29oaUM4aw?oc=5",
-      "date": "2026-09-11T20:53:07.676703+00:00"
-    },
     {
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "date": "2026-09-12T20:28:18.099908+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://arxiv.org/abs/2609.26913",
       "date": "2026-09-24T21:26:35.299841+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28554",
+      "date": "2026-09-25T21:27:13.111874+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28614",
+      "date": "2026-09-25T21:27:13.111874+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28850",
+      "date": "2026-09-25T21:27:13.111874+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ybnBqbUJsSEJOWDhzQzRHQ3dldVZYa3BCNFZDOEJsNjdYcVgtR0FmVGJMbUxnbG5PUnU2aXlqdDEwVllqZjlOV3cyWXJwS0pRRS1fS21iblg4X2VMd0swY0s2Um5JY0RrSzJyRWRzbG5NbjBDUnBPN1lwZ3E",
+      "date": "2026-09-25T21:27:13.111874+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.28487",
+      "date": "2026-09-25T21:27:13.111874+00:00"
     }
   ],
   "word_history": [
@@ -340,6 +340,7 @@
     "プリフィル（Prefill）",
     "Agent Scaffolding（エージェント・スカッフォルディング）",
     "Over-Refusal（過度な拒否）",
-    "Test-Time Scaling（テスト時間スケーリング）"
+    "Test-Time Scaling（テスト時間スケーリング）",
+    "Sparse AutoEncoder (SAE / スパース・オートエンコーダ)"
   ]
 }
