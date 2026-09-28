@@ -1,26 +1,6 @@
 {
-  "category_index": 3,
+  "category_index": 4,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/fyxer",
-      "date": "2026-09-14T21:44:32.443151+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11955",
-      "date": "2026-09-14T21:44:32.443151+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.12353",
-      "date": "2026-09-14T21:44:32.443151+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbWhldDFnZ3hqZlVDUktCX2Jua096bHRER0prdGM2SXB0ZU5GT0xfYVd4c2dfTERrQS1LMEA3SWtnbkl4SHBVU2U5QktuZWNIbTNub296LUNtbmVsTkQwX2w5T29wS1NxQjYzWU5CMHlaanJRRUc4R1NVdUZKNzJTRkJXXy0zR1JGMHlVcA",
-      "date": "2026-09-14T21:44:32.443151+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVjhKYjlQSjFGLXVnX1hCYkllMUR0VGpUZVM3OUJLOTd3RDVScl9uM2FCY2RQT0VPb1ZCT1VKZ3BZa0U1QUcyWURBM3V5bkkzeG5fdVk1WnFqVGZSLWxhMXA4ZkwtM0hWV201SU41V1JSY2JLaEQ1TEotYkVrVkJ0Mi1TenBpSHpjM3dSVFpDbF9iQQ",
-      "date": "2026-09-14T21:44:32.443151+00:00"
-    },
     {
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
       "date": "2026-09-15T21:11:46.878816+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://fireworks.ai/blog/ember-1",
       "date": "2026-09-27T21:15:32.315651+00:00"
+    },
+    {
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "date": "2026-09-28T23:11:28.852937+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-infosys",
+      "date": "2026-09-28T23:11:28.852937+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.30290",
+      "date": "2026-09-28T23:11:28.852937+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YRlA4ak40dEI3blpYTE1fVEVNT0R3aWFIdFlYTEZrTlo0V09EOGdkSVVTZVU2d1FYMEQyekE1LVZRb3lXVnNFLTZZeE92YlR3Umk4",
+      "date": "2026-09-28T23:11:28.852937+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3dlF2UlF6RER5Y054SHBEUDJYUFFIUkpZNlpjUlpJdlpfSG16d2F6X2lCanJ2SkVTYzRPY1lpaHpkNWhjVXdUaWZtdERmcm5ZTWxEMFNOU19OOFM2SXVxdWtEcWtrZy04VHNUbTVKdk5EUGdVUkE",
+      "date": "2026-09-28T23:11:28.852937+00:00"
     }
   ],
   "word_history": [
@@ -343,6 +343,7 @@
     "Test-Time Scaling（テスト時間スケーリング）",
     "Sparse AutoEncoder (SAE / スパース・オートエンコーダ)",
     "Low-Rank Adaptation (LoRA / ロー・ランク・アダプテーション)",
-    "Human Evaluation（人間評価）"
+    "Human Evaluation（人間評価）",
+    "KV Cache Eviction（KVキャッシュ削減）"
   ]
 }
