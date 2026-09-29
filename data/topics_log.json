@@ -1,26 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "date": "2026-09-15T21:11:46.878816+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.13682",
-      "date": "2026-09-15T21:11:46.878816+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94c0RfZURESHhXSWx0bzdjbEp4NHlLT2VHaWpMVEtlY3dRYWZFTTRybTFXdWhidjU3dVp4MnlaVy1uNGRycHRSVWlkVXQwamdtc0NzeTV6ajVvajllaXdqS3NDenZXNTc4c0FuRURteGJGdHM?oc=5",
-      "date": "2026-09-15T21:11:46.878816+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.13356",
-      "date": "2026-09-15T21:11:46.878816+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.13436",
-      "date": "2026-09-15T21:11:46.878816+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0pwYWFjUzRHY01qUm9FSy1SS3NhZkJBZVBtZUVndVRtMTNFT3FJcVoya3BqNEphYnFiOFdzLUNpXzlJc0pwMEdOeEFQUlJmSFVjRXc2Q3pPZTc2bTM0WDZ6UktacTFRSUJVQ294RGtxNExuanZrWmkxUXdhVkJYQlhWU0sweTBpMWlQTndFWmU3OUNBak5vR1BiRWFkRWhtSFJKNzNqYVo3N2N4LXMyWG4zQllKMmh3SFE",
       "date": "2026-09-16T21:12:49.936543+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3dlF2UlF6RER5Y054SHBEUDJYUFFIUkpZNlpjUlpJdlpfSG16d2F6X2lCanJ2SkVTYzRPY1lpaHpkNWhjVXdUaWZtdERmcm5ZTWxEMFNOU19OOFM2SXVxdWtEcWtrZy04VHNUbTVKdk5EUGdVUkE",
       "date": "2026-09-28T23:11:28.852937+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "date": "2026-09-29T22:09:40.325664+00:00"
+    },
+    {
+      "url": "https://openai.com/index/devday-2026-recap",
+      "date": "2026-09-29T22:09:40.325664+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sVFY5ek9JbFpvdF9OVjJGR2FUdGpQd1NBMG4yazlqME1fRm9iWUNIanlRdVFiaGtPTjZJMmZNbmlLa1V4Y2pFUXBjMmVvSVdJTUZmYjZLWFgtZkllam1kNVptU1hRa2s",
+      "date": "2026-09-29T22:09:40.325664+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE",
+      "date": "2026-09-29T22:09:40.325664+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.30725",
+      "date": "2026-09-29T22:09:40.325664+00:00"
     }
   ],
   "word_history": [
@@ -344,6 +344,7 @@
     "Sparse AutoEncoder (SAE / スパース・オートエンコーダ)",
     "Low-Rank Adaptation (LoRA / ロー・ランク・アダプテーション)",
     "Human Evaluation（人間評価）",
-    "KV Cache Eviction（KVキャッシュ削減）"
+    "KV Cache Eviction（KVキャッシュ削減）",
+    "Tool Use / ツール使用"
   ]
 }
