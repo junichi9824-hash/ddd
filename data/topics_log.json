@@ -1,26 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/astra-for-law",
-      "date": "2026-09-17T21:14:20.321675+00:00"
-    },
-    {
-      "url": "https://www.cnbc.com/articles/moonshot-kimi-wall-street-deals",
-      "date": "2026-09-17T21:14:20.321675+00:00"
-    },
-    {
-      "url": "https://digitimes.com/ai-reshape-technical-work",
-      "date": "2026-09-17T21:14:20.321675+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "date": "2026-09-17T21:14:20.321675+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.17848",
-      "date": "2026-09-17T21:14:20.321675+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTC1FR2JYdFEyUl9KZEQycnktcjFoZ3Jmbkx3SzBiR28yd1V3XzNsMUVXR21lRUsybXo1NVg3djhkNjJjQ0JyNlRUa2tQbE9oanNpZFdid1JLR1BUMVhWcll0R043R0UxelBJaEV0MndXZ2h5LVJyLTdhbWZDTUNPYlBhZW5TOGVIREZsZFpKb04yS2pBbzc0eDZoSkE",
       "date": "2026-09-18T20:49:08.671990+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://deepmind.google/blog/introducing-synthid-bio/",
       "date": "2026-09-30T22:08:55.792455+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEFkWkI1SGgyZWZGMGlJOGlzNlZKdWhaeGkzQTZxNWFiX1daZm5VeDlIeWMta2NEUFhpcDFJeHU4WVNIdVZWTnp6WndueDVrOW8ydEdPcU95LUJNUHhCWFB1dkx3bWloc0dfZDN4MWY2WnZxNmczTjhONXVmcDZKMg?oc=5",
+      "date": "2026-10-01T22:36:06.718088+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQdDJFV0hheDJFSlF1ZzF3X0R6WUlCTlE1bEVweU5iYmoxejNtMTRSVzJpekVZTTRMV2ZxamI3b05IMU55Tm9aMlRWMGRvWEJQS3RqMFpQM09qaVZRbFFyS1hSN0Y0SnpKRmF2VTl2U3R3c1RmWk1yRFJfVU5VcmUzZjhYVlhITUg1X1JOanFaSVlXVnRaQ2l4d3dURDdlekt3OF9MQS1UUXE4dzU5amtMMzQwdTAzdklUNWxnV3lSRmRLQndEYTBBU0lwWmNpdGtXUjdQTHBWTDF2RkljNXd6UjVhVXdhZTB1aWI5MDdjTmVxVFVjSzYwdE15MmNaalpDLUltVG5VSHFwaGl2d1luMjVrRkIzNzB0emJQZDFBZ21FUXpJOC1ieUpxNHp3a2VvNkw5aWROWkZBMTlOMmU0NHRyNkZyMmpBZjRMSmM3c19pQVlHVnJaZGFqTDhnMEZBVWJ5OElLUnIyUS15aGJqemgxa2FIUHlnVkE?oc=5",
+      "date": "2026-10-01T22:36:06.718088+00:00"
+    },
+    {
+      "url": "https://openai.com/index/the-eternal-complement",
+      "date": "2026-10-01T22:36:06.718088+00:00"
+    },
+    {
+      "url": "https://openai.com/index/the-den-family-social",
+      "date": "2026-10-01T22:36:06.718088+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.38222",
+      "date": "2026-10-01T22:36:06.718088+00:00"
     }
   ],
   "word_history": [
@@ -346,6 +346,7 @@
     "Human Evaluation（人間評価）",
     "KV Cache Eviction（KVキャッシュ削減）",
     "Tool Use / ツール使用",
-    "Model Distillation（モデル蒸留）/ Adversarial Distillation（敵対的蒸留）"
+    "Model Distillation（モデル蒸留）/ Adversarial Distillation（敵対的蒸留）",
+    "Speculative Decoding（投機的デコーディング）"
   ]
 }
