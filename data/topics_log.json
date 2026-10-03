@@ -1,26 +1,6 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTNLY3QzSDJwV0VoSmRiSmlxaW40N2Y2Mmpabkc5Vi1DdEZjVmVVU1JsSFlUbjdEUkUzS1lheXliRS1YRlRTbUVLNzUyWjktZW83NzluTU5tSzNRb2ZZdEoteDQ4czJiTmZOOGdEckVqblhZVkJwMW1tb1JRb0UycTJKaDNWekc3MDVFaC15M0ZsTFpVeFdRQUdQVXY2ZlNCOVp5TnEzVzhYNGVFMHNseElldHdjQQ",
-      "date": "2026-09-19T20:30:05.393051+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3hVUElCbEQ2RVhkY3ExU2VOcFU1clZTWUs0SktDNU5KMG5LS1pjSVctWlhHMk5IazFYMDZGWE5wRWY3TkhndFUyVnRpekpTV3diSkM2ZG1DMkJnSEk2ZGVlb2VqNzRheXc2eWZJSUtGcE5RQnF1QzVsblp6V1VlR3RXSzU2T2g3WWswbWxVbjE4SG0yNDZ0cEdwcTU5NHdVdGtQSGY1dWpPWmtrcF9LZGFpc0c5U2poNy1ucW1EdmlPV2pyS2c",
-      "date": "2026-09-19T20:30:05.393051+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWW44Y1lja0FHYlU5bHBOSjZxc1h1by1tNGcyaEVtcDVtZkJrbTJNeGQ1SVF4X3Z5UkdSUWFhUi1EN3NnVHlCbS16T2NzSzJFbHozNHBRSXRLMEdMRDdNc2lQSEVHZzVNRDJCRkNmMUNGYTB4ZUE",
-      "date": "2026-09-19T20:30:05.393051+00:00"
-    },
-    {
-      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
-      "date": "2026-09-19T20:30:05.393051+00:00"
-    },
-    {
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "date": "2026-09-19T20:30:05.393051+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcW83SUN6S3dlZ19qVVgwZ3h0bmpwemJRRmZ0RFhsT3hkbEhUQ3JWOVFWSWpSU0NEYTNHTlp1RWZyVE00dFJSUjJ3UFMxTjhZWUU3RWRZOV9iSjZVUUVxc1ROd25UWkJqZmFOSDdwWlFLQ2gxV0UxeWNxbU8xRFY2NUZtYXc3NnVBU1NYcWJTcUVxdW8wYjk2aVMyc1k1QnQwUllPc0xTTkxQczdHeGNCSlNtOTRsSHR6VW81RWZXVXFaa3BrajRZdGp2ejR6VExKcTduRmRaTQ?oc=5",
       "date": "2026-09-20T20:41:41.997028+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://arxiv.org/abs/2609.38201",
       "date": "2026-10-02T22:05:31.051925+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXBudnlWNHplOXVzQTFRN0lrSVVHUDFneFI4a0RKb053YkFkZXJ5MENTSDZSTlNPbG8xQzJYejdpbU5PYjNRdFRVcE80Sm1ldHZkalhQR1NINUZzZlNmNnRVSGhHaWxhY21nckQtTVhLSXMtWVZOalpTaF9BeGhpdGZuZDVMV2NQTFN2Z0dVX2t0cXFOTnZNZ0lwZmljdnlKN29UdVVSblZ2bVJiY1dMNkVKUFVsNWVlb1RabTA3RnE1LXc",
+      "date": "2026-10-03T20:57:32.823784+00:00"
+    },
+    {
+      "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "date": "2026-10-03T20:57:32.823784+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+      "date": "2026-10-03T20:57:32.823784+00:00"
+    },
+    {
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "date": "2026-10-03T20:57:32.823784+00:00"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "date": "2026-10-03T20:57:32.823784+00:00"
     }
   ],
   "word_history": [
@@ -348,6 +348,7 @@
     "Tool Use / ツール使用",
     "Model Distillation（モデル蒸留）/ Adversarial Distillation（敵対的蒸留）",
     "Speculative Decoding（投機的デコーディング）",
-    "Mixture of Experts (MoE / エキスパートの混合)"
+    "Mixture of Experts (MoE / エキスパートの混合)",
+    "Domain Adaptation（ドメイン適応）"
   ]
 }
