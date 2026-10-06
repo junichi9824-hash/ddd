@@ -1,46 +1,6 @@
 {
-  "category_index": 3,
+  "category_index": 4,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "date": "2026-09-21T21:55:33.749715+00:00"
-    },
-    {
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "date": "2026-09-21T21:55:33.749715+00:00"
-    },
-    {
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "date": "2026-09-21T21:55:33.749715+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.20824",
-      "date": "2026-09-21T21:55:33.749715+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.20971",
-      "date": "2026-09-21T21:55:33.749715+00:00"
-    },
-    {
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "date": "2026-09-22T21:11:52.567069+00:00"
-    },
-    {
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "date": "2026-09-22T21:11:52.567069+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWThhYXJzdkc0V0V3S2NkS2w0akJjUjJfdzVlSlYzSlppTUI1RlZUVW0zWmZVcGZXT1hMaEY0NDBqdTZqUk9QeUtpNXFiZ3VjSkYycUlDX2p3WUYtRm9FRjNKQXZfbjFsbVhYcWhWSXlZMDdJMGZpcFRnYTZMM2kzZjFHYnB2cjJVbDRERG5ZWXFnbkJaX0hSQmFnQU1WN0ltZDc5MjFMSHpfenJfT1BkNTZFazQtNHJVWWRnNmhXV0dlWHRXT29uR2VldXZxeDllNk51aHE2TWhnQ2VCdGlR",
-      "date": "2026-09-22T21:11:52.567069+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaXpwTWlfaEVNZmJEOEVwTTVqS01XT29ibzk4QkFmM1RFVU1nbFVZbl9fLXpVWHJnYWRRM1Zla2ltOXZ1ZmE5by1TcXkyX1FzcE1aWjNfVW1iUFdPVm0zN0ZSWnZ0UUk0MDFka0xhVk5odFU0M3ZvMzFVS21BMjRVeVl6azRtVy1LLUJR",
-      "date": "2026-09-22T21:11:52.567069+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2ZLc3FkMFBGdGM0Mno4QmV0ZFJtVWZ2X3RyLUp6SmFUX0tQQ0FPRHlLRmdJVmU5dy11SlE3SXFJUVlySDNQOXlmZTFkV3JNc19nSDlyUlhJZzgyMDY1d0VRaV9IT054T2stSTd5VWNOVVJNa0w3VHctTW9GdUJjYkRkQXdmSW1pOWllUVV4OVdOU003ckJBaWloZ0JKUmdtVTFiLVRhajY2N2pKUHhiYXV1Z3Y",
-      "date": "2026-09-22T21:11:52.567069+00:00"
-    },
     {
       "url": "https://qz.com/",
       "date": "2026-09-23T21:25:40.278420+00:00"
@@ -276,6 +236,26 @@
     {
       "url": "https://github.com/Niko1221/Strata",
       "date": "2026-10-04T21:13:46.127350+00:00"
+    },
+    {
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "date": "2026-10-06T22:35:46.900856+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0hfa1A1NjJCNExCcDJkTmFQOTMtOTV5MU9ZSDQ4M0pUTDBBUzdTNjVTMHpkMUROdG5qWVBXaVcza29USWdhRHd0dDcyRmdBSDBYYVYzYzVSeVN4WlhkN2pURGk4blpRaFpTYUpjeHhwTDBuQ0dmTWJKNnJIM3dmSEhFUC1TQWltODdoY1ZLSmh4MmNMakhOOXl4RHAzTXM5ckx0NTVoZ2dwc0dDaDRRVVRjSTFBc053cjVMOTl6b1VVcW5rNU9MWk9CdGk?oc=5",
+      "date": "2026-10-06T22:35:46.900856+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4WnZ4RmxlTUx3NnFXZTNNR3pETnZpQUJEVm4yYmYtQnVtQktYOUNiQ1Njdk1ITEFDMnJmTHlRbnJXOVZ5T2Fzc3pvZ2JXTlFlR2VNMmF2SEs0VGdrRXJ4N3UxY0h5bTBq?oc=5",
+      "date": "2026-10-06T22:35:46.900856+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "date": "2026-10-06T22:35:46.900856+00:00"
+    },
+    {
+      "url": "https://openai.com/index/atlassian-partnership",
+      "date": "2026-10-06T22:35:46.900856+00:00"
     }
   ],
   "word_history": [
@@ -350,6 +330,7 @@
     "Speculative Decoding（投機的デコーディング）",
     "Mixture of Experts (MoE / エキスパートの混合)",
     "Domain Adaptation（ドメイン適応）",
-    "Perplexity（パープレキシティ）"
+    "Perplexity（パープレキシティ）",
+    "Token Budget Optimization（トークン予算最適化）"
   ]
 }
