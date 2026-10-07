@@ -1,26 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://qz.com/",
-      "date": "2026-09-23T21:25:40.278420+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.25611",
-      "date": "2026-09-23T21:25:40.278420+00:00"
-    },
-    {
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "date": "2026-09-23T21:25:40.278420+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "date": "2026-09-23T21:25:40.278420+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNZXdKRTNKSWxHZEFza3k0bHV2Tng3RnNuY3pjWmtCZWQwaEF5Si1IblRzRnpoamRwRV9UbmF6NFlTV1AzNXZkOGxBNVFZalQtU3RCZTJqbERuRHEyMlVEdU5SY2V6d0xQRzEtRHZJbmVLZUc1MnlvdVM5VTQxLTJaWWRjTUQwdXJRaHplMkVicHZ4SkZlbzhYcHhLS2Y4WklOam5FcnZMSURnV0Fnc0M2a1p1UTZwa0F2WW5WaklNZXBNSzFIXzZMaU9NeUFvZjdzNldwV0plWTNCcy1SLW9yNHhEREN5R2tra2hreTNXSDF5V3hXcy1EYmNhUDNBSUF2VkpyNTRKbVlGbGh4Wmt2MVJDc2hDOTFBNC1GNlRETmlObjBmSzlmbF9hYmxuZ0NSVjQwRHd2YWhUTXBJZUdjWENrUEZCTVM4UmtBYWlSdXBYaVY0YmMtV2V3ak1TVmpjTmxiR0FJSXM",
-      "date": "2026-09-23T21:25:40.278420+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGU1QmdBMDNLUDlJNzByUU1LUWFCNHBodFQxdHN1WTk5RWo3NzdRMjNQVGlBYW1FN1laWVNtbVgxbXBrd3BnckFrZFgzRDZhSXYwb2xRYWlxMWV5alZZa1E5dDZNdDdkUTJMU1RVd3ZXWUpPU0s2aGY0MXBvSXNaZVZJTmxYNU5ENlh5c3RuUGNzMUFDZkl0aW03T1dFeWpEZnUtdmlsdm5va3Z4S00ybEtZSm91NWFjZEx3d1M5T2V2M3M",
       "date": "2026-09-24T21:26:35.299841+00:00"
@@ -256,6 +236,26 @@
     {
       "url": "https://openai.com/index/atlassian-partnership",
       "date": "2026-10-06T22:35:46.900856+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "date": "2026-10-07T23:00:09.956025+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbldRcWs3UHJ4d3c4enVrbFZEcUJTNkFBQ2tFUXlSTWlOeDdGQWtjZGZET3FydXh0TUU4X0ZaWVo0WVFpNVNqeXc0QmFtRTNPUDJaTWJZM3RWQURTc1NzNFU5OTZDREpqRUhzMlhqNW1aaGN6UEs2OG0tNXlOMXdISHlqSmdfdjhlYkx5YVFCbHN4dDFsUERFUGRQRzI4eE1qcWxB?oc=5",
+      "date": "2026-10-07T23:00:09.956025+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "date": "2026-10-07T23:00:09.956025+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07070",
+      "date": "2026-10-07T23:00:09.956025+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07118",
+      "date": "2026-10-07T23:00:09.956025+00:00"
     }
   ],
   "word_history": [
@@ -331,6 +331,7 @@
     "Mixture of Experts (MoE / エキスパートの混合)",
     "Domain Adaptation（ドメイン適応）",
     "Perplexity（パープレキシティ）",
-    "Token Budget Optimization（トークン予算最適化）"
+    "Token Budget Optimization（トークン予算最適化）",
+    "Activation Steering（活性化ステアリング）"
   ]
 }
