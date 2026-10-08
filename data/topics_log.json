@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGU1QmdBMDNLUDlJNzByUU1LUWFCNHBodFQxdHN1WTk5RWo3NzdRMjNQVGlBYW1FN1laWVNtbVgxbXBrd3BnckFrZFgzRDZhSXYwb2xRYWlxMWV5alZZa1E5dDZNdDdkUTJMU1RVd3ZXWUpPU0s2aGY0MXBvSXNaZVZJTmxYNU5ENlh5c3RuUGNzMUFDZkl0aW03T1dFeWpEZnUtdmlsdm5va3Z4S00ybEtZSm91NWFjZEx3d1M5T2V2M3M",
-      "date": "2026-09-24T21:26:35.299841+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOW9WSWNGcDRvZ0pQNEVQNEtYWjk0WDl5eloxYWVmaHo1Wk4yN0drcnNWYTRWTThrZzB4ZDYwLWlIVU1XNkVHZDBTYWVqM3B1UlN3LUN5bndIX0Fsc21UTG00aUFUWnN1UWQ2cnNfU1kyVENsNmVkTTVFdVhmcHV1eG5lSmxldS00ODltVTJQTWh4WjlJcFNmcHJB",
-      "date": "2026-09-24T21:26:35.299841+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "date": "2026-09-24T21:26:35.299841+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSVk2OUEwenhWbU5fUTIteEZ0LUdKU2FoNjlpa2ZlOF8zMVZYQVB6YUh0TGgtbWxpSllsUy1OUW9lS29lYjhJQWNHVk5ocWJUTmdpclJGUktCU3VxS2dyZGFTdXBDMVZJeVNGQVZVZnVsNXZvY0kwZ1NrNURvcENSUlliLTFfd094NDZUNWtVMmxqSXZVQldoVU01LTlHQUNsbEFzeUVUa0ZJcTAwaThkMlF4T3JvSFhsdlc3ZkR6cmRqODlRN1liWHFZX1laOVpMMy1OanI5R2ozUGVnVFFhbGdR0gFaQVVfeXFMUGRlRTk5c1lyMkpfbnZscGRodDlOWlFsOHBJVG9MMV8xcjhLTUhHZmVPbE5hTDNpWGt3bm0tN2pWMDJFQVdpX3BTU1JmTHlTXzhJUW1ycW15Tlh3",
-      "date": "2026-09-24T21:26:35.299841+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.26913",
-      "date": "2026-09-24T21:26:35.299841+00:00"
-    },
     {
       "url": "https://arxiv.org/abs/2609.28554",
       "date": "2026-09-25T21:27:13.111874+00:00"
@@ -256,6 +236,26 @@
     {
       "url": "https://arxiv.org/abs/2610.07118",
       "date": "2026-10-07T23:00:09.956025+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83X1paSEtLWjZtZUJmSHFjNHZNMjQ3LUJkd01laERndU44cl9FU1N6TlZhUFpka0dBbkdaM0xnY0RTSks2MmJzRlB0b0hzcVhGd1l1clRrWE00TS1PNmlPS3lqUE1xMGhqNUFqYmtBNjZNVktBRlktMg",
+      "date": "2026-10-08T23:14:45.823817+00:00"
+    },
+    {
+      "url": "https://openai.com/index/oracle",
+      "date": "2026-10-08T23:14:45.823817+00:00"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "date": "2026-10-08T23:14:45.823817+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "date": "2026-10-08T23:14:45.823817+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.08840",
+      "date": "2026-10-08T23:14:45.823817+00:00"
     }
   ],
   "word_history": [
@@ -332,6 +332,7 @@
     "Domain Adaptation（ドメイン適応）",
     "Perplexity（パープレキシティ）",
     "Token Budget Optimization（トークン予算最適化）",
-    "Activation Steering（活性化ステアリング）"
+    "Activation Steering（活性化ステアリング）",
+    "Jailbreak（ジェイルブレイク）"
   ]
 }
