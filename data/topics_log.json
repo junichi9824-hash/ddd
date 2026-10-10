@@ -1,26 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "date": "2026-09-26T20:59:22.741167+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUTZBNnlwbEFmT2FMa2ZQQ3RBSXRDRWFEOHRoeG02cGlDR29tR1A5Sktvb1JsUVJFUkY3LS02cXNFT0Z4b1BzNU9BTFVMQXFnT3NwTTdNSkQ1MHowYmNrcDRqc1JlaWRJd2ZkbFJfMnhQVXhVSmpfSlhHNnNWTXFUOXVoUWFZRHVJSU8tdkNDUQ",
-      "date": "2026-09-26T20:59:22.741167+00:00"
-    },
-    {
-      "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
-      "date": "2026-09-26T20:59:22.741167+00:00"
-    },
-    {
-      "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-      "date": "2026-09-26T20:59:22.741167+00:00"
-    },
-    {
-      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "date": "2026-09-26T20:59:22.741167+00:00"
-    },
     {
       "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
       "date": "2026-09-27T21:15:32.315651+00:00"
@@ -256,6 +236,26 @@
     {
       "url": "https://arxiv.org/abs/2610.10845",
       "date": "2026-10-09T22:32:52.203422+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiZk5lTERCRDkwMFBjblJEbDlDdUFVXzJqSjdJTEFTaXdzbmlacVFCdUVJR3lnSnFMZEtoanZfcndscjlBODNJQVRVUU5WVG5oQzZScHE0cTdCemoxZVRrRVByQ201M00",
+      "date": "2026-10-10T21:31:28.854475+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUk5DLU53ZzBjVVMwVHZnY19hUDl6SXN5T2JUcXIybWZxQ2c5TFR4SDVkUER5RzhzUno2aG1pdGdmN3lwakFQb3lpcGlmajdXeEtnR0k3ZTJDMk9Cb3A4aHIybm1QbGNEVk83VlFKU0hRTm43MHRtb1B5TVJlODJGZVU3OXdmempFaGFIUjdUYTlEejhJ",
+      "date": "2026-10-10T21:31:28.854475+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXJHSlRaTmJXeThjOHp1MzU3VmpDLXFIUjRfaC1jdUNRY1ZOcGU4SUdVT3oxbk05MlZRYXhDanhid0F6dUp3cUZjTmFKVF90QWhiNXBRRko4YXlEdTlaa0d5WGpzemxHcUUtZUFjcm5GLVJUd1hjM1NSZEtPeEo3b3h4c2VyT0VRaVVubFUtMGtDdjNIU1FuOGJJT3RDc1ROSWRRQ2xJUndEOThxczNpN1lXVTk",
+      "date": "2026-10-10T21:31:28.854475+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUQ1RuNWRuMktQbFYwNUN5c2xrTFBYdXctTXpFNXJ1V2RqZTRUUkRfc01pN2dlR1FxbTVUZVBQZldDaTQ5U0pYaHpGTkhkcllfR0hn",
+      "date": "2026-10-10T21:31:28.854475+00:00"
+    },
+    {
+      "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
+      "date": "2026-10-10T21:31:28.854475+00:00"
     }
   ],
   "word_history": [
@@ -334,6 +334,7 @@
     "Token Budget Optimization（トークン予算最適化）",
     "Activation Steering（活性化ステアリング）",
     "Jailbreak（ジェイルブレイク）",
-    "Context Window（コンテキストウィンドウ）"
+    "Context Window（コンテキストウィンドウ）",
+    "Multi-Head Attention（マルチヘッド・アテンション）"
   ]
 }
