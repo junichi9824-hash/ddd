@@ -1,22 +1,6 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
-    {
-      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-      "date": "2026-09-27T21:15:32.315651+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzZnZKM1VYd2NnY2ZSbWl1aWhjTS1oSWF3ZGdRSldUa04tZnBDcGVGVktWakxJbHZwdHUwVmcwSm0zVXpQX3FtY1I5SmFfdEQ1RXJJ",
-      "date": "2026-09-27T21:15:32.315651+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQjFqRktCcDVXd1ExYXZGWTdaUEttdVNpcS02Znd2MzVYOFhvMHNyMm5udF8tOWFWZTZtQmxvT2tLY05USU92T3BRcnpMY1FCX1pqM1Zzd1lyUGl2VWswMm9sWURlclp1X1VVWWlzVl9fNWJQSGhERWJyTmR0ZDd0ZFUxYldweXJDV2JsUmJZWThUNVJZVnh0azJtY0dQQU1QOFNLZmdiZ21GZw?oc=5",
-      "date": "2026-09-27T21:15:32.315651+00:00"
-    },
-    {
-      "url": "https://fireworks.ai/blog/ember-1",
-      "date": "2026-09-27T21:15:32.315651+00:00"
-    },
     {
       "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "date": "2026-09-28T23:11:28.852937+00:00"
@@ -256,6 +240,26 @@
     {
       "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
       "date": "2026-10-10T21:31:28.854475+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMmV0X3hDcW12NDFmN3RRem9ieGxsSGZOdm9kaHRvc2dCN2h1NVdGTTBXRnpyQnk5YTFDcDRfcjl6SXNlb0hJajlrMnlGYmxYcngtdFJJUlB2dFFTdDdFYmFGUS1mVFN4eWU5Z1JnYkZFSXhpbHlmRUFaWThKbWhJVjJ3aHpQN3dPaUdEcHNDallUeEctNnZ6NUhPUlQyTVRUSnRaZ1QtaFk3anJ2dExXdENJdG5RaHhrdDdJXzBWUVptNUZLNmEtSE9ndjM?oc=5",
+      "date": "2026-10-11T21:46:21.658032+00:00"
+    },
+    {
+      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+      "date": "2026-10-11T21:46:21.658032+00:00"
+    },
+    {
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "date": "2026-10-11T21:46:21.658032+00:00"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "date": "2026-10-11T21:46:21.658032+00:00"
+    },
+    {
+      "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+      "date": "2026-10-11T21:46:21.658032+00:00"
     }
   ],
   "word_history": [
@@ -335,6 +339,7 @@
     "Activation Steering（活性化ステアリング）",
     "Jailbreak（ジェイルブレイク）",
     "Context Window（コンテキストウィンドウ）",
-    "Multi-Head Attention（マルチヘッド・アテンション）"
+    "Multi-Head Attention（マルチヘッド・アテンション）",
+    "Quantization（量子化）"
   ]
 }
