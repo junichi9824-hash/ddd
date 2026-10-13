@@ -1,26 +1,6 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "date": "2026-09-28T23:11:28.852937+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/anthropic-infosys",
-      "date": "2026-09-28T23:11:28.852937+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30290",
-      "date": "2026-09-28T23:11:28.852937+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YRlA4ak40dEI3blpYTE1fVEVNT0R3aWFIdFlYTEZrTlo0V09EOGdkSVVTZVU2d1FYMEQyekE1LVZRb3lXVnNFLTZZeE92YlR3Umk4",
-      "date": "2026-09-28T23:11:28.852937+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3dlF2UlF6RER5Y054SHBEUDJYUFFIUkpZNlpjUlpJdlpfSG16d2F6X2lCanJ2SkVTYzRPY1lpaHpkNWhjVXdUaWZtdERmcm5ZTWxEMFNOU19OOFM2SXVxdWtEcWtrZy04VHNUbTVKdk5EUGdVUkE",
-      "date": "2026-09-28T23:11:28.852937+00:00"
-    },
     {
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "date": "2026-09-29T22:09:40.325664+00:00"
@@ -260,6 +240,26 @@
     {
       "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
       "date": "2026-10-11T21:46:21.658032+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ozanV4bE5iRXh3TFR6eE5KOFFqd1RZSmlGSWZWZXlyeE12WTdvRUZjMXZIUUJFOVhyM0lUUVI4aFNSX1NNUmlKTXFvLVNWR1NFUjRvVGtlX2wxMzUtYlBGWGpjOVZKNEFFOGVETDRVTUZxU0tMNWtWVHMxLWJMbFc0MGZFR2RmU3pjaDBMTmFpSUtLSlg4djM1cEFTVVN1VUhQNTZWTFFLR0VsRUNoUQ",
+      "date": "2026-10-13T00:31:16.454993+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZHdiQm9JMHQ5MDd3UUVGaHZiZWtTY1hZZi1rVWcxTm1mbmdHcElTN19CQW1OR2daZ04yeEpjSllUb0hMTFY3YUpOdGQ2LTNPbWNJcExvRmszdU9Db0JINjNDZWdKeGdsQkVPZklYMGVxMUVZMmZmNGUzWFpiNnVXbXA4SjdPZzZudnlydVA4MVVDc2s1Q2Exdm8wTFlZOTdLUVFmbjlqaElzNHJFOHVRbU9QYmhYX1JaOVRTdWhoTkxvVjdvWkJZN0J1Qmo3VzhQTTlWdzd3",
+      "date": "2026-10-13T00:31:16.454993+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.12545",
+      "date": "2026-10-13T00:31:16.454993+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "date": "2026-10-13T00:31:16.454993+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.12569",
+      "date": "2026-10-13T00:31:16.454993+00:00"
     }
   ],
   "word_history": [
@@ -340,6 +340,7 @@
     "Jailbreak（ジェイルブレイク）",
     "Context Window（コンテキストウィンドウ）",
     "Multi-Head Attention（マルチヘッド・アテンション）",
-    "Quantization（量子化）"
+    "Quantization（量子化）",
+    "Eval Contamination（評価汚染）"
   ]
 }
