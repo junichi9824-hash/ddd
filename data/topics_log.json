@@ -1,5 +1,5 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
     {
       "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
@@ -260,6 +260,26 @@
     {
       "url": "https://blog.character.ai/an-update-on-character-ai/",
       "date": "2026-10-13T22:34:51.371048+00:00"
+    },
+    {
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "date": "2026-10-14T21:32:59.129679+00:00"
+    },
+    {
+      "url": "https://openai.com/index/third-moment-research",
+      "date": "2026-10-14T21:32:59.129679+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVl1Q1VBQTkxakk3QjE1ZlFqdHdSZjI3NnZfQnVXLWRaZDRtNnpnMml4QW9GaURoWllneVBpMUdwVFJrRDdJRklCUURrX3plR0FIdno1RE5uYjlfZmNwMG9xbUljMmFMRzZDTzZDZEgxcDlDTzlzTkJWaVZvZ0V5YU1pVjQwWk5oZndxeTN2aFlfenJCTjQzd2Zzc3ptRWprd0JyTjFHV1k3NllDaWxBWTFMUnA",
+      "date": "2026-10-14T21:32:59.129679+00:00"
+    },
+    {
+      "url": "https://openai.com/index/sentinelone",
+      "date": "2026-10-14T21:32:59.129679+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0YwYkhUWWFoalQwTDNJd0ZseUtISUFxXzJrQXh6MmFTSnMta2Y2VzdONi1MQWV0OUdVdFozWnJwMi1vcS13ZnhXcF9GZm5SMmk4c3o4RG40LXZKUWFwc2xxa0NwWllSZ1ZDaHUzcjI4alowLXBEWVE0RnJabDc2SlF6WWpzeGZwQlZPRXpROXBUX3l0aDBOZkFpMVQ",
+      "date": "2026-10-14T21:32:59.129679+00:00"
     }
   ],
   "word_history": [
@@ -342,6 +362,7 @@
     "Multi-Head Attention（マルチヘッド・アテンション）",
     "Quantization（量子化）",
     "Eval Contamination（評価汚染）",
-    "Inference Optimization（推論最適化）"
+    "Inference Optimization（推論最適化）",
+    "Agent Loop（エージェント・ループ）"
   ]
 }
