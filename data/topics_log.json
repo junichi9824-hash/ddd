@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "date": "2026-09-30T22:08:55.792455+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUg5OUtKZEFWWE1PU3dHYURRTThhbS1fWTM2YzdIekQyTTIwU1daMl8wSW5XNTl4aklKSWlxVHRrazlhRlNjNXZDX0ZHd3RnUldXTUZmbGNuYXJYMUV2SFVvWEZsVWRuajcxazZ5WmZ3eEg5TEMtMVVIMXB1V0ppNHA4VEIyQzN0c0hmZDNjaWFLTE81d3IxLXZQeWVJWjhzWTNrUXBzU0IwYXhaX3NqUXkwNTJmMS1yZlhiaGNPRVUxcGZ0RmNKVFhRRVZrQQ?oc=5",
-      "date": "2026-09-30T22:08:55.792455+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "date": "2026-09-30T22:08:55.792455+00:00"
-    },
-    {
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "date": "2026-09-30T22:08:55.792455+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "date": "2026-09-30T22:08:55.792455+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEFkWkI1SGgyZWZGMGlJOGlzNlZKdWhaeGkzQTZxNWFiX1daZm5VeDlIeWMta2NEUFhpcDFJeHU4WVNIdVZWTnp6WndueDVrOW8ydEdPcU95LUJNUHhCWFB1dkx3bWloc0dfZDN4MWY2WnZxNmczTjhONXVmcDZKMg?oc=5",
       "date": "2026-10-01T22:36:06.718088+00:00"
@@ -280,6 +260,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0YwYkhUWWFoalQwTDNJd0ZseUtISUFxXzJrQXh6MmFTSnMta2Y2VzdONi1MQWV0OUdVdFozWnJwMi1vcS13ZnhXcF9GZm5SMmk4c3o4RG40LXZKUWFwc2xxa0NwWllSZ1ZDaHUzcjI4alowLXBEWVE0RnJabDc2SlF6WWpzeGZwQlZPRXpROXBUX3l0aDBOZkFpMVQ",
       "date": "2026-10-14T21:32:59.129679+00:00"
+    },
+    {
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "date": "2026-10-15T21:14:56.310350+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "date": "2026-10-15T21:14:56.310350+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQei1iZTlCN1NrVzJOYmNjMmFjejVKU05obGxmdHkwbG1YWFNRclFyV1NacmJ3Q1o5RUVPMkRVNWsxTlJJQ2V0SEF4YTdDV05lUHgzSURSc0QwVF9LeE4wRmplUUFwSzZkYjJGUGhjalQ1SHZhWk5mTmlNcGxLZWtGLU5UcHI4NTJpWENQZThBS0xsQ3lsSENabmhKQlhEN1JBWlVwZnU1UWRVVExYWU1mU2xqUEVlbjDSAbcBQVVfeXFMUGRtSmxxc3hJSkFKeF80MkVyVGRFMG1ISlZlV0RjbUZfS05Ra1U1azZjeWFJX1UycUxvSjlqcnVnZFFicHhTODVpeXdiUDBMcnMyQ3IyXzRqaTFDUm11VFhTS2JndTVGdTJYQ3c1bHl4clJHaC16V3VHNldpZVNPWlJvUmxBTHJMU1Q5Y2F5R2tlYk93WlZiVTc3U1RsRVhjWnRaX3JxOVNRR3IwQ01WLXlPSF9BZS1Z",
+      "date": "2026-10-15T21:14:56.310350+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "date": "2026-10-15T21:14:56.310350+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.18881",
+      "date": "2026-10-15T21:14:56.310350+00:00"
     }
   ],
   "word_history": [
@@ -363,6 +363,7 @@
     "Quantization（量子化）",
     "Eval Contamination（評価汚染）",
     "Inference Optimization（推論最適化）",
-    "Agent Loop（エージェント・ループ）"
+    "Agent Loop（エージェント・ループ）",
+    "Sycophancy（シコファンシー／太鼓持ち現象）"
   ]
 }
