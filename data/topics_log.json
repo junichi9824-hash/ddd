@@ -1,26 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEFkWkI1SGgyZWZGMGlJOGlzNlZKdWhaeGkzQTZxNWFiX1daZm5VeDlIeWMta2NEUFhpcDFJeHU4WVNIdVZWTnp6WndueDVrOW8ydEdPcU95LUJNUHhCWFB1dkx3bWloc0dfZDN4MWY2WnZxNmczTjhONXVmcDZKMg?oc=5",
-      "date": "2026-10-01T22:36:06.718088+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQdDJFV0hheDJFSlF1ZzF3X0R6WUlCTlE1bEVweU5iYmoxejNtMTRSVzJpekVZTTRMV2ZxamI3b05IMU55Tm9aMlRWMGRvWEJQS3RqMFpQM09qaVZRbFFyS1hSN0Y0SnpKRmF2VTl2U3R3c1RmWk1yRFJfVU5VcmUzZjhYVlhITUg1X1JOanFaSVlXVnRaQ2l4d3dURDdlekt3OF9MQS1UUXE4dzU5amtMMzQwdTAzdklUNWxnV3lSRmRLQndEYTBBU0lwWmNpdGtXUjdQTHBWTDF2RkljNXd6UjVhVXdhZTB1aWI5MDdjTmVxVFVjSzYwdE15MmNaalpDLUltVG5VSHFwaGl2d1luMjVrRkIzNzB0emJQZDFBZ21FUXpJOC1ieUpxNHp3a2VvNkw5aWROWkZBMTlOMmU0NHRyNkZyMmpBZjRMSmM3c19pQVlHVnJaZGFqTDhnMEZBVWJ5OElLUnIyUS15aGJqemgxa2FIUHlnVkE?oc=5",
-      "date": "2026-10-01T22:36:06.718088+00:00"
-    },
-    {
-      "url": "https://openai.com/index/the-eternal-complement",
-      "date": "2026-10-01T22:36:06.718088+00:00"
-    },
-    {
-      "url": "https://openai.com/index/the-den-family-social",
-      "date": "2026-10-01T22:36:06.718088+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.38222",
-      "date": "2026-10-01T22:36:06.718088+00:00"
-    },
     {
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "date": "2026-10-02T22:05:31.051925+00:00"
@@ -280,6 +260,26 @@
     {
       "url": "https://arxiv.org/abs/2610.18881",
       "date": "2026-10-15T21:14:56.310350+00:00"
+    },
+    {
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "date": "2026-10-16T20:53:51.407172+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm4tNU0xUDJDckV6eGp3OHp6eUZCaGVERjBTLXNNS0VGZVpKcFRzR1ZCMmNvS3lBN3FEMkpJTHR6R3NtYXZjZVc2UU41Wm5YeHhWZzctd25uQkpoUUIteDlFRlR1X0xjdWtxV0E0dVN5cGdmUHhIQ2g5SGtVcW5WbDFXR21JOE5vWHpRWGNlWWtNay1TeUZfNlZPdjdRdkh2dy1MeWtPeEtNRXlOTjBRQk1WTEt6Vm8",
+      "date": "2026-10-16T20:53:51.407172+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MWmdoVzlXTlRVT3BybFV4V19hQkl4b3liMDZISEJDSVhSbnJsVWtnUVZUSUhpeUMxOHF3aVRlcWRNS3FldXozd19GM3pXWXB4blJtVkVVeXUyRVBhVDQ1T1I0Z0d3cDhXSU95cWg1M2lpVzhDTlE",
+      "date": "2026-10-16T20:53:51.407172+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
+      "date": "2026-10-16T20:53:51.407172+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20628",
+      "date": "2026-10-16T20:53:51.407172+00:00"
     }
   ],
   "word_history": [
@@ -364,6 +364,7 @@
     "Eval Contamination（評価汚染）",
     "Inference Optimization（推論最適化）",
     "Agent Loop（エージェント・ループ）",
-    "Sycophancy（シコファンシー／太鼓持ち現象）"
+    "Sycophancy（シコファンシー／太鼓持ち現象）",
+    "Chain-of-Thought（CoT / 思考の連鎖）"
   ]
 }
