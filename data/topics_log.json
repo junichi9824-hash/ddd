@@ -1,26 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "date": "2026-10-02T22:05:31.051925+00:00"
-    },
-    {
-      "url": "https://openai.com/index/chatham-financial",
-      "date": "2026-10-02T22:05:31.051925+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONURaV1hMTkVSRmU0aUZMSVFBMmpQcTJlN0h4MVp2djJSbjlzYTJuLVVONnNpd3h4a1RiZlV5Mlh2ekxsZy1FWURaZUoxbEpHdy1vNV9TV2daSWZNN1dPRVR4SjJyLW5JNDByQklfTUlkNUJ1U29YcC1GODJzOWlHUEFyUFA2UC1OTkwtMFhkTGdIOTNrQ3RmWHVoQmNWTWxCR1dNVHcySW1TbmdUVGRmX3Z0a1UyVEsyVjI3U0Y1NNIBxAFBVV95cUxONUw0R3RpZXFfc3Fmd082TEJMUHlIYkxSZThDV0htcWVWQ0xJSHVMaXhCTHR2TjBJNmxiSC1ZT2VVN0tJaFRDdkZXVnRtQ0xWZDNJWElYY0dEcy1naEVXcGU1T1lmc2xGWUFJb0xLdmY0UzFTTm1HaC1hMFFWYVhkeWRuQUY1ZnZvc1dTOFRnMzhFbFZ6ZXZZdk11eEFrZjVlaEpOMzVKQ2s2VzUzY1ZVeVEzbklDYzlweDVVS3BsY2FBODZf",
-      "date": "2026-10-02T22:05:31.051925+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "date": "2026-10-02T22:05:31.051925+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.38201",
-      "date": "2026-10-02T22:05:31.051925+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXBudnlWNHplOXVzQTFRN0lrSVVHUDFneFI4a0RKb053YkFkZXJ5MENTSDZSTlNPbG8xQzJYejdpbU5PYjNRdFRVcE80Sm1ldHZkalhQR1NINUZzZlNmNnRVSGhHaWxhY21nckQtTVhLSXMtWVZOalpTaF9BeGhpdGZuZDVMV2NQTFN2Z0dVX2t0cXFOTnZNZ0lwZmljdnlKN29UdVVSblZ2bVJiY1dMNkVKUFVsNWVlb1RabTA3RnE1LXc",
       "date": "2026-10-03T20:57:32.823784+00:00"
@@ -280,6 +260,22 @@
     {
       "url": "https://arxiv.org/abs/2610.20628",
       "date": "2026-10-16T20:53:51.407172+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHBkZGEtVEpZTVo3Y0tiWnJmTlEzX1lLMG9tSW41MU41VXNtZUV2M2hyNnFaeXY3bF9UMV9wM25xNWZTRnFTVS1OS0dkblZyRGFXSzZYU05BVGdGOWxDRGNQMEJEUE10VlFYUlNuZ2N2S2RFOHpXRnlhZm5GWThTWXA0ZzkwXzZwOWFuaDNtaVNnTm13MTJsd2I1TzFKaUZJRmNWUTFsdXlwbUt5cm5GeG5aWXQ0T1R1V3Mr0gG7AUFVX3lxTE9kcGRkYS1USllNWjdjS2JacmZOUTNfWUswb21JbjkxTjlVc21lRXYzaHI2cVp5djdsX1QxX3AzbnE1ZlNGcVNVLU5LR2RuVnJEYVdLNlhTTkFUZ0Y5bENEY1AwQkRQTXRWUVhSU25nY3ZLZGU4eldGeWFmbkZZOFNZcDRnOTBfNnA5YW5oM21pU2dObXcxMmx3YjVPMUppRklGY1ZRMWx1eXBtS3lybkZ4blpZdDRPVHVXc2s",
+      "date": "2026-10-17T20:27:47.008260+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jVF9qQm14WFpGSF9yUEFLMDZwSnpfSTlNMHZBSFdhTlFyT2tDOVkyQjk5eWpCOWRuUDBNODBIZ1VZWWdLT0dwWFZtZHJsVFFwT2pfM0ZuUE1sSWZEVkRsMElqYW5PWG1Oay12OGs3Q3J2aTlvRmc",
+      "date": "2026-10-17T20:27:47.008260+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmhRMXpyOGYzTi1BallOM1VRdWZzaFJuS1NRODc0YzNtTzVheGNqTm5UYjRINFR2eDYyVld2cTY1OGNNWDZzb2ZkWVNpUnM4NEtnRnVyZ1Y2bTZ4bkp4SVc2WUlJVnhMcUF6d1AwYmVSR1pGWHBZZXRMamZiZFdMb2xFSUt0dzkwMlRCdVIwWUk1S1ZTLWhOMUtHaGRISUU1anVRdV9IMWVjRl9mT0x2dGJCbDZwc0NEcER5Ti1GdnpTeU5oaXo4X1lGZF_SAcwBQVVfeXFMT0R4OEFGWTdlZTEzdnpLVmVLQkI0QlRlVVhhdk1aRWFrQjZxU0NGNGxHSVFybU80c1B3dTVuTXk5SHA3TVpScTRtVE03NnNNTDdES25XdE5wdTNvUTZkTnc0VGp0SnRGbGZzM09pUGdfd1RGVEJHZ3BjbVlYMmstd1F4VHFUeWlhNVFNZ1FlRlZvZl9STUk0YW4tSkhpZndMV1NaOE5mTUVUcVE1V1VhdGk0MnZqLXVXd2pxLWJzTjROSU8xRnR6Yk1NRUt0",
+      "date": "2026-10-17T20:27:47.008260+00:00"
+    },
+    {
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "date": "2026-10-17T20:27:47.008260+00:00"
     }
   ],
   "word_history": [
@@ -365,6 +361,7 @@
     "Inference Optimization（推論最適化）",
     "Agent Loop（エージェント・ループ）",
     "Sycophancy（シコファンシー／太鼓持ち現象）",
-    "Chain-of-Thought（CoT / 思考の連鎖）"
+    "Chain-of-Thought（CoT / 思考の連鎖）",
+    "Positional Encoding（位置エンコーディング）"
   ]
 }
