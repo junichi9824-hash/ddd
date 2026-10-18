@@ -1,26 +1,6 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXBudnlWNHplOXVzQTFRN0lrSVVHUDFneFI4a0RKb053YkFkZXJ5MENTSDZSTlNPbG8xQzJYejdpbU5PYjNRdFRVcE80Sm1ldHZkalhQR1NINUZzZlNmNnRVSGhHaWxhY21nckQtTVhLSXMtWVZOalpTaF9BeGhpdGZuZDVMV2NQTFN2Z0dVX2t0cXFOTnZNZ0lwZmljdnlKN29UdVVSblZ2bVJiY1dMNkVKUFVsNWVlb1RabTA3RnE1LXc",
-      "date": "2026-10-03T20:57:32.823784+00:00"
-    },
-    {
-      "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
-      "date": "2026-10-03T20:57:32.823784+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
-      "date": "2026-10-03T20:57:32.823784+00:00"
-    },
-    {
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-      "date": "2026-10-03T20:57:32.823784+00:00"
-    },
-    {
-      "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-      "date": "2026-10-03T20:57:32.823784+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2RfbFVfcGZjd0Vpc25BaDdsZlo0ZFV2N3VieG5IM294VUhGOTZkaWtPdXFSZTBsVDlPaFp6UWMzZWpGZFpwZjlGMXBDLW9DX1A2SDlxeGxSbGZBMnF6MW1vc1V2RGFlMk0wVnZKaThRc1ZQWGt3emh4TkdwWWEtdzEydzBLclY0Q1hUWnZMemNyS1BiOFQydjNiY0gtd0I3eEN4bjY5bVdxU2V5Tm5V",
       "date": "2026-10-04T21:13:46.127350+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
       "date": "2026-10-17T20:27:47.008260+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakVVMlhCbUU4dTdQUEU0SnN2Q2p3UV85WEltelhrU0ZvTWRISFdSTlBsbVdJcThWU1ZpYUtJUDMxNzJlQ0N1cE9CMDlFc3NXb19QcGdkc0t6d3FkdXJKc25UU0ZPOXlvbldjYWh6Xy05ZmYwVmJzb2syckFXRjhvaDNBX0ZFU2hoTXA2QjdLZjNjOUFxMjBJWHhqY3NULS1RVmlQTTZOdGs2bDl5NDVpVXV4eGY0OC1TN1ZOakJLOHQyQnc?oc=5",
+      "date": "2026-10-18T20:28:40.304101+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFJSQnFUblpoMzFFcmczVjFZSlFxVW1lV3gzRDFrRlZYOGRLekdrMnpVZU00UDBXQmxiZm9UbVJuanN2WFVzdXFRZmFnYzFGdVJDN29VZElBMGRkNURrZjJCd3VMZ29SS0V6WUJIUVVmU2dFTkEyMWJlaGQ5T2NRYWNoQmI5ZkF0VVVsbFlwX1gtS281andydksyTXhuZ2JBOWxkM1drSWoydzljcXNGZTFn?oc=5",
+      "date": "2026-10-18T20:28:40.304101+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lTHJKU2VzRXE5b2lOQjE2Yk14MmI5Z2RqU3UzZVFhSndwYWVvOWpkaGNDUmVBR3o3UXRJYWNGOE9qSUwtcGRfNU5QMWdPM2tEa29HR0F5M0UwVUxpWEZpRVVDRnNvN29DY012T0x0dl9sLTE1Wmc?oc=5",
+      "date": "2026-10-18T20:28:40.304101+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wZ0Z2NUZSUkhtei1yMEVEZ3J3TWxtTThRNk1kaUFnR240X2c5Q0JuZWlraTMyMm56V2NyaUE4YkRqOWM1NFQtb1dORlJhUXJXRUxXT3RsdU8tSDEyY3BTenNWTktMZmhySDJDTS02elhqYm12ZWQ5ZWhR?oc=5",
+      "date": "2026-10-18T20:28:40.304101+00:00"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "date": "2026-10-18T20:28:40.304101+00:00"
     }
   ],
   "word_history": [
@@ -362,6 +362,7 @@
     "Agent Loop（エージェント・ループ）",
     "Sycophancy（シコファンシー／太鼓持ち現象）",
     "Chain-of-Thought（CoT / 思考の連鎖）",
-    "Positional Encoding（位置エンコーディング）"
+    "Positional Encoding（位置エンコーディング）",
+    "In-Context Learning（インコンテクスト学習）"
   ]
 }
