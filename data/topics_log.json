@@ -1,5 +1,5 @@
 {
-  "category_index": 3,
+  "category_index": 4,
   "seen_urls": [
     {
       "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
@@ -276,6 +276,26 @@
     {
       "url": "https://arxiv.org/abs/2610.22511",
       "date": "2026-10-19T22:15:53.158611+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BMm5ISmplcUtod2txVlV0ajlNUHFPanpRa09GWnBMdjdOaUFCSTZOUXk2SnVNclplakZrckJWZDZTYU96Z3pKTVZieUZiVXkwM3Fza0FibjVLaGhBR2dNMUVwNW1yTllMZlI5R1N6ek1MZXI5OXfSAXtBVV95cUxOMTd2ZFNDSGNCclhSb3lSYl9MdnVtZ3BiYlp6VFQyZUpNR25oNFlsYnRnMThxWmJTZ2tWd3BGWV9PWGFSdHMzMFotTmNpbUFuQzZLaVdkOTJtSmxHeEpLdFcyU013c1dUMktXNWt4blRDZFYzeEk2VkF6WVU",
+      "date": "2026-10-20T21:30:11.155561+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80VWUyMWpac01zZFBPYTZ3MXktcFNWZXptV2JvaTNLZVh4dzg3TU81T1lZZE9oakNsS2hpb1YxWElfbHFVT1V0T3ZSOVlzdXR0cnlKRm5Nd1dMLVJvWGpqTVEzRnM1bkk",
+      "date": "2026-10-20T21:30:11.155561+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "date": "2026-10-20T21:30:11.155561+00:00"
+    },
+    {
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "date": "2026-10-20T21:30:11.155561+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
+      "date": "2026-10-20T21:30:11.155561+00:00"
     }
   ],
   "word_history": [
@@ -364,6 +384,7 @@
     "Chain-of-Thought（CoT / 思考の連鎖）",
     "Positional Encoding（位置エンコーディング）",
     "In-Context Learning（インコンテクスト学習）",
-    "Zero-Shot Evaluation（ゼロショット評価）"
+    "Zero-Shot Evaluation（ゼロショット評価）",
+    "KVキャッシュ（KV Cache）"
   ]
 }
