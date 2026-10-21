@@ -1,7 +1,11 @@
-"""AI動向 朝の要約ダイジェスト生成・送信スクリプト。
+"""AI活用・DX 朝の要約ダイジェスト生成・送信スクリプト。
 
-前日24時間分のAI関連ニュースを収集し、Claude Haikuで最大5件に厳選して要約、
-加えて「今日の一言」（AI用語解説）を1つ生成し、Gmail経由でメール送信する。
+国内のIT/ビジネスメディアから「AIを使った業務効率化・活用事例」と
+「企業がAIを扱ううえでのリスク・権利・規制」の記事を集め、本文を読んだうえで
+Claude Haiku が要約し、Gmail 経由でメール送信する。
+
+コスト削減のため Message Batches API(50%割引)で処理し、
+一定時間内に終わらなければ通常APIにフォールバックする。
 """
 
 import json
@@ -9,63 +13,84 @@ import os
 import re
 import smtplib
 import ssl
+import sys
+import time
+import traceback
 from datetime import datetime, timedelta, timezone
 from email.mime.text import MIMEText
 from pathlib import Path
-from xml.etree import ElementTree
 
 import feedparser
 import requests
+import trafilatura
 from anthropic import Anthropic
 
 # ---------------------------------------------------------------------------
 # 設定
 # ---------------------------------------------------------------------------
-MODEL = "claude-haiku-4-5-20251001"
-MAX_PICKS = 5
-LOOKBACK_HOURS = 24
+MODEL = "claude-haiku-5-5"
+EFFORT = "low"  # 要約用途なので思考は最小限(=出力トークン節約)
+MAX_TOKENS = 16000
+
+MAX_CASES = 3  # 活用事例の最大件数
+MAX_OTHERS = 3  # 「その他の注目記事」の最大件数
+LOOKBACK_HOURS = 48  # 国内メディアは土日の更新が少ないため48時間
 SEEN_URL_HISTORY_DAYS = 14
-WORD_HISTORY_MAX = 200
-MAX_CANDIDATES_PER_SOURCE = 30
+
+MAX_BODY_FETCH = 15  # 本文を取得する候補記事の上限
+MAX_BODY_CHARS = 3000  # 1記事あたりAIに渡す本文の上限文字数
 REQUEST_TIMEOUT = 15
+USER_AGENT = "Mozilla/5.0 (compatible; ai-dx-digest/1.0)"
+
+# Batch API の待ち時間上限。超えたらキャンセルして通常APIで処理する
+BATCH_TIMEOUT_MINUTES = 60
+BATCH_POLL_SECONDS = 30
 
 BASE_DIR = Path(__file__).resolve().parent
 TOPICS_LOG_PATH = BASE_DIR / "data" / "topics_log.json"
 
 JST = timezone(timedelta(hours=9))
 
+# (表示名, RSS URL, AIキーワードで絞り込むか)
+# AI専門媒体は全件、総合媒体はAI関連キーワードを含む記事だけを候補にする
 RSS_FEEDS = [
-    ("OpenAI", "https://openai.com/news/rss.xml"),
-    ("Google DeepMind", "https://deepmind.google/blog/rss.xml"),
-    ("arXiv cs.CL", "http://export.arxiv.org/rss/cs.CL"),
-    ("arXiv cs.AI", "http://export.arxiv.org/rss/cs.AI"),
-    (
-        "中華圏AI",
-        "https://news.google.com/rss/search?q=DeepSeek+OR+Qwen+OR+%22Moonshot+AI%22+OR+Kimi+OR+Zhipu+OR+MiniMax+OR+%22Baidu+Ernie%22&hl=en-US&gl=US&ceid=US:en",
-    ),
+    ("ITmedia AI+", "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml", False),
+    ("ITmedia エンタープライズ", "https://rss.itmedia.co.jp/rss/2.0/enterprise.xml", True),
+    ("ITmedia ビジネスオンライン", "https://rss.itmedia.co.jp/rss/2.0/business.xml", True),
+    ("ITmedia NEWS セキュリティ", "https://rss.itmedia.co.jp/rss/2.0/news_security.xml", True),
+    ("ZDNET Japan", "http://feed.japan.zdnet.com/rss/news/index.rdf", True),
 ]
 
-# Anthropicは公式RSSを提供していないため、sitemap.xmlのlastmodで新着/newsを検出する
-ANTHROPIC_SITEMAP_URL = "https://www.anthropic.com/sitemap.xml"
+# 英字キーワードは単語単位で判定する("MAIL" や "FAIL" の中の AI に反応しないように)
+AI_KEYWORD_PATTERN = re.compile(
+    r"(?<![A-Za-z])(AI|LLM|RAG|ChatGPT|Claude|Gemini|Copilot)(?![A-Za-z])"
+    r"|ＡＩ|人工知能|生成AI|エージェント|機械学習"
+)
 
-HN_ALGOLIA_URL = "https://hn.algolia.com/api/v1/search_by_date"
-HN_QUERIES = ["AI", "LLM", "Claude", "GPT", "Gemini", "DeepSeek", "Qwen", "Kimi"]
-HN_MIN_POINTS = 20
-HN_MAX_ITEMS = 10
+# 本文取得の優先順位付けに使うキーワード
+CASE_KEYWORDS = [
+    "活用", "事例", "導入", "効率", "削減", "時短", "自動化", "業務", "現場", "DX", "生産性",
+]
+RISK_KEYWORDS = [
+    "著作権", "個人情報", "漏えい", "漏洩", "規制", "ガイドライン", "法", "リスク",
+    "セキュリティ", "訴訟", "ハルシネーション", "ガバナンス", "AI Act", "利用規約", "情報管理",
+]
 
-WORD_CATEGORIES = [
-    "モデルアーキテクチャ",
-    "学習・ファインチューニング手法",
-    "評価・ベンチマーク",
-    "推論最適化・インフラ",
-    "エージェント技術",
-    "安全性・アライメント",
-    "ビジネス活用・プロダクト",
+# リスク系ニュースがない日に解説する基礎テーマ(順番にローテーション)
+RISK_THEMES = [
+    "生成AIと著作権(学習利用・生成物の権利・他者の著作物の入力)",
+    "個人情報・顧客情報を生成AIに入力する際の注意点",
+    "社外秘・機密情報の漏えい対策(入力データの学習利用設定など)",
+    "ハルシネーション(もっともらしい誤り)への対策とチェック体制",
+    "社内AI利用ガイドラインの作り方と運用",
+    "AIサービスの利用規約・契約で確認すべき点",
+    "海外のAI規制(EU AI Actなど)が日本企業に与える影響",
+    "プロンプトインジェクション等AI特有のセキュリティリスク",
 ]
 
 GMAIL_ADDRESS = os.environ["GMAIL_ADDRESS"]
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
-MAIL_TO = os.environ.get("MAIL_TO", GMAIL_ADDRESS)
+MAIL_TO = os.environ.get("MAIL_TO") or GMAIL_ADDRESS
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 
 
@@ -74,7 +99,7 @@ ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 # ---------------------------------------------------------------------------
 def load_topics_log() -> dict:
     if not TOPICS_LOG_PATH.exists():
-        return {"category_index": 0, "seen_urls": [], "word_history": []}
+        return {"seen_urls": [], "risk_theme_index": 0}
     with open(TOPICS_LOG_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -91,7 +116,7 @@ def prune_seen_urls(seen_urls: list) -> list:
 
 
 # ---------------------------------------------------------------------------
-# 候補ニュースの収集
+# 候補記事の収集
 # ---------------------------------------------------------------------------
 def within_lookback(published_struct) -> bool:
     if published_struct is None:
@@ -101,251 +126,305 @@ def within_lookback(published_struct) -> bool:
     return published >= cutoff
 
 
+def contains_any(text: str, keywords: list) -> bool:
+    return any(k in text for k in keywords)
+
+
+def clean_html(text: str) -> str:
+    return re.sub(r"\s+", " ", re.sub("<[^<]+?>", "", text or "")).strip()
+
+
 def collect_rss_items() -> list:
     items = []
-    for source, url in RSS_FEEDS:
+    for source, url, needs_ai_filter in RSS_FEEDS:
         try:
-            feed = feedparser.parse(url)
+            resp = requests.get(url, timeout=REQUEST_TIMEOUT, headers={"User-Agent": USER_AGENT})
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
         except Exception as exc:  # noqa: BLE001
             print(f"[WARN] RSS取得失敗: {source} ({url}): {exc}")
             continue
 
         count = 0
         for entry in feed.entries:
-            if count >= MAX_CANDIDATES_PER_SOURCE:
-                break
             published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
             if not within_lookback(published_struct):
+                continue
+            title = clean_html(entry.get("title", ""))
+            summary = clean_html(entry.get("summary", ""))[:200]
+            if needs_ai_filter and not AI_KEYWORD_PATTERN.search(title + " " + summary):
                 continue
             items.append(
                 {
                     "source": source,
-                    "title": entry.get("title", "").strip(),
+                    "title": title,
                     "url": entry.get("link", "").strip(),
-                    "summary": re.sub("<[^<]+?>", "", entry.get("summary", ""))[:300].strip(),
+                    "summary": summary,
                 }
             )
             count += 1
+        print(f"[INFO] {source}: {len(feed.entries)}件中 {count}件を候補に追加")
     return items
 
 
-def extract_title_from_html(html: str) -> str:
-    match = re.search(
-        r'<meta[^>]+property=["\']og:title["\'][^>]+content=["\']([^"\']+)["\']', html
-    )
-    if not match:
-        match = re.search(r"<title>(.*?)</title>", html, re.DOTALL)
-    if not match:
-        return ""
-    title = match.group(1).strip()
-    title = re.sub(r"\s*[\|\-]\s*Anthropic\s*$", "", title)
-    return title
+def dedupe(items: list) -> list:
+    seen, result = set(), []
+    for item in items:
+        key = item["url"]
+        if key and key not in seen:
+            seen.add(key)
+            result.append(item)
+    return result
 
 
-def collect_anthropic_items() -> list:
-    items = []
+def priority(item: dict) -> int:
+    text = item["title"] + item["summary"]
+    score = 0
+    if contains_any(text, CASE_KEYWORDS):
+        score += 2
+    if contains_any(text, RISK_KEYWORDS):
+        score += 2
+    if item["source"] == "ITmedia AI+":
+        score += 1
+    return score
+
+
+def fetch_body(url: str) -> str:
     try:
-        resp = requests.get(ANTHROPIC_SITEMAP_URL, timeout=REQUEST_TIMEOUT)
+        resp = requests.get(url, timeout=REQUEST_TIMEOUT, headers={"User-Agent": USER_AGENT})
         resp.raise_for_status()
-        root = ElementTree.fromstring(resp.content)
+        text = trafilatura.extract(resp.content, include_comments=False, include_tables=False)
     except Exception as exc:  # noqa: BLE001
-        print(f"[WARN] Anthropic sitemap取得失敗: {exc}")
-        return items
-
-    ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
-
-    for url_el in root.findall("sm:url", ns):
-        loc_el = url_el.find("sm:loc", ns)
-        lastmod_el = url_el.find("sm:lastmod", ns)
-        if loc_el is None or lastmod_el is None:
-            continue
-        loc = loc_el.text.strip()
-        if "/news/" not in loc:
-            continue
-        try:
-            lastmod = datetime.fromisoformat(lastmod_el.text.strip().replace("Z", "+00:00"))
-        except ValueError:
-            continue
-        if lastmod < cutoff:
-            continue
-
-        title = ""
-        try:
-            page_resp = requests.get(loc, timeout=REQUEST_TIMEOUT)
-            page_resp.raise_for_status()
-            title = extract_title_from_html(page_resp.text)
-        except Exception as exc:  # noqa: BLE001
-            print(f"[WARN] Anthropicページ取得失敗: {loc}: {exc}")
-
-        items.append(
-            {
-                "source": "Anthropic",
-                "title": title or loc.rstrip("/").rsplit("/", 1)[-1].replace("-", " "),
-                "url": loc,
-                "summary": "",
-            }
-        )
-    return items
+        print(f"[WARN] 本文取得失敗: {url}: {exc}")
+        return ""
+    return (text or "").strip()[:MAX_BODY_CHARS]
 
 
-def collect_hn_items() -> list:
-    cutoff_ts = int((datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)).timestamp())
-    seen_ids = set()
-    candidates = []
+def attach_bodies(candidates: list) -> list:
+    ranked = sorted(candidates, key=priority, reverse=True)
+    for item in ranked[:MAX_BODY_FETCH]:
+        item["body"] = fetch_body(item["url"])
+    fetched = [c for c in ranked[:MAX_BODY_FETCH] if c.get("body")]
+    print(f"[INFO] 本文取得: {len(fetched)}/{min(len(ranked), MAX_BODY_FETCH)}件")
+    # 本文が取れた記事だけをAIに渡す(本文なしで「要約」させると内容を推測で埋めるため)
+    return fetched
 
-    for query in HN_QUERIES:
-        try:
-            resp = requests.get(
-                HN_ALGOLIA_URL,
-                params={
-                    "query": query,
-                    "tags": "story",
-                    "numericFilters": f"created_at_i>{cutoff_ts},points>={HN_MIN_POINTS}",
+
+# ---------------------------------------------------------------------------
+# Claude による選定・要約
+# ---------------------------------------------------------------------------
+OUTPUT_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "cases": {
+            "type": "array",
+            "description": f"活用事例(最大{MAX_CASES}件。該当なしなら空配列)",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "article_id": {"type": "integer"},
+                    "headline": {"type": "string"},
+                    "who": {"type": "string", "description": "企業・業種・規模"},
+                    "target": {"type": "string", "description": "対象業務・課題"},
+                    "method": {"type": "string", "description": "使ったAI・ツールと方法"},
+                    "effect": {"type": "string", "description": "効果。記事に数字があれば必ず含める"},
+                    "hint": {"type": "string", "description": "中小企業で試すならのヒント1文"},
                 },
-                timeout=REQUEST_TIMEOUT,
-            )
-            resp.raise_for_status()
-            data = resp.json()
-        except Exception as exc:  # noqa: BLE001
-            print(f"[WARN] HN Algolia取得失敗: {query}: {exc}")
-            continue
+                "required": ["article_id", "headline", "who", "target", "method", "effect", "hint"],
+                "additionalProperties": False,
+            },
+        },
+        "risk": {
+            "type": "object",
+            "description": "リスク・権利・規制。article_idは記事が無ければ-1",
+            "properties": {
+                "article_id": {"type": "integer"},
+                "headline": {"type": "string"},
+                "summary": {"type": "string", "description": "何が起きた/何が論点か"},
+                "watch_points": {"type": "string", "description": "企業が注意すべき点"},
+                "actions": {"type": "string", "description": "DX担当が取るべき対策"},
+            },
+            "required": ["article_id", "headline", "summary", "watch_points", "actions"],
+            "additionalProperties": False,
+        },
+        "others": {
+            "type": "array",
+            "description": f"その他の注目記事(最大{MAX_OTHERS}件)",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "article_id": {"type": "integer"},
+                    "one_line": {"type": "string"},
+                },
+                "required": ["article_id", "one_line"],
+                "additionalProperties": False,
+            },
+        },
+    },
+    "required": ["cases", "risk", "others"],
+    "additionalProperties": False,
+}
 
-        for hit in data.get("hits", []):
-            object_id = hit.get("objectID")
-            if object_id in seen_ids:
-                continue
-            seen_ids.add(object_id)
-            candidates.append(
-                {
-                    "source": "Hacker News",
-                    "title": hit.get("title") or "",
-                    "url": hit.get("url") or f"https://news.ycombinator.com/item?id={object_id}",
-                    "summary": "",
-                    "points": hit.get("points", 0),
-                }
-            )
 
-    candidates.sort(key=lambda x: x.get("points", 0), reverse=True)
-    return candidates[:HN_MAX_ITEMS]
+def build_prompt(articles: list, fallback_theme: str) -> str:
+    blocks = []
+    for i, a in enumerate(articles):
+        blocks.append(
+            f"<article id=\"{i}\">\n出典: {a['source']}\nタイトル: {a['title']}\n本文:\n{a['body']}\n</article>"
+        )
+    articles_block = "\n\n".join(blocks) if blocks else "(記事なし)"
 
+    return f"""あなたは中小企業(建設コンサル・従業員35名程度)のDX担当者向けに、毎朝届くメールの編集者です。
+読者は「AIを業務で使って時短・効率化したい」「AIを社内で使う際のリスクや権利を押さえておきたい」人です。
+読了5分程度を目安に、絵文字を適度に使った親しみやすい文体で、要点を簡潔にまとめてください。
 
-# ---------------------------------------------------------------------------
-# Claude Haiku による厳選・要約 + 今日の一言
-# ---------------------------------------------------------------------------
-def build_prompt(candidates: list, category: str, avoid_urls: list, avoid_words: list) -> str:
-    candidate_lines = []
-    for c in candidates:
-        line = f"- [{c['source']}] {c['title']} ({c['url']})"
-        if c.get("summary"):
-            line += f" — {c['summary']}"
-        candidate_lines.append(line)
-    candidates_block = "\n".join(candidate_lines) if candidate_lines else "(候補なし)"
+以下は直近に国内メディアで公開された記事です。
 
-    avoid_words_block = "、".join(avoid_words[-30:]) if avoid_words else "(なし)"
-
-    return f"""あなたはAIエンジニア向けに毎朝配信するニュースダイジェストの編集者です。
-文体は硬い business japanese ではなく、絵文字を交えた**ポップで親しみやすいテンション**
-(友達がテンション高めにAIニュースを教えてくれる感じ)で書いてください。ただし内容の正確さ・
-情報密度は落とさないこと(ノリだけで中身が薄くならないように)。
-
-以下は過去24時間に収集されたAI関連の候補記事一覧です。中華圏(DeepSeek, Qwen, Kimi/Moonshot,
-Zhipu, MiniMaxなど)の動向も含まれています。
-
-{candidates_block}
+{articles_block}
 
 # タスク
-1. 上記候補から、重要度・速報性の高いものを最大{MAX_PICKS}件選んでください。中華圏AIの動きも
-   重要なら積極的に含めてください。候補が少ない/重要なものがない場合は無理に{MAX_PICKS}件選ばず、
-   0件でも構いません。
-2. 選んだ各記事について、日本語で1〜2行の簡潔な要約を書いてください（深掘りはせず、何が起きたか
-   が分かれば十分。絵文字を1つ添えてポップに）。
-3. 「今日の一言」として、カテゴリ「{category}」に関するAI用語・基礎知識を1つ選び、中級者（実務で
-   AIを使うがアルゴリズムの専門家ではない層）向けに3〜4文で、親しみやすい語り口で解説してください。
-   ただし、以下の用語は直近で既に解説済みのため避けてください: {avoid_words_block}
-4. 「ビジネス活用アイデア」として、今日選んだニュースの中から1つを起点に、読者が**実務や
-   プライベートで実際に今すぐ試せる**具体的な使い方・アイデアを1つ考えてください。
-   「〇〇を使えば△△ができるかも」のように、明日から動けるレベルの具体性で、
-   ワクワクする書き方にしてください。
+1. cases: AIを使った業務効率化・時短・活用の**具体的な事例**を最大{MAX_CASES}件選び、
+   企業/業種、対象業務、方法、効果、中小企業で試すならのヒントを要約してください。
+   製品発表だけの記事より、実際に導入・運用した事例を優先してください。
+2. risk: 企業がAIを扱ううえでのリスク・権利・法規制・セキュリティに関する記事を1件選び、
+   概要、企業が注意すべき点、取るべき対策を要約してください。
+   該当する記事が無い場合は article_id を -1 とし、テーマ「{fallback_theme}」について
+   一般的な基礎知識を解説してください。
+3. others: 上で選ばなかった記事のうち、DX担当者が知っておくべきものを最大{MAX_OTHERS}件、1行で紹介してください。
 
-# 出力形式
-必ず以下のJSON形式のみを出力してください（前後に説明文やMarkdownのコードフェンスを付けないこと）:
-{{
-  "picks": [
-    {{"title": "記事タイトル", "summary": "1〜2行の要約(絵文字入り)", "url": "URL", "source": "出典名"}}
-  ],
-  "word_of_day": {{"term": "用語", "explanation": "解説文"}},
-  "business_idea": {{"title": "アイデアの短いタイトル", "idea": "具体的な活用アイデア本文"}}
-}}
+# 厳守事項
+- 記事本文に書かれていない数字・企業名・事実を補ったり推測で書いたりしないこと。
+  本文から分からない項目は「記事内に記載なし」と書くこと。
+- 法律・規制の解説は断定を避け、要点のみに留めること。
+- 該当する記事がなければ無理に選ばず、空配列で構いません。
 """
 
 
-def parse_json_response(text: str) -> dict:
-    cleaned = text.strip()
-    cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned)
-    cleaned = re.sub(r"\s*```$", "", cleaned)
-    return json.loads(cleaned)
+def build_request_params(prompt: str) -> dict:
+    return {
+        "model": MODEL,
+        "max_tokens": MAX_TOKENS,
+        "messages": [{"role": "user", "content": prompt}],
+        "output_config": {
+            "effort": EFFORT,
+            "format": {"type": "json_schema", "schema": OUTPUT_SCHEMA},
+        },
+    }
 
 
-def call_claude(candidates: list, category: str, avoid_urls: list, avoid_words: list) -> dict:
-    client = Anthropic(api_key=ANTHROPIC_API_KEY)
-    prompt = build_prompt(candidates, category, avoid_urls, avoid_words)
+def extract_json(message) -> dict:
+    text = "".join(block.text for block in message.content if block.type == "text")
+    return json.loads(text)
 
-    last_error = None
-    for attempt in range(3):
-        response = client.messages.create(
-            model=MODEL,
-            max_tokens=4000,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        text = "".join(block.text for block in response.content if block.type == "text")
+
+def run_batch(client: Anthropic, params: dict):
+    """Batch APIで実行。時間内に終わらなければ None を返す。"""
+    batch = client.messages.batches.create(
+        requests=[{"custom_id": "daily-digest", "params": params}]
+    )
+    batch_id = batch.id
+    print(f"[INFO] Batch作成: {batch_id}")
+
+    deadline = time.monotonic() + BATCH_TIMEOUT_MINUTES * 60
+    while time.monotonic() < deadline:
+        status = client.messages.batches.retrieve(batch_id).processing_status
+        if status == "ended":
+            break
+        time.sleep(BATCH_POLL_SECONDS)
+    else:
+        print(f"[WARN] Batchが{BATCH_TIMEOUT_MINUTES}分以内に終わらなかったためキャンセル")
         try:
-            return parse_json_response(text)
-        except json.JSONDecodeError as exc:
-            last_error = exc
-            print(f"[WARN] JSON解析失敗(試行{attempt + 1}/3): {exc}")
+            client.messages.batches.cancel(batch_id)
+        except Exception as exc:  # noqa: BLE001
+            print(f"[WARN] Batchキャンセル失敗: {exc}")
+        return None
 
-    raise last_error
+    for entry in client.messages.batches.results(batch_id):
+        if entry.result.type == "succeeded":
+            return entry.result.message
+        print(f"[WARN] Batch結果が失敗: {entry.result.type}")
+    return None
+
+
+def call_claude(params: dict) -> dict:
+    client = Anthropic(api_key=ANTHROPIC_API_KEY)
+
+    message = None
+    try:
+        message = run_batch(client, params)
+    except Exception as exc:  # noqa: BLE001
+        print(f"[WARN] Batch処理でエラー: {exc}")
+
+    if message is None:
+        print("[INFO] 通常APIにフォールバック")
+        message = client.messages.create(**params)
+
+    usage = message.usage
+    print(f"[INFO] トークン使用量: 入力{usage.input_tokens} / 出力{usage.output_tokens}")
+    return extract_json(message)
 
 
 # ---------------------------------------------------------------------------
 # メール作成・送信
 # ---------------------------------------------------------------------------
-def compose_email(result: dict, today: str) -> tuple:
-    picks = result.get("picks", [])
-    word = result.get("word_of_day", {})
-    business_idea = result.get("business_idea", {})
+def article_ref(articles: list, article_id: int) -> str:
+    if 0 <= article_id < len(articles):
+        a = articles[article_id]
+        return f"   🔗 {a['url']} ({a['source']})"
+    return ""
 
-    lines = [f"おはようございます!☀️ {today} のAI動向ダイジェストです。", ""]
 
-    lines.append("📰 注目ニュース")
-    if picks:
-        for i, pick in enumerate(picks, start=1):
-            lines.append(f"{i}. {pick.get('title', '')}")
-            lines.append(f"   {pick.get('summary', '')}")
-            lines.append(f"   🔗 {pick.get('url', '')} ({pick.get('source', '')})")
+def compose_email(result: dict, articles: list, today: str, fallback_theme: str) -> tuple:
+    lines = [f"おはようございます!☀️ {today} のAI活用・DXダイジェストです。", ""]
+
+    lines.append("📊 AI活用事例")
+    cases = result.get("cases", [])[:MAX_CASES]
+    if cases:
+        for i, c in enumerate(cases, start=1):
+            lines.append(f"{i}. {c['headline']}")
+            lines.append(f"   🏢 誰が: {c['who']}")
+            lines.append(f"   🎯 対象業務: {c['target']}")
+            lines.append(f"   🛠 方法: {c['method']}")
+            lines.append(f"   📈 効果: {c['effect']}")
+            lines.append(f"   💡 試すなら: {c['hint']}")
+            ref = article_ref(articles, c["article_id"])
+            if ref:
+                lines.append(ref)
+            lines.append("")
     else:
-        lines.append("本日は目立った大きな動きはありませんでした。")
-    lines.append("")
+        lines.append("本日は目立った活用事例の記事はありませんでした。")
+        lines.append("")
 
-    lines.append("💡 今日の一言")
-    if word:
-        lines.append(f"■ {word.get('term', '')}")
-        lines.append(word.get("explanation", ""))
-    lines.append("")
+    risk = result.get("risk") or {}
+    if risk:
+        has_article = 0 <= risk.get("article_id", -1) < len(articles)
+        label = "ニュース" if has_article else f"基礎知識:{fallback_theme}"
+        lines.append(f"⚖️ リスク・ルール({label})")
+        lines.append(f"■ {risk['headline']}")
+        lines.append(f"   📝 概要: {risk['summary']}")
+        lines.append(f"   ⚠️ 注意点: {risk['watch_points']}")
+        lines.append(f"   ✅ 対策: {risk['actions']}")
+        if has_article:
+            lines.append(article_ref(articles, risk["article_id"]))
+        else:
+            lines.append("   ※AIによる一般的な解説です。社内ルール化の際は公的資料・専門家で確認してください。")
+        lines.append("")
 
-    lines.append("🚀 ビジネス活用アイデア")
-    if business_idea:
-        lines.append(f"■ {business_idea.get('title', '')}")
-        lines.append(business_idea.get("idea", ""))
-    lines.append("")
+    others = result.get("others", [])[:MAX_OTHERS]
+    if others:
+        lines.append("📰 その他の注目記事")
+        for o in others:
+            lines.append(f"・{o['one_line']}")
+            ref = article_ref(articles, o["article_id"])
+            if ref:
+                lines.append(ref)
+        lines.append("")
 
     lines.append("---")
-    lines.append("本メールはGitHub Actionsにより自動生成されています。")
+    lines.append("記事本文をもとにAI(Claude Haiku)が要約しています。正確な内容はリンク先で確認してください。")
 
-    subject = f"🤖 AI動向ダイジェスト {today}"
-    body = "\n".join(lines)
-    return subject, body
+    subject = f"🤖 AI活用・DXダイジェスト {today}"
+    return subject, "\n".join(lines)
 
 
 def send_email(subject: str, body: str) -> None:
@@ -366,38 +445,61 @@ def send_email(subject: str, body: str) -> None:
 def main() -> None:
     log = load_topics_log()
     seen_urls = {entry["url"] for entry in log.get("seen_urls", [])}
-    word_history = log.get("word_history", [])
-    category_index = log.get("category_index", 0)
-    category = WORD_CATEGORIES[category_index % len(WORD_CATEGORIES)]
+    theme_index = log.get("risk_theme_index", 0)
+    fallback_theme = RISK_THEMES[theme_index % len(RISK_THEMES)]
 
-    candidates = collect_rss_items() + collect_anthropic_items() + collect_hn_items()
-    candidates = [c for c in candidates if c["url"] and c["url"] not in seen_urls]
+    candidates = dedupe(collect_rss_items())
+    candidates = [c for c in candidates if c["url"] not in seen_urls]
+    print(f"[INFO] 候補記事件数(既出除外後): {len(candidates)}")
 
-    print(f"[INFO] 候補記事件数: {len(candidates)}")
-
-    result = call_claude(candidates, category, list(seen_urls), word_history)
+    articles = attach_bodies(candidates)
+    params = build_request_params(build_prompt(articles, fallback_theme))
+    result = call_claude(params)
 
     today = datetime.now(JST).strftime("%Y-%m-%d")
-    subject, body = compose_email(result, today)
+    subject, body = compose_email(result, articles, today, fallback_theme)
     send_email(subject, body)
     print("[INFO] メール送信完了")
 
-    new_seen = list(log.get("seen_urls", []))
+    # 取り上げた記事を既出として記録
+    used_ids = [c["article_id"] for c in result.get("cases", [])[:MAX_CASES]]
+    used_ids += [o["article_id"] for o in result.get("others", [])[:MAX_OTHERS]]
+    risk_id = (result.get("risk") or {}).get("article_id", -1)
+    used_ids.append(risk_id)
+
     now_iso = datetime.now(timezone.utc).isoformat()
-    for pick in result.get("picks", []):
-        if pick.get("url"):
-            new_seen.append({"url": pick["url"], "date": now_iso})
-    log["seen_urls"] = prune_seen_urls(new_seen)
+    new_seen = list(log.get("seen_urls", []))
+    for i in used_ids:
+        if 0 <= i < len(articles):
+            new_seen.append({"url": articles[i]["url"], "date": now_iso})
 
-    word = result.get("word_of_day", {})
-    if word.get("term"):
-        word_history.append(word["term"])
-    log["word_history"] = word_history[-WORD_HISTORY_MAX:]
-    log["category_index"] = (category_index + 1) % len(WORD_CATEGORIES)
-
-    save_topics_log(log)
+    new_log = {
+        "seen_urls": prune_seen_urls(new_seen),
+        # 基礎知識テーマを使った日だけ次のテーマに進める
+        "risk_theme_index": theme_index + (1 if not 0 <= risk_id < len(articles) else 0),
+    }
+    save_topics_log(new_log)
     print("[INFO] topics_log.json 更新完了")
 
 
+def notify_failure(error_text: str) -> None:
+    today = datetime.now(JST).strftime("%Y-%m-%d")
+    body = (
+        "本日のダイジェスト生成に失敗しました。\n"
+        "GitHub Actions のログを確認してください。\n\n"
+        f"{error_text[-2000:]}"
+    )
+    try:
+        send_email(f"⚠️ AI活用・DXダイジェスト 生成失敗 {today}", body)
+    except Exception as exc:  # noqa: BLE001
+        print(f"[ERROR] 失敗通知メールも送信できませんでした: {exc}")
+
+
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception:  # noqa: BLE001
+        error_text = traceback.format_exc()
+        print(error_text)
+        notify_failure(error_text)
+        sys.exit(1)
