@@ -1,8 +1,9 @@
-name: Daily AI Digest
+name: Daily AI DX Digest
 
 on:
   schedule:
-    - cron: "0 18 * * *" # UTC 18:00 = JST 3:00 (翌日)
+    # UTC 18:17 = JST 3:17。毎時0分は実行が集中して遅延・スキップしやすいためずらしている
+    - cron: "17 18 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -11,6 +12,8 @@ permissions:
 jobs:
   send-digest:
     runs-on: ubuntu-latest
+    # Batch APIの待ち時間(最大60分)+通常APIフォールバック分
+    timeout-minutes: 90
     steps:
       - name: Checkout
         uses: actions/checkout@v4
