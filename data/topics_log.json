@@ -1,26 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "date": "2026-10-06T22:35:46.900856+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0hfa1A1NjJCNExCcDJkTmFQOTMtOTV5MU9ZSDQ4M0pUTDBBUzdTNjVTMHpkMUROdG5qWVBXaVcza29USWdhRHd0dDcyRmdBSDBYYVYzYzVSeVN4WlhkN2pURGk4blpRaFpTYUpjeHhwTDBuQ0dmTWJKNnJIM3dmSEhFUC1TQWltODdoY1ZLSmh4MmNMakhOOXl4RHAzTXM5ckx0NTVoZ2dwc0dDaDRRVVRjSTFBc053cjVMOTl6b1VVcW5rNU9MWk9CdGk?oc=5",
-      "date": "2026-10-06T22:35:46.900856+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4WnZ4RmxlTUx3NnFXZTNNR3pETnZpQUJEVm4yYmYtQnVtQktYOUNiQ1Njdk1ITEFDMnJmTHlRbnJXOVZ5T2Fzc3pvZ2JXTlFlR2VNMmF2SEs0VGdrRXJ4N3UxY0h5bTBq?oc=5",
-      "date": "2026-10-06T22:35:46.900856+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "date": "2026-10-06T22:35:46.900856+00:00"
-    },
-    {
-      "url": "https://openai.com/index/atlassian-partnership",
-      "date": "2026-10-06T22:35:46.900856+00:00"
-    },
     {
       "url": "https://openai.com/index/gpt-6-for-everyone",
       "date": "2026-10-07T23:00:09.956025+00:00"
@@ -296,6 +276,26 @@
     {
       "url": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
       "date": "2026-10-20T21:30:11.155561+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWRWVTdKcHNNZVpFRmJSNFZKVHdSQVpxbTNGT1AxLWJ4T1htaWlubWo0MTVBSXdxcGJIOVozQjhKNUI3TW11MFlYZnRvcmhLNEJWN0t4M190dFgyQV9BY0hFTmU4eXNnYzNJbXpycEVzOUNuRVY4T1BnYThPRWpJV0dYYUJ1RHVsUURPOTB0a0dtM0dnWTk0cURhMHNQYzdSdDNoblpHc3pzVWJ2ZnM2T3JJNDI3YzdwQ283MjZwM0Q",
+      "date": "2026-10-21T21:32:05.823397+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVllBWEktMzdicFV0SnpNQTVyZUJMSEo5cUoxOXF3Y3FObUFkblhKN0lKMnhlLVE0Sm5kYlkzejQ1cmpPWnFMZFJObnlVVHJCRThlYTZ4UUxPOWVnLWNXQjMxM21GdEFYdnVKZUJfWG5XZTJtNFVwOFo5alJqZWd0eDREcGU",
+      "date": "2026-10-21T21:32:05.823397+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "date": "2026-10-21T21:32:05.823397+00:00"
+    },
+    {
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "date": "2026-10-21T21:32:05.823397+00:00"
+    },
+    {
+      "url": "https://claude.com/product/claude-duet",
+      "date": "2026-10-21T21:32:05.823397+00:00"
     }
   ],
   "word_history": [
@@ -385,6 +385,7 @@
     "Positional Encoding（位置エンコーディング）",
     "In-Context Learning（インコンテクスト学習）",
     "Zero-Shot Evaluation（ゼロショット評価）",
-    "KVキャッシュ（KV Cache）"
+    "KVキャッシュ（KV Cache）",
+    "Thought-Action-Observation Loop（TAO Loop / 思考・行動・観察ループ）"
   ]
 }
