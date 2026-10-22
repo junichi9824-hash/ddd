@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "date": "2026-10-07T23:00:09.956025+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbldRcWs3UHJ4d3c4enVrbFZEcUJTNkFBQ2tFUXlSTWlOeDdGQWtjZGZET3FydXh0TUU4X0ZaWVo0WVFpNVNqeXc0QmFtRTNPUDJaTWJZM3RWQURTc1NzNFU5OTZDREpqRUhzMlhqNW1aaGN6UEs2OG0tNXlOMXdISHlqSmdfdjhlYkx5YVFCbHN4dDFsUERFUGRQRzI4eE1qcWxB?oc=5",
-      "date": "2026-10-07T23:00:09.956025+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "date": "2026-10-07T23:00:09.956025+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.07070",
-      "date": "2026-10-07T23:00:09.956025+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.07118",
-      "date": "2026-10-07T23:00:09.956025+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83X1paSEtLWjZtZUJmSHFjNHZNMjQ3LUJkd01laERndU44cl9FU1N6TlZhUFpka0dBbkdaM0xnY0RTSks2MmJzRlB0b0hzcVhGd1l1clRrWE00TS1PNmlPS3lqUE1xMGhqNUFqYmtBNjZNVktBRlktMg",
       "date": "2026-10-08T23:14:45.823817+00:00"
@@ -296,6 +276,26 @@
     {
       "url": "https://claude.com/product/claude-duet",
       "date": "2026-10-21T21:32:05.823397+00:00"
+    },
+    {
+      "url": "https://openai.com/index/decisions-api",
+      "date": "2026-10-22T21:27:09.148821+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzhYbG1qV2ROdTlieFE1UEk0Yml3Y1ZnbnIxalpmazR3ZW9vTjF3YUJ3MzBCcDl0SVZRQm5lZkxVQ1h3cGRvTkVnWHNDcE95ZXF4VmZmdFY1STlkR0d3SmlJTjFPOHgyQVpBZFdEdjZTQ2w0dVVsakdvb0ZsNVVFNTUyeEZpQQ",
+      "date": "2026-10-22T21:27:09.148821+00:00"
+    },
+    {
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "date": "2026-10-22T21:27:09.148821+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92aG9NVDJ3NTRDRERmQWM1LVJyR1hyMXl4VkE1NWpJS2twTTZjZFFlNTVNT3J6OHJhaEJtSkNtT1hIdTBDUk93TVZSUFZmNHhKM1BnN2tDd29oQmxrYkE",
+      "date": "2026-10-22T21:27:09.148821+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "date": "2026-10-22T21:27:09.148821+00:00"
     }
   ],
   "word_history": [
@@ -386,6 +386,7 @@
     "In-Context Learning（インコンテクスト学習）",
     "Zero-Shot Evaluation（ゼロショット評価）",
     "KVキャッシュ（KV Cache）",
-    "Thought-Action-Observation Loop（TAO Loop / 思考・行動・観察ループ）"
+    "Thought-Action-Observation Loop（TAO Loop / 思考・行動・観察ループ）",
+    "Semantic Leakage（意味的漏出）"
   ]
 }
