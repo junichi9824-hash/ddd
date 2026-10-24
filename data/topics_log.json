@@ -1,26 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/sophos",
-      "date": "2026-10-09T22:32:52.203422+00:00"
-    },
-    {
-      "url": "https://openai.com/index/asana-browser-agent",
-      "date": "2026-10-09T22:32:52.203422+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVXpvaFdacktESjZwbURtOUpFTW5WTTktSnZ4TjBudmVJcXVHenYxdEpRQ1p0RjFENkJuQmFIVHdVM3JjN1lSSkc3UEZfejI2cVNDRFNoRi1yV0l2NWNGb3VEQTVmVmpGcm1acWVOeXVtMFk0Y1JtNDFkUjNXdkZ4bFN4UHhjTk1qTGdIZkF1TmNTd3ZQWVNwWTlMX3A4SzhJTm5yTDlVRTE2TlhS0gGsAUFVX3lxTE5Vem9oV1pyS0RKNnBtRG05SkVNblZNOS1KdnhOMG52ZUlxdUd6djF0SlFDWnRGMUQ2Qm5CYUhUd1UzcmM3WVJKRzdQRl96MjZxU0NEU2hGLXJXSXY1Y0ZvdURBNWZWakZybVpxZU55dW0wWTRjUm00MWRSM1d2RnhsU3hQeGNOTWpMZ0hmQXVOY1N3dlBZU3BZOUxfcDhLOElObnJMOVVFMTZOWFI",
-      "date": "2026-10-09T22:32:52.203422+00:00"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "date": "2026-10-09T22:32:52.203422+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.10845",
-      "date": "2026-10-09T22:32:52.203422+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiZk5lTERCRDkwMFBjblJEbDlDdUFVXzJqSjdJTEFTaXdzbmlacVFCdUVJR3lnSnFMZEtoanZfcndscjlBODNJQVRVUU5WVG5oQzZScHE0cTdCemoxZVRrRVByQ201M00",
       "date": "2026-10-10T21:31:28.854475+00:00"
@@ -296,6 +276,26 @@
     {
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "date": "2026-10-23T21:18:25.403886+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS281X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5",
+      "date": "2026-10-24T20:36:44.476003+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNE0yTnZ3bmZweG5GVGx6eGV2bTBOR0x6ZEp5TThmR3prQWlhRzdPaWc2Z1FJWEJmc2J6Y1M0SVBsS2VtMHhWS29sNXI0U1R3XzV3YV8tWTh3OEIzNkpJaW1FVkFEcHEwdWtWVzYzVzg4S2lpdFdpWDM2Rm9KS1ZTN2FTclFkcENXeEJZV25hRnM1QUFnNWdvY1VCYkFpeTFSeUJBekwzemNKVjhm?oc=5",
+      "date": "2026-10-24T20:36:44.476003+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OR0ZCaUJpcC1kV3dNWHJjSG00Q2toN2V2R1pFaW1hLUk5WExMSlBhNWcxd3c0eXJkZy00bjdCWWlVV2h2MWlEYnFnc1I1OUlzc1NiWTQ4QWtLMDU3Tnc?oc=5",
+      "date": "2026-10-24T20:36:44.476003+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNDFZQV9uak12T2p6WHhjX1ppTFBGM18wR0Nqc3FEQUVVbTdQQjZpVjdJM1FNMTNLWTFjOF9mSDlmd2d6bEpmQ3ZIdFQxX0FzY21rYkVzUUVXcWs3UHZtR2l1V2x1OUQzSGpmYnlKM2lSRTltX3UtWlZPQ2JhaTZPeDhydkhVUHRBSEt0QWo0TmlhSElRaXM4TVlRN2Y0YVp5RDBidHI0TXJ2RGwteVBCVkhSV09sOHlvUThkNXdQTzZrNGVWbF9UWUNDSlBSbDBIdTVubVllZ2piVVZfX0VhX05ZREtjaGV4QmJOZHlvcVhYb21IR05mMDBfcko0dVhHTW1WSUd0RlNSX1pmbXdRY1hB?oc=5",
+      "date": "2026-10-24T20:36:44.476003+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYzNYN0pqU0lKb3VsQzdaYnNoS2ZzSU52UnNUTHhfdThEVXo2X0pfWXB2WkhnajBuQXVySHhWUjJZOHFFN1c0NlN1b0lmNjlzR3dFRWpJSU9mLUtjMWxBRktpOGJ0dG1WTEd1ZEtZWGswVmRUZVRpd0RBeHpyZ09xTkw0d01fTnd2MHpNcFhoTzdMWmlCUllxS0M1dHJsbG94dXB2am1HTVl4c0YwUFBYeDNYc1FWMWowbXFXcXM3VVJneGM?oc=5",
+      "date": "2026-10-24T20:36:44.476003+00:00"
     }
   ],
   "word_history": [
@@ -388,6 +388,7 @@
     "KVキャッシュ（KV Cache）",
     "Thought-Action-Observation Loop（TAO Loop / 思考・行動・観察ループ）",
     "Semantic Leakage（意味的漏出）",
-    "Retrieval-Augmented Generation（RAG／検索拡張生成）"
+    "Retrieval-Augmented Generation（RAG／検索拡張生成）",
+    "Attention Mechanism（アテンション機構）"
   ]
 }
