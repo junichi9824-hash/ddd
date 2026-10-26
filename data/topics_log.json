@@ -1,26 +1,6 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMmV0X3hDcW12NDFmN3RRem9ieGxsSGZOdm9kaHRvc2dCN2h1NVdGTTBXRnpyQnk5YTFDcDRfcjl6SXNlb0hJajlrMnlGYmxYcngtdFJJUlB2dFFTdDdFYmFGUS1mVFN4eWU5Z1JnYkZFSXhpbHlmRUFaWThKbWhJVjJ3aHpQN3dPaUdEcHNDallUeEctNnZ6NUhPUlQyTVRUSnRaZ1QtaFk3anJ2dExXdENJdG5RaHhrdDdJXzBWUVptNUZLNmEtSE9ndjM?oc=5",
-      "date": "2026-10-11T21:46:21.658032+00:00"
-    },
-    {
-      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-      "date": "2026-10-11T21:46:21.658032+00:00"
-    },
-    {
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
-      "date": "2026-10-11T21:46:21.658032+00:00"
-    },
-    {
-      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-      "date": "2026-10-11T21:46:21.658032+00:00"
-    },
-    {
-      "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-      "date": "2026-10-11T21:46:21.658032+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ozanV4bE5iRXh3TFR6eE5KOFFqd1RZSmlGSWZWZXlyeE12WTdvRUZjMXZIUUJFOVhyM0lUUVI4aFNSX1NNUmlKTXFvLVNWR1NFUjRvVGtlX2wxMzUtYlBGWGpjOVZKNEFFOGVETDRVTUZxU0tMNWtWVHMxLWJMbFc0MGZFR2RmU3pjaDBMTmFpSUtLSlg4djM1cEFTVVN1VUhQNTZWTFFLR0VsRUNoUQ",
       "date": "2026-10-13T00:31:16.454993+00:00"
@@ -296,6 +276,26 @@
     {
       "url": "https://lynchlab.net/llm-skin-cancer",
       "date": "2026-10-25T20:43:24.376333+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "date": "2026-10-26T22:34:45.475101+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "date": "2026-10-26T22:34:45.475101+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlAyelVpdFVyZlc4LWphYUdoRDNySEhBZmp1U2ZtNzlUZlJQVVRDdHFOUXZNV2N1Q0czMGhoSlNodHNCLXRkZkFZZGRwc2tSTTN5NkZLbGdxclQ4aTZvbWNuTllVWnV6ZVpCQmVjN0FOQ2hpaUI4LUNOcTlQQ3hzSVFJcllVcEtYVm5GN0tUWXI3R2xWT1V1UHdWc0phZGFjeWhCcmZnRUFydmJ1NHdvWHFWbWpQbkI2OVo3TU5HOXRFTnhMWmFlQmtHX202WURvX2c",
+      "date": "2026-10-26T22:34:45.475101+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TUnBPRTdOemk1Y2FlR2ZZRGI3VkdnTGRfSjRSbjdvRXJrYTF1SkxuX1FUR29sWkJRN1BjMGkwZmNGRFY2b0VUZFBJTGxzTjlPczV4RHlvX3o4SkcwNDQydFpPUkVreHdqRXZxRVkzVmZNUE5SOHRWQWxB",
+      "date": "2026-10-26T22:34:45.475101+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.31945",
+      "date": "2026-10-26T22:34:45.475101+00:00"
     }
   ],
   "word_history": [
@@ -390,6 +390,7 @@
     "Semantic Leakage（意味的漏出）",
     "Retrieval-Augmented Generation（RAG／検索拡張生成）",
     "Attention Mechanism（アテンション機構）",
-    "Preference Learning（選好学習）"
+    "Preference Learning（選好学習）",
+    "Distributional Alignment（分布的整合性）"
   ]
 }
