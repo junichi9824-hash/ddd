@@ -1,26 +1,6 @@
 {
-  "category_index": 3,
+  "category_index": 4,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2ozanV4bE5iRXh3TFR6eE5KOFFqd1RZSmlGSWZWZXlyeE12WTdvRUZjMXZIUUJFOVhyM0lUUVI4aFNSX1NNUmlKTXFvLVNWR1NFUjRvVGtlX2wxMzUtYlBGWGpjOVZKNEFFOGVETDRVTUZxU0tMNWtWVHMxLWJMbFc0MGZFR2RmU3pjaDBMTmFpSUtLSlg4djM1cEFTVVN1VUhQNTZWTFFLR0VsRUNoUQ",
-      "date": "2026-10-13T00:31:16.454993+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZHdiQm9JMHQ5MDd3UUVGaHZiZWtTY1hZZi1rVWcxTm1mbmdHcElTN19CQW1OR2daZ04yeEpjSllUb0hMTFY3YUpOdGQ2LTNPbWNJcExvRmszdU9Db0JINjNDZWdKeGdsQkVPZklYMGVxMUVZMmZmNGUzWFpiNnVXbXA4SjdPZzZudnlydVA4MVVDc2s1Q2Exdm8wTFlZOTdLUVFmbjlqaElzNHJFOHVRbU9QYmhYX1JaOVRTdWhoTkxvVjdvWkJZN0J1Qmo3VzhQTTlWdzd3",
-      "date": "2026-10-13T00:31:16.454993+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.12545",
-      "date": "2026-10-13T00:31:16.454993+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "date": "2026-10-13T00:31:16.454993+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.12569",
-      "date": "2026-10-13T00:31:16.454993+00:00"
-    },
     {
       "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
       "date": "2026-10-13T22:34:51.371048+00:00"
@@ -296,6 +276,26 @@
     {
       "url": "https://arxiv.org/abs/2610.31945",
       "date": "2026-10-26T22:34:45.475101+00:00"
+    },
+    {
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "date": "2026-10-27T22:05:34.714072+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "date": "2026-10-27T22:05:34.714072+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5",
+      "date": "2026-10-27T22:05:34.714072+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFN6MDd0bXJNOTIycHhtMnF1Uk1PVjFuaURPbHhYMkdBR1JVbWc2QjkxRVJSYmg4ZzZkQjRGd0ZMaDN6S0RtUXRhTFUxdUJOSzFHWGNjeXd2YmlqN09rZGtfWmQ1XzlIYWFvOFhfSURhYmR4VUJtTnNiZkFXQjBUdlNyMk4xTmVOaHNKVmhPTHNSRERCLS03MG55Q0steWc?oc=5",
+      "date": "2026-10-27T22:05:34.714072+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaXZnQ1VPbTVMaHJOX2NKSUl3T1hxem9OT1dGc3M1OVlPZVE1OWRSS2ZhaV8wdC1OWndieXZPd1NLaF85WUstRWlNNWRIR0xTUlVEcVVLOTZwNGZ3X0hiNzBxRGhoOGxHWXdVeE5PR3hNeDlFazJ3eWdkdzJQLXprUzRLRkJjZkhjdDhUcjhjUVpMc0JpRW1hdW1MdGZ6Q2JBQV9XTXl1MFF4aDNyUF9CcmpTVUN3YWl6YkcySmlKTEtKdVRjVGtHRWR3VE9BbEF50gHQAUFVX3lxTE9yb0ZaeVFTcDQybWN0b0JfQVZwczZ5R1lEY09OaVZJSjZfTWNwZjd2UkhGQ252dXRYZUVWRlhJQjNxODdEZmNZREVSb3A0YTBmX0lkRVRYbkJrLVQ5MWY3c0JwSWpHN1k0ZGk1anBYSy1mWGFPclN1am5ZajFiaU1SZHRabTA5bFFub2ZIVFppYXVuWHhqQTZkSmVvTGFBNnJHUFN4andkS2c0YUR4V2tTeU1CSllVblVySjY5U3BKeUxlNlY4RWVVMHJnZmdJdnE?oc=5",
+      "date": "2026-10-27T22:05:34.714072+00:00"
     }
   ],
   "word_history": [
@@ -391,6 +391,7 @@
     "Retrieval-Augmented Generation（RAG／検索拡張生成）",
     "Attention Mechanism（アテンション機構）",
     "Preference Learning（選好学習）",
-    "Distributional Alignment（分布的整合性）"
+    "Distributional Alignment（分布的整合性）",
+    "Context Compression（コンテキスト圧縮）"
   ]
 }
