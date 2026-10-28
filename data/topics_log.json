@@ -1,46 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "date": "2026-10-13T22:34:51.371048+00:00"
-    },
-    {
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "date": "2026-10-13T22:34:51.371048+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QUWY0QzF4ZVRkV0UyZFhXT2J2cTFvZUVVcTdPNUNiX1R4YmlPbDlXUEk1eWo5cTBuUngtZ2RJaGxsR1c1SkxUT0NVZ3kwTndhODZV",
-      "date": "2026-10-13T22:34:51.371048+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjZHWERDT1RZOE1RTXNBQjloazUtTHJJT1FkaHdEd3VjWVV1d0V0V096Wjk1ZUE1T2FIX0FWaWl3UkNTeWpzWVBDVjZZNXYzZ3E4Yjh6YVJxZVAxTVEwU05ET1FxMDFSVVpZTWxVTk9sUGZKWXJyWUtWUERWOTJaX0JwQmtXMWJ3aDRiVzltT1BJdXI4N1Aw",
-      "date": "2026-10-13T22:34:51.371048+00:00"
-    },
-    {
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "date": "2026-10-13T22:34:51.371048+00:00"
-    },
-    {
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "date": "2026-10-14T21:32:59.129679+00:00"
-    },
-    {
-      "url": "https://openai.com/index/third-moment-research",
-      "date": "2026-10-14T21:32:59.129679+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVl1Q1VBQTkxakk3QjE1ZlFqdHdSZjI3NnZfQnVXLWRaZDRtNnpnMml4QW9GaURoWllneVBpMUdwVFJrRDdJRklCUURrX3plR0FIdno1RE5uYjlfZmNwMG9xbUljMmFMRzZDTzZDZEgxcDlDTzlzTkJWaVZvZ0V5YU1pVjQwWk5oZndxeTN2aFlfenJCTjQzd2Zzc3ptRWprd0JyTjFHV1k3NllDaWxBWTFMUnA",
-      "date": "2026-10-14T21:32:59.129679+00:00"
-    },
-    {
-      "url": "https://openai.com/index/sentinelone",
-      "date": "2026-10-14T21:32:59.129679+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0YwYkhUWWFoalQwTDNJd0ZseUtISUFxXzJrQXh6MmFTSnMta2Y2VzdONi1MQWV0OUdVdFozWnJwMi1vcS13ZnhXcF9GZm5SMmk4c3o4RG40LXZKUWFwc2xxa0NwWllSZ1ZDaHUzcjI4alowLXBEWVE0RnJabDc2SlF6WWpzeGZwQlZPRXpROXBUX3l0aDBOZkFpMVQ",
-      "date": "2026-10-14T21:32:59.129679+00:00"
-    },
     {
       "url": "https://research.meta.ai/blog/muse-spark-open",
       "date": "2026-10-15T21:14:56.310350+00:00"
@@ -296,6 +256,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaXZnQ1VPbTVMaHJOX2NKSUl3T1hxem9OT1dGc3M1OVlPZVE1OWRSS2ZhaV8wdC1OWndieXZPd1NLaF85WUstRWlNNWRIR0xTUlVEcVVLOTZwNGZ3X0hiNzBxRGhoOGxHWXdVeE5PR3hNeDlFazJ3eWdkdzJQLXprUzRLRkJjZkhjdDhUcjhjUVpMc0JpRW1hdW1MdGZ6Q2JBQV9XTXl1MFF4aDNyUF9CcmpTVUN3YWl6YkcySmlKTEtKdVRjVGtHRWR3VE9BbEF50gHQAUFVX3lxTE9yb0ZaeVFTcDQybWN0b0JfQVZwczZ5R1lEY09OaVZJSjZfTWNwZjd2UkhGQ252dXRYZUVWRlhJQjNxODdEZmNZREVSb3A0YTBmX0lkRVRYbkJrLVQ5MWY3c0JwSWpHN1k0ZGk1anBYSy1mWGFPclN1am5ZajFiaU1SZHRabTA5bFFub2ZIVFppYXVuWHhqQTZkSmVvTGFBNnJHUFN4andkS2c0YUR4V2tTeU1CSllVblVySjY5U3BKeUxlNlY4RWVVMHJnZmdJdnE?oc=5",
       "date": "2026-10-27T22:05:34.714072+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "date": "2026-10-28T22:28:24.582472+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "date": "2026-10-28T22:28:24.582472+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYUlNMmpzTGpPU3FOYUwzUGJnREhlSElmSGlzZU02VVJid0M5NUlla25LYW5UZjFLbm1rVnRFQnNiZWd3Mm81N3FxdmdHc3g4M1NTSFR3SE9QcWxWdGJ6QmotWDVqN0xvNFFleDhfTUlqSksyUEhEWnhfeXEzcUYxbU9idS1tc3o5TmZpQVVfMl94ams",
+      "date": "2026-10-28T22:28:24.582472+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36523",
+      "date": "2026-10-28T22:28:24.582472+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.36187",
+      "date": "2026-10-28T22:28:24.582472+00:00"
     }
   ],
   "word_history": [
@@ -392,6 +372,7 @@
     "Attention Mechanism（アテンション機構）",
     "Preference Learning（選好学習）",
     "Distributional Alignment（分布的整合性）",
-    "Context Compression（コンテキスト圧縮）"
+    "Context Compression（コンテキスト圧縮）",
+    "Agent Handoff（エージェント・ハンドオフ）"
   ]
 }
