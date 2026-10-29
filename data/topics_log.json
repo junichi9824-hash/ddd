@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "date": "2026-10-15T21:14:56.310350+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "date": "2026-10-15T21:14:56.310350+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQei1iZTlCN1NrVzJOYmNjMmFjejVKU05obGxmdHkwbG1YWFNRclFyV1NacmJ3Q1o5RUVPMkRVNWsxTlJJQ2V0SEF4YTdDV05lUHgzSURSc0QwVF9LeE4wRmplUUFwSzZkYjJGUGhjalQ1SHZhWk5mTmlNcGxLZWtGLU5UcHI4NTJpWENQZThBS0xsQ3lsSENabmhKQlhEN1JBWlVwZnU1UWRVVExYWU1mU2xqUEVlbjDSAbcBQVVfeXFMUGRtSmxxc3hJSkFKeF80MkVyVGRFMG1ISlZlV0RjbUZfS05Ra1U1azZjeWFJX1UycUxvSjlqcnVnZFFicHhTODVpeXdiUDBMcnMyQ3IyXzRqaTFDUm11VFhTS2JndTVGdTJYQ3c1bHl4clJHaC16V3VHNldpZVNPWlJvUmxBTHJMU1Q5Y2F5R2tlYk93WlZiVTc3U1RsRVhjWnRaX3JxOVNRR3IwQ01WLXlPSF9BZS1Z",
-      "date": "2026-10-15T21:14:56.310350+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "date": "2026-10-15T21:14:56.310350+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.18881",
-      "date": "2026-10-15T21:14:56.310350+00:00"
-    },
     {
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "date": "2026-10-16T20:53:51.407172+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://arxiv.org/abs/2610.36187",
       "date": "2026-10-28T22:28:24.582472+00:00"
+    },
+    {
+      "url": "https://openai.com/index/updated-model-spec",
+      "date": "2026-10-29T22:40:44.908896+00:00"
+    },
+    {
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "date": "2026-10-29T22:40:44.908896+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1AtYlMxWEZUSDhweUUydXZtVTZPaXRHTkdzREh1aVJycUIwdTZubDlnRmdyUVpycEhoSHVkelZjV0RqV3puWWxKQ3BicU04V2s5V0NYZ0ZXVEhoOVoyWXlKSkRoYUxzTGNTUE0tSVJtV0ZQamVBTG5vdktDZ01qNHVPa0JYMlE5ckp4N2czS01NVTR2S0M1MVphUXBWcWp3T2NwSmhpdnBCUQ",
+      "date": "2026-10-29T22:40:44.908896+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Ibo1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx",
+      "date": "2026-10-29T22:40:44.908896+00:00"
+    },
+    {
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "date": "2026-10-29T22:40:44.908896+00:00"
     }
   ],
   "word_history": [
@@ -373,6 +373,7 @@
     "Preference Learning（選好学習）",
     "Distributional Alignment（分布的整合性）",
     "Context Compression（コンテキスト圧縮）",
-    "Agent Handoff（エージェント・ハンドオフ）"
+    "Agent Handoff（エージェント・ハンドオフ）",
+    "Frontier Model Misalignment Detection（境界領域モデル誤配置検出）"
   ]
 }
