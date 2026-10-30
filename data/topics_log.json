@@ -1,26 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "date": "2026-10-16T20:53:51.407172+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm4tNU0xUDJDckV6eGp3OHp6eUZCaGVERjBTLXNNS0VGZVpKcFRzR1ZCMmNvS3lBN3FEMkpJTHR6R3NtYXZjZVc2UU41Wm5YeHhWZzctd25uQkpoUUIteDlFRlR1X0xjdWtxV0E0dVN5cGdmUHhIQ2g5SGtVcW5WbDFXR21JOE5vWHpRWGNlWWtNay1TeUZfNlZPdjdRdkh2dy1MeWtPeEtNRXlOTjBRQk1WTEt6Vm8",
-      "date": "2026-10-16T20:53:51.407172+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MWmdoVzlXTlRVT3BybFV4V19hQkl4b3liMDZISEJDSVhSbnJsVWtnUVZUSUhpeUMxOHF3aVRlcWRNS3FldXozd19GM3pXWXB4blJtVkVVeXUyRVBhVDQ1T1I0Z0d3cDhXSU95cWg1M2lpVzhDTlE",
-      "date": "2026-10-16T20:53:51.407172+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
-      "date": "2026-10-16T20:53:51.407172+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.20628",
-      "date": "2026-10-16T20:53:51.407172+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHBkZGEtVEpZTVo3Y0tiWnJmTlEzX1lLMG9tSW41MU41VXNtZUV2M2hyNnFaeXY3bF9UMV9wM25xNWZTRnFTVS1OS0dkblZyRGFXSzZYU05BVGdGOWxDRGNQMEJEUE10VlFYUlNuZ2N2S2RFOHpXRnlhZm5GWThTWXA0ZzkwXzZwOWFuaDNtaVNnTm13MTJsd2I1TzFKaUZJRmNWUTFsdXlwbUt5cm5GeG5aWXQ0T1R1V3Mr0gG7AUFVX3lxTE9kcGRkYS1USllNWjdjS2JacmZOUTNfWUswb21JbjkxTjlVc21lRXYzaHI2cVp5djdsX1QxX3AzbnE1ZlNGcVNVLU5LR2RuVnJEYVdLNlhTTkFUZ0Y5bENEY1AwQkRQTXRWUVhSU25nY3ZLZGU4eldGeWFmbkZZOFNZcDRnOTBfNnA5YW5oM21pU2dObXcxMmx3YjVPMUppRklGY1ZRMWx1eXBtS3lybkZ4blpZdDRPVHVXc2s",
       "date": "2026-10-17T20:27:47.008260+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://openai.com/index/ropes-gray-ai-diligence",
       "date": "2026-10-29T22:40:44.908896+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YcDRZY21kbGtpM0JPNy1WcU5MVFh1NUEzakZWd2tyYjA0MS1JUGVGSkNPR2F2YTJFSHNFUUF0bEhPREVYR3lVVmRuS0NFTDdHYWw5eHBBVnh1bzNQRjA4UTNoQXc4clo0ZF82aGM1Mnd2eGdu",
+      "date": "2026-10-30T22:12:11.526218+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaHlzVEpsNmNoRVZLRExRWXpGTElBdkJ3QWRsbEFiYkZTR0JzRU1IQ2QzU0xGVnpKam1DWU1veTdMbGM2U21MMEJTY1M0bnR3dXFNWG9HUXc4cmRKOUxLRmpoY0NzMGRjdXZjM2RHeWUyTV9admpjNnNxWmdCSlQxZF9Dd2lzRlBwellKNFVqeGw4TmNvSnZSeFFXQWswVkxZQlZxRmFtU2R5MGlOSUN1UVpaeXRRcXFNRjl2SS1yelVLaE4ydHpmNE1VX0xXbEItWHFlRElBc2ZLQQ",
+      "date": "2026-10-30T22:12:11.526218+00:00"
+    },
+    {
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "date": "2026-10-30T22:12:11.526218+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNElBZndyYXBPOGNzdXZDUmNNV2VybEplZUN6LXBvWFZPS3VVWlVYWFYxT1pscTYxdVpQMWdoYjhySkNHNEQzMGYwNHlrWU5DQlB5TFJlTzg2S05DaExtS1NYSzRocENNdmVzVVJxU2lYVy1iWFhUQ3BiRlRvOUNVUUpjWDgyRDYwSEl6bmxYS0pMWnJKNjM2VjBLVlZYaXUyOXFLYWxkbXktZ2tTLXJJSHJxZkw0Nm8tTjRkMmY2cE11YjFpTl8yeGxR",
+      "date": "2026-10-30T22:12:11.526218+00:00"
+    },
+    {
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "date": "2026-10-30T22:12:11.526218+00:00"
     }
   ],
   "word_history": [
@@ -374,6 +374,7 @@
     "Distributional Alignment（分布的整合性）",
     "Context Compression（コンテキスト圧縮）",
     "Agent Handoff（エージェント・ハンドオフ）",
-    "Frontier Model Misalignment Detection（境界領域モデル誤配置検出）"
+    "Frontier Model Misalignment Detection（境界領域モデル誤配置検出）",
+    "Fair Use（フェアユース）"
   ]
 }
