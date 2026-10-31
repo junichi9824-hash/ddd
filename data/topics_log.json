@@ -1,22 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHBkZGEtVEpZTVo3Y0tiWnJmTlEzX1lLMG9tSW41MU41VXNtZUV2M2hyNnFaeXY3bF9UMV9wM25xNWZTRnFTVS1OS0dkblZyRGFXSzZYU05BVGdGOWxDRGNQMEJEUE10VlFYUlNuZ2N2S2RFOHpXRnlhZm5GWThTWXA0ZzkwXzZwOWFuaDNtaVNnTm13MTJsd2I1TzFKaUZJRmNWUTFsdXlwbUt5cm5GeG5aWXQ0T1R1V3Mr0gG7AUFVX3lxTE9kcGRkYS1USllNWjdjS2JacmZOUTNfWUswb21JbjkxTjlVc21lRXYzaHI2cVp5djdsX1QxX3AzbnE1ZlNGcVNVLU5LR2RuVnJEYVdLNlhTTkFUZ0Y5bENEY1AwQkRQTXRWUVhSU25nY3ZLZGU4eldGeWFmbkZZOFNZcDRnOTBfNnA5YW5oM21pU2dObXcxMmx3YjVPMUppRklGY1ZRMWx1eXBtS3lybkZ4blpZdDRPVHVXc2s",
-      "date": "2026-10-17T20:27:47.008260+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jVF9qQm14WFpGSF9yUEFLMDZwSnpfSTlNMHZBSFdhTlFyT2tDOVkyQjk5eWpCOWRuUDBNODBIZ1VZWWdLT0dwWFZtZHJsVFFwT2pfM0ZuUE1sSWZEVkRsMElqYW5PWG1Oay12OGs3Q3J2aTlvRmc",
-      "date": "2026-10-17T20:27:47.008260+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmhRMXpyOGYzTi1BallOM1VRdWZzaFJuS1NRODc0YzNtTzVheGNqTm5UYjRINFR2eDYyVld2cTY1OGNNWDZzb2ZkWVNpUnM4NEtnRnVyZ1Y2bTZ4bkp4SVc2WUlJVnhMcUF6d1AwYmVSR1pGWHBZZXRMamZiZFdMb2xFSUt0dzkwMlRCdVIwWUk1S1ZTLWhOMUtHaGRISUU1anVRdV9IMWVjRl9mT0x2dGJCbDZwc0NEcER5Ti1GdnpTeU5oaXo4X1lGZF_SAcwBQVVfeXFMT0R4OEFGWTdlZTEzdnpLVmVLQkI0QlRlVVhhdk1aRWFrQjZxU0NGNGxHSVFybU80c1B3dTVuTXk5SHA3TVpScTRtVE03NnNNTDdES25XdE5wdTNvUTZkTnc0VGp0SnRGbGZzM09pUGdfd1RGVEJHZ3BjbVlYMmstd1F4VHFUeWlhNVFNZ1FlRlZvZl9STUk0YW4tSkhpZndMV1NaOE5mTUVUcVE1V1VhdGk0MnZqLXVXd2pxLWJzTjROSU8xRnR6Yk1NRUt0",
-      "date": "2026-10-17T20:27:47.008260+00:00"
-    },
-    {
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "date": "2026-10-17T20:27:47.008260+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakVVMlhCbUU4dTdQUEU0SnN2Q2p3UV85WEltelhrU0ZvTWRISFdSTlBsbVdJcThWU1ZpYUtJUDMxNzJlQ0N1cE9CMDlFc3NXb19QcGdkc0t6d3FkdXJKc25UU0ZPOXlvbldjYWh6Xy05ZmYwVmJzb2syckFXRjhvaDNBX0ZFU2hoTXA2QjdLZjNjOUFxMjBJWHhqY3NULS1RVmlQTTZOdGs2bDl5NDVpVXV4eGY0OC1TN1ZOakJLOHQyQnc?oc=5",
       "date": "2026-10-18T20:28:40.304101+00:00"
@@ -276,6 +260,26 @@
     {
       "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
       "date": "2026-10-30T22:12:11.526218+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWxtSWxQWFFKLVc1dUZCdGtGOElTdFlWeTJZV0FWZ0MzbXBzbkpNSzNmclhleVlWblpHeElhSHhNMDZtcHlKWjBZTVFEQk9MRDJlcWZDWFZQYzlUZDdGcVBDTVk0RndNdC1iVG9taW9vY0FCdTF6WWVzSjdhQVp1Yk1jUkQ4QU9jZjdCTlRCZmZmZTBranBrSzh0cDcydmVWVmpYQ21SOXFyYUkyTUZFU0VVZzdXUnY0S2Q0bzE5ZU1XcGRxVUh2bDdyNHM2RGV3MUlJUVVBS3g1S28",
+      "date": "2026-10-31T21:22:41.715515+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VVFM4eGVQZlBLYlpmUjJ0emxpN1JJUUo3WERyTU5rckQ2SXY5eGxmWFJoeFRhd2FyWG82QlhqaUFzRW9QblVtZTNkQ3c3WVNxcGo3cjNCOWtWRHpHRHJxQXFsNFZjNjl2MTJFb1czVEJ6aThZdEE",
+      "date": "2026-10-31T21:22:41.715515+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.37720",
+      "date": "2026-10-31T21:22:41.715515+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.37932",
+      "date": "2026-10-31T21:22:41.715515+00:00"
+    },
+    {
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "date": "2026-10-31T21:22:41.715515+00:00"
     }
   ],
   "word_history": [
@@ -375,6 +379,7 @@
     "Context Compression（コンテキスト圧縮）",
     "Agent Handoff（エージェント・ハンドオフ）",
     "Frontier Model Misalignment Detection（境界領域モデル誤配置検出）",
-    "Fair Use（フェアユース）"
+    "Fair Use（フェアユース）",
+    "Feed-Forward Network (FFN / フィードフォワードネットワーク)"
   ]
 }
