@@ -1,26 +1,6 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakVVMlhCbUU4dTdQUEU0SnN2Q2p3UV85WEltelhrU0ZvTWRISFdSTlBsbVdJcThWU1ZpYUtJUDMxNzJlQ0N1cE9CMDlFc3NXb19QcGdkc0t6d3FkdXJKc25UU0ZPOXlvbldjYWh6Xy05ZmYwVmJzb2syckFXRjhvaDNBX0ZFU2hoTXA2QjdLZjNjOUFxMjBJWHhqY3NULS1RVmlQTTZOdGs2bDl5NDVpVXV4eGY0OC1TN1ZOakJLOHQyQnc?oc=5",
-      "date": "2026-10-18T20:28:40.304101+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFJSQnFUblpoMzFFcmczVjFZSlFxVW1lV3gzRDFrRlZYOGRLekdrMnpVZU00UDBXQmxiZm9UbVJuanN2WFVzdXFRZmFnYzFGdVJDN29VZElBMGRkNURrZjJCd3VMZ29SS0V6WUJIUVVmU2dFTkEyMWJlaGQ5T2NRYWNoQmI5ZkF0VVVsbFlwX1gtS281andydksyTXhuZ2JBOWxkM1drSWoydzljcXNGZTFn?oc=5",
-      "date": "2026-10-18T20:28:40.304101+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lTHJKU2VzRXE5b2lOQjE2Yk14MmI5Z2RqU3UzZVFhSndwYWVvOWpkaGNDUmVBR3o3UXRJYWNGOE9qSUwtcGRfNU5QMWdPM2tEa29HR0F5M0UwVUxpWEZpRVVDRnNvN29DY012T0x0dl9sLTE1Wmc?oc=5",
-      "date": "2026-10-18T20:28:40.304101+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wZ0Z2NUZSUkhtei1yMEVEZ3J3TWxtTThRNk1kaUFnR240X2c5Q0JuZWlraTMyMm56V2NyaUE4YkRqOWM1NFQtb1dORlJhUXJXRUxXT3RsdU8tSDEyY3BTenNWTktMZmhySDJDTS02elhqYm12ZWQ5ZWhR?oc=5",
-      "date": "2026-10-18T20:28:40.304101+00:00"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "date": "2026-10-18T20:28:40.304101+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEpndkVhZ2dRdTE4ZFRvbWo5MVRaNm01Ym5UejE2a3pScWZSbG1jRmpZVnBYVHlTTjQ5OWVyTEt4a200VnVsZ1FaVmVWTTRpbkhMbmxUaUxrRTRfLXB5TXdKdTctbzJsSkU5ZDZ1NkpDWkZSaUJnNkFoQl9pNU11dHppVHA5WVVUdFRnM19YNnVtWDZJZ3d1eUpfMjJUamR3Nm9XQXplR3BZbzhCOEQtRA",
       "date": "2026-10-19T22:15:53.158611+00:00"
@@ -280,6 +260,22 @@
     {
       "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
       "date": "2026-10-31T21:22:41.715515+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFU5NlZJMVBaQ0txUnotazkwaWdmQzJwb3JvWUY4dTFHd2VERGZtdVJiMmxaTG9vR0pjZjFLOXZoZVRfRlFFZzM3dV81VVM3RDZLckQxZ01nc2ZFWGVvQlVoalk3X21iWDdBa29WcWNvblY1YVpGc3hPbDJCVVA3a2d2YVJDbFlZRUdkZ0NXTHplVTlEUGJ6RVBXTXZ1bWQ5eVRNNtIBpAFBVV95cUxQY3o3SXYteGFPRF9kQ3psaFZaTDJHMzhibnhoVE5LdjhGVUxkN2VBNnVuNHd2XzhodEpYLTRyMzhRcXNpWjY4SjBhMmdzek1oN0ZGRnh6RU5aWm12QUxYdDVvaktJUUU2UE1QVVdXUzhvdHFPZ0FrOHpOODJNQUlHYm5DSlI3aW8wS0dpMHFDWTNfNGpQeS0wYnU1TkIxbmtxVGRfSw?oc=5",
+      "date": "2026-11-01T21:56:55.088000+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2hBcDMwSnF1RzlhRDhLUFBpcDktOXY2cnFLbFdrWFFvVDBSdUdHQlAtRU00czB2SUwxdUoycUFqWlVXSnVsVlVKY2lIMmxTYXd3OXdORjFhckh1VkMzWlN3WEVYQkJveDZ3NlNOTVVtcFh5NUVMUjFCbG5Hc2FOdmVrNldCNExFT2dpOGZSRlU0TFU?oc=5",
+      "date": "2026-11-01T21:56:55.088000+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTEFtb2NlWFgyM0RlRnpwODA2X05BYnhYOURaQ2xiOHg1YnlraFBoeDBVMFFfR0xLU25CRUN4YUFHV0RnYXVwNWFqalNZWnAtakFBX3hBZmtNcW4zNHVGdWQ5eFhhUWc2LWxqYW9EMEhveGpCUG52YUFtUURMenFMRFVYVWhFRzBLOThvNm5xdkxXbV9PcTBKV2NqYkdRajA1MmFjamxNZ0FGcWtT?oc=5",
+      "date": "2026-11-01T21:56:55.088000+00:00"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "date": "2026-11-01T21:56:55.088000+00:00"
     }
   ],
   "word_history": [
@@ -380,6 +376,7 @@
     "Agent Handoff（エージェント・ハンドオフ）",
     "Frontier Model Misalignment Detection（境界領域モデル誤配置検出）",
     "Fair Use（フェアユース）",
-    "Feed-Forward Network (FFN / フィードフォワードネットワーク)"
+    "Feed-Forward Network (FFN / フィードフォワードネットワーク)",
+    "Instruction Tuning（指示チューニング）"
   ]
 }
