@@ -1,26 +1,6 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEpndkVhZ2dRdTE4ZFRvbWo5MVRaNm01Ym5UejE2a3pScWZSbG1jRmpZVnBYVHlTTjQ5OWVyTEt4a200VnVsZ1FaVmVWTTRpbkhMbmxUaUxrRTRfLXB5TXdKdTctbzJsSkU5ZDZ1NkpDWkZSaUJnNkFoQl9pNU11dHppVHA5WVVUdFRnM19YNnVtWDZJZ3d1eUpfMjJUamR3Nm9XQXplR3BZbzhCOEQtRA",
-      "date": "2026-10-19T22:15:53.158611+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaU2g5bkdabnhAakcxYlh2MTVPYWpGYnlhYzlJNjdad3FSdVZoVFFtVE8zbGFOVUh2WkVnZTNoeXF5T25ULWhSQzc4b0l3bUg2RmtXLTdXUmVqaVdnMUhpSDk3TEltTzVLc0RxRHNSTmhzZmp0YVHSAXZBVV95cUxQWlNoOW5HWm54QWpHMWJYdjE1T2FqRmJ5YWM5STY3WndxUnVWaFRRbVRPM2xhTlVIdlpFZ2UzaHlxeU9uVC1oUkM3OG9Jd21INkZrVy03V1JlamlXZzFIaUg5N0xJbU81S3NEcURzUk5oc2ZqdGFR",
-      "date": "2026-10-19T22:15:53.158611+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.22428",
-      "date": "2026-10-19T22:15:53.158611+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.22507",
-      "date": "2026-10-19T22:15:53.158611+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.22511",
-      "date": "2026-10-19T22:15:53.158611+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BMm5ISmplcUtod2txVlV0ajlNUHFPanpRa09GWnBMdjdOaUFCSTZOUXk2SnVNclplakZrckJWZDZTYU96Z3pKTVZieUZiVXkwM3Fza0FibjVLaGhBR2dNMUVwNW1yTllMZlI5R1N6ek1MZXI5OXfSAXtBVV95cUxOMTd2ZFNDSGNCclhSb3lSYl9MdnVtZ3BiYlp6VFQyZUpNR25oNFlsYnRnMThxWmJTZ2tWd3BGWV9PWGFSdHMzMFotTmNpbUFuQzZLaVdkOTJtSmxHeEpLdFcyU013c1dUMktXNWt4blRDZFYzeEk2VkF6WVU",
       "date": "2026-10-20T21:30:11.155561+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
       "date": "2026-11-01T21:56:55.088000+00:00"
+    },
+    {
+      "url": "https://openai.com/index/lifeval",
+      "date": "2026-11-03T00:52:02.283544+00:00"
+    },
+    {
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "date": "2026-11-03T00:52:02.283544+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDJicHpmUFp0QkVIcWJGSk14ekpmQkxFU0Fxd2l6MndNc2tSU1lROHo0dHQwUk1YcjJmUUU4R2g5NXM1WTlnaXpUZ1FTQXAtbXFLT1ZnVmJwRklLRUFacmNKTUVIb0Z6eWd2RUVMVVc3ZTVYcXhtTmlhdjE0WkVHT1VvOXlrTmdXaVpoRGVodm1raG5iamlXbnhncDJlRmpRRTU1ZGZ5TFNFQQ",
+      "date": "2026-11-03T00:52:02.283544+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.40893",
+      "date": "2026-11-03T00:52:02.283544+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.41147",
+      "date": "2026-11-03T00:52:02.283544+00:00"
     }
   ],
   "word_history": [
@@ -377,6 +377,7 @@
     "Frontier Model Misalignment Detection（境界領域モデル誤配置検出）",
     "Fair Use（フェアユース）",
     "Feed-Forward Network (FFN / フィードフォワードネットワーク)",
-    "Instruction Tuning（指示チューニング）"
+    "Instruction Tuning（指示チューニング）",
+    "Benchmark Contamination（ベンチマーク汚染）"
   ]
 }
