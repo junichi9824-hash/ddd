@@ -1,26 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWRWVTdKcHNNZVpFRmJSNFZKVHdSQVpxbTNGT1AxLWJ4T1htaWlubWo0MTVBSXdxcGJIOVozQjhKNUI3TW11MFlYZnRvcmhLNEJWN0t4M190dFgyQV9BY0hFTmU4eXNnYzNJbXpycEVzOUNuRVY4T1BnYThPRWpJV0dYYUJ1RHVsUURPOTB0a0dtM0dnWTk0cURhMHNQYzdSdDNoblpHc3pzVWJ2ZnM2T3JJNDI3YzdwQ283MjZwM0Q",
-      "date": "2026-10-21T21:32:05.823397+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVllBWEktMzdicFV0SnpNQTVyZUJMSEo5cUoxOXF3Y3FObUFkblhKN0lKMnhlLVE0Sm5kYlkzejQ1cmpPWnFMZFJObnlVVHJCRThlYTZ4UUxPOWVnLWNXQjMxM21GdEFYdnVKZUJfWG5XZTJtNFVwOFo5alJqZWd0eDREcGU",
-      "date": "2026-10-21T21:32:05.823397+00:00"
-    },
-    {
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "date": "2026-10-21T21:32:05.823397+00:00"
-    },
-    {
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "date": "2026-10-21T21:32:05.823397+00:00"
-    },
-    {
-      "url": "https://claude.com/product/claude-duet",
-      "date": "2026-10-21T21:32:05.823397+00:00"
-    },
     {
       "url": "https://openai.com/index/decisions-api",
       "date": "2026-10-22T21:27:09.148821+00:00"
@@ -276,6 +256,22 @@
     {
       "url": "https://arxiv.org/abs/2610.41291",
       "date": "2026-11-03T23:10:41.315407+00:00"
+    },
+    {
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "date": "2026-11-04T23:32:21.532412+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWRQWmRtMFZFaDVDWGpNYXg2WV9pcVlKcVItSXlrS0twTU55X3VPZU1NSFFOUGhQUmlMcXg5dkVIemtCMFYydFdxc2lDOTQzUFZYNjhZOEpBTHlzdmt2V0JRRXlqRG9DZ0xnSFI3Y0stYnNyRFZpNzg5ekh6czVoVW5vUk40WEE5ZVA1ZVNseXplX3Z3b2hGTUFiN1RvS3Vk",
+      "date": "2026-11-04T23:32:21.532412+00:00"
+    },
+    {
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "date": "2026-11-04T23:32:21.532412+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE03X2dYVkt1SUJiSmZuU2VRekhXalgtZVBfcVdwdFc3M3VEYjUtVWxNamhQSjRFeFVVSXhsam1jMVdCajBORlZjUVJpQ0F2SXhzVmZsUWdBNGFSamsyVjZCcklzazh1aTd2TFU5VVJlVk9NeTE3SWh0cEZia2h6NWsyMWRCWENXVnRHU0VQdjNqeWpxRmdtMzFCMnJlM3h4ZFlHWVlBSQ",
+      "date": "2026-11-04T23:32:21.532412+00:00"
     }
   ],
   "word_history": [
@@ -379,6 +375,7 @@
     "Feed-Forward Network (FFN / フィードフォワードネットワーク)",
     "Instruction Tuning（指示チューニング）",
     "Benchmark Contamination（ベンチマーク汚染）",
-    "Soft Tokens（ソフトトークン）"
+    "Soft Tokens（ソフトトークン）",
+    "Tool Use / ツール利用"
   ]
 }
