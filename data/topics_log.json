@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/decisions-api",
-      "date": "2026-10-22T21:27:09.148821+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzhYbG1qV2ROdTlieFE1UEk0Yml3Y1ZnbnIxalpmazR3ZW9vTjF3YUJ3MzBCcDl0SVZRQm5lZkxVQ1h3cGRvTkVnWHNDcE95ZXF4VmZmdFY1STlkR0d3SmlJTjFPOHgyQVpBZFdEdjZTQ2w0dVVsakdvb0ZsNVVFNTUyeEZpQQ",
-      "date": "2026-10-22T21:27:09.148821+00:00"
-    },
-    {
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "date": "2026-10-22T21:27:09.148821+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92aG9NVDJ3NTRDRERmQWM1LVJyR1hyMXl4VkE1NWpJS2twTTZjZFFlNTVNT3J6OHJhaEJtSkNtT1hIdTBDUk93TVZSUFZmNHhKM1BnN2tDd29oQmxrYkE",
-      "date": "2026-10-22T21:27:09.148821+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "date": "2026-10-22T21:27:09.148821+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOWFlMmFWTWZLYV9UNVVwQ2dXRXFWQUxROU9KX1YzQnRzQWpGQ2dhSF9pNGh5SFNlcGxEeFo3VC1paU1fVGRrRWJ3SjBhSjRTUTJQdHhpOVVocVNnYl9KRlBhUmp3dHZjV0J6OHNnRE9jZnA1anlkdnZvNWVmRkRhZVQ4UGNsS2dwSlpHVUowQW8",
       "date": "2026-10-23T21:18:25.403886+00:00"
@@ -272,6 +252,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE03X2dYVkt1SUJiSmZuU2VRekhXalgtZVBfcVdwdFc3M3VEYjUtVWxNamhQSjRFeFVVSXhsam1jMVdCajBORlZjUVJpQ0F2SXhzVmZsUWdBNGFSamsyVjZCcklzazh1aTd2TFU5VVJlVk9NeTE3SWh0cEZia2h6NWsyMWRCWENXVnRHU0VQdjNqeWpxRmdtMzFCMnJlM3h4ZFlHWVlBSQ",
       "date": "2026-11-04T23:32:21.532412+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "date": "2026-11-05T23:31:58.256465+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "date": "2026-11-05T23:31:58.256465+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aWotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVHSAYQBQVVfeXFMTXVzSHktMk1IYWR5bm41MWpEQmRpZkkwbS1LSVNZZm02Q05uZE56ekhLZjBKV0RLWlVhdVoteHFra2hPOFdMNXEweDc4eUhvWTlqQWxwcXpMdURoMzVmUnBaMFRBc0RtTG1FQXhSekFZeDhSM25Yc3o2THdGckl0cEtLSG9q",
+      "date": "2026-11-05T23:31:58.256465+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.06062",
+      "date": "2026-11-05T23:31:58.256465+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+      "date": "2026-11-05T23:31:58.256465+00:00"
     }
   ],
   "word_history": [
@@ -376,6 +376,7 @@
     "Instruction Tuning（指示チューニング）",
     "Benchmark Contamination（ベンチマーク汚染）",
     "Soft Tokens（ソフトトークン）",
-    "Tool Use / ツール利用"
+    "Tool Use / ツール利用",
+    "Specification Gaming（仕様ゲーミング）"
   ]
 }
