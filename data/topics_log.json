@@ -1,26 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOWFlMmFWTWZLYV9UNVVwQ2dXRXFWQUxROU9KX1YzQnRzQWpGQ2dhSF9pNGh5SFNlcGxEeFo3VC1paU1fVGRrRWJ3SjBhSjRTUTJQdHhpOVVocVNnYl9KRlBhUmp3dHZjV0J6OHNnRE9jZnA1anlkdnZvNWVmRkRhZVQ4UGNsS2dwSlpHVUowQW8",
-      "date": "2026-10-23T21:18:25.403886+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOFN1cHdaUnJDNkY2Z2RXWnRtclFWcWZDTXdrZWQyMjVnWHIxM2hPX2hNQnVEbEhMMUNGOUxfdElKMXZpTXpXTzZBaDg3R0NHbUpKbmpidVJlUjhOSGdWc2FuQjBTU0JxcHZYVDhqMC1DSjZ6R2ljemVJV1FnMHFtSGJtRW9VMUdid2tubGlnSUdXUEo1VWZtRGd4WQ",
-      "date": "2026-10-23T21:18:25.403886+00:00"
-    },
-    {
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "date": "2026-10-23T21:18:25.403886+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.30162",
-      "date": "2026-10-23T21:18:25.403886+00:00"
-    },
-    {
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "date": "2026-10-23T21:18:25.403886+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS281X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5",
       "date": "2026-10-24T20:36:44.476003+00:00"
@@ -272,6 +252,26 @@
     {
       "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
       "date": "2026-11-05T23:31:58.256465+00:00"
+    },
+    {
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "date": "2026-11-06T22:58:49.807385+00:00"
+    },
+    {
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "date": "2026-11-06T22:58:49.807385+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNazMxSWVtZVBLd3E5MTdKTmFVblp2Uk1Jb09HeW9WeURBS3B1c241VWJ1UC12b3lvX1VLTG1lOWxCWlo3bC1aejBiejFzUmZxU3FkUW1NNVJlektIeHVSWE5ZbnprMVBudTVMbVpReFo2cjJWelhPTGVmejJDOUxnc0RVa2d0dDdWeW1uNFVnRG1iLXJsRjlLYThmVEJ3TGdxQWZ6SXVleTZmYmNyQXV4Y0RZRHVwMl8ya2pFMg",
+      "date": "2026-11-06T22:58:49.807385+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.06969",
+      "date": "2026-11-06T22:58:49.807385+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07238",
+      "date": "2026-11-06T22:58:49.807385+00:00"
     }
   ],
   "word_history": [
@@ -377,6 +377,7 @@
     "Benchmark Contamination（ベンチマーク汚染）",
     "Soft Tokens（ソフトトークン）",
     "Tool Use / ツール利用",
-    "Specification Gaming（仕様ゲーミング）"
+    "Specification Gaming（仕様ゲーミング）",
+    "Speculative Decoding（推測的デコーディング）"
   ]
 }
