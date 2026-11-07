@@ -1,26 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS281X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5",
-      "date": "2026-10-24T20:36:44.476003+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNE0yTnZ3bmZweG5GVGx6eGV2bTBOR0x6ZEp5TThmR3prQWlhRzdPaWc2Z1FJWEJmc2J6Y1M0SVBsS2VtMHhWS29sNXI0U1R3XzV3YV8tWTh3OEIzNkpJaW1FVkFEcHEwdWtWVzYzVzg4S2lpdFdpWDM2Rm9KS1ZTN2FTclFkcENXeEJZV25hRnM1QUFnNWdvY1VCYkFpeTFSeUJBekwzemNKVjhm?oc=5",
-      "date": "2026-10-24T20:36:44.476003+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OR0ZCaUJpcC1kV3dNWHJjSG00Q2toN2V2R1pFaW1hLUk5WExMSlBhNWcxd3c0eXJkZy00bjdCWWlVV2h2MWlEYnFnc1I1OUlzc1NiWTQ4QWtLMDU3Tnc?oc=5",
-      "date": "2026-10-24T20:36:44.476003+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNDFZQV9uak12T2p6WHhjX1ppTFBGM18wR0Nqc3FEQUVVbTdQQjZpVjdJM1FNMTNLWTFjOF9mSDlmd2d6bEpmQ3ZIdFQxX0FzY21rYkVzUUVXcWs3UHZtR2l1V2x1OUQzSGpmYnlKM2lSRTltX3UtWlZPQ2JhaTZPeDhydkhVUHRBSEt0QWo0TmlhSElRaXM4TVlRN2Y0YVp5RDBidHI0TXJ2RGwteVBCVkhSV09sOHlvUThkNXdQTzZrNGVWbF9UWUNDSlBSbDBIdTVubVllZ2piVVZfX0VhX05ZREtjaGV4QmJOZHlvcVhYb21IR05mMDBfcko0dVhHTW1WSUd0RlNSX1pmbXdRY1hB?oc=5",
-      "date": "2026-10-24T20:36:44.476003+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYzNYN0pqU0lKb3VsQzdaYnNoS2ZzSU52UnNUTHhfdThEVXo2X0pfWXB2WkhnajBuQXVySHhWUjJZOHFFN1c0NlN1b0lmNjlzR3dFRWpJSU9mLUtjMWxBRktpOGJ0dG1WTEd1ZEtZWGswVmRUZVRpd0RBeHpyZ09xTkw0d01fTnd2MHpNcFhoTzdMWmlCUllxS0M1dHJsbG94dXB2am1HTVl4c0YwUFBYeDNYc1FWMWowbXFXcXM3VVJneGM?oc=5",
-      "date": "2026-10-24T20:36:44.476003+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZG9RWEx0RjF1YWhreWp3UnhFeWNLcGR0SHplMDJhVDdLN2dNYlJibWZpeUhLbi1NR0ppVnFOQUtKNkpvdGh0ZVprWGphaEt3WERDVkdVeWI3V0RkMEtXWVNFOWxNaTVLQVZkd04wWW00SXhVbm1DOGJIcUl1a0tmUWZ2TjI?oc=5",
       "date": "2026-10-25T20:43:24.376333+00:00"
@@ -272,6 +252,26 @@
     {
       "url": "https://arxiv.org/abs/2611.07238",
       "date": "2026-11-06T22:58:49.807385+00:00"
+    },
+    {
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "date": "2026-11-07T21:42:42.148691+00:00"
+    },
+    {
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "date": "2026-11-07T21:42:42.148691+00:00"
+    },
+    {
+      "url": "https://hunch.net/?p=13764006",
+      "date": "2026-11-07T21:42:42.148691+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYzBUaDlpMDloc1l1dm9wbnlIYUNHajc3QmRQX2Q0WTVvSk5pR2xpQlFULThPRHFQMDRVV3pDZFJsMzR4N0ZJeWl3Z3lEUTRBaV9EMUNFYi1NbzRRMGo3QlhxMk5qT1lmUTcyRVZBczJwNGtUNWNvZkVHcVoxRnJoUFBiSE9XUjUxTVhiR0NB",
+      "date": "2026-11-07T21:42:42.148691+00:00"
+    },
+    {
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "date": "2026-11-07T21:42:42.148691+00:00"
     }
   ],
   "word_history": [
@@ -378,6 +378,7 @@
     "Soft Tokens（ソフトトークン）",
     "Tool Use / ツール利用",
     "Specification Gaming（仕様ゲーミング）",
-    "Speculative Decoding（推測的デコーディング）"
+    "Speculative Decoding（推測的デコーディング）",
+    "Perplexity（パープレキシティ）"
   ]
 }
