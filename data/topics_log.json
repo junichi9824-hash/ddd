@@ -1,26 +1,6 @@
 {
-  "category_index": 1,
+  "category_index": 2,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZG9RWEx0RjF1YWhreWp3UnhFeWNLcGR0SHplMDJhVDdLN2dNYlJibWZpeUhLbi1NR0ppVnFOQUtKNkpvdGh0ZVprWGphaEt3WERDVkdVeWI3V0RkMEtXWVNFOWxNaTVLQVZkd04wWW00SXhVbm1DOGJIcUl1a0tmUWZ2TjI?oc=5",
-      "date": "2026-10-25T20:43:24.376333+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUpIRi1oRmV0Q2lLRUZGdU9ab2ZyUGhZVTVDVDh2VnVSOG5nZVFBQ3gxd3VUeUs5QUw0emMtRVJpWHVtV2MxNzUwc0dVSF8tRWluWTFqcjhiY2J5RzNCMHdwV3A3R0JtVlNsVmtvRUtUX29SZ29CQTU1dV9ZYWVmT1AtdnpYOFZSSHc?oc=5",
-      "date": "2026-10-25T20:43:24.376333+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLUdpbDBBRXdFUEdoY1JoeDZFX3BhTGRkLVdMNTl2LWZTUkpweE9lR29yaDlIRmVNcDBsd2pJYkd6WXF1dTFoWVAtNk1LcmwteHdMYUNNeDUwWVJPenNIdllpNmd1X0ZBZm14OGhBUWd2LVhCS0RralZ4d09HSGRqR2UzRmNuQXg0MHRETDg5dVdDa0tjSWNqSjZlOWVGTnd4TTE2ZkE2c2lSMlYwMHBnelltZVZVS1JwMHRtZ0NGRFZVRTAtMEdyS2kwV2lBWHpD?oc=5",
-      "date": "2026-10-25T20:43:24.376333+00:00"
-    },
-    {
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "date": "2026-10-25T20:43:24.376333+00:00"
-    },
-    {
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "date": "2026-10-25T20:43:24.376333+00:00"
-    },
     {
       "url": "https://www.anthropic.com/news/s1-sec",
       "date": "2026-10-26T22:34:45.475101+00:00"
@@ -272,6 +252,26 @@
     {
       "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
       "date": "2026-11-07T21:42:42.148691+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXBLN3Nwd181RFJQQzBkdGo0TUFhbGZpQ1Zxb0dPWXBORHdzeG5US1ZIOGtGUTFfc2ZSVktjMktVMmtSOUZ0SkVkZ2s4cEJWWWgyQVpSRDVGTUlqWnJ6bjdybkhHaTM5czBaZXpvelNlNTZ4WUd4Y0trdk1RQlpxZXd1MFRMb0dSclE3SXpPU2RFWG9JTFlhOVcyVzVJNjFHaUpsUFNZTC10blFqVWc?oc=5",
+      "date": "2026-11-08T21:56:26.669080+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4ybFZXOW5selpiOWJrMWFnaUdJcnc2emYtT0IyazdHSjFwWlFMMkZQRFFqTGdkUVA5UkRXZnpGZzhELW5zUzVmRkZlWHZQNkdHR2dPUGdfLVBveTA?oc=5",
+      "date": "2026-11-08T21:56:26.669080+00:00"
+    },
+    {
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "date": "2026-11-08T21:56:26.669080+00:00"
+    },
+    {
+      "url": "https://github.com/synchopate/llama-modchip",
+      "date": "2026-11-08T21:56:26.669080+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRHY0WlN1ajFiYUVkNEtCSXQ4YTNCSTlONVBxQ3BsN1lRNjVNdTlRR3BhNW1obHphMWhaUUI5dDVRNmpZRXJDOVUybDdYeGJ0RlhNVEZYcGg2M0Jlcl8tX2twUExCSHplYjllV09JMGZpTmpoUDVnRm0xb0htbUlUNmRuRHRaN01HMEJRc1YzM2x2cnM1aUY1c1NBemtDcnJCWVY0SDQ1eFhLQ1N6MDFYbXIyTXF0MWVHNVBIYUZxU1Bsd2QxMGVBdXdvZU1pd2s?oc=5",
+      "date": "2026-11-08T21:56:26.669080+00:00"
     }
   ],
   "word_history": [
@@ -379,6 +379,7 @@
     "Tool Use / ツール利用",
     "Specification Gaming（仕様ゲーミング）",
     "Speculative Decoding（推測的デコーディング）",
-    "Perplexity（パープレキシティ）"
+    "Perplexity（パープレキシティ）",
+    "LoRA（Low-Rank Adaptation / ロー・ランク適応）"
   ]
 }
