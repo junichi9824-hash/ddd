@@ -1,26 +1,6 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
-    {
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "date": "2026-10-26T22:34:45.475101+00:00"
-    },
-    {
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "date": "2026-10-26T22:34:45.475101+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlAyelVpdFVyZlc4LWphYUdoRDNySEhBZmp1U2ZtNzlUZlJQVVRDdHFOUXZNV2N1Q0czMGhoSlNodHNCLXRkZkFZZGRwc2tSTTN5NkZLbGdxclQ4aTZvbWNuTllVWnV6ZVpCQmVjN0FOQ2hpaUI4LUNOcTlQQ3hzSVFJcllVcEtYVm5GN0tUWXI3R2xWT1V1UHdWc0phZGFjeWhCcmZnRUFydmJ1NHdvWHFWbWpQbkI2OVo3TU5HOXRFTnhMWmFlQmtHX202WURvX2c",
-      "date": "2026-10-26T22:34:45.475101+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TUnBPRTdOemk1Y2FlR2ZZRGI3VkdnTGRfSjRSbjdvRXJrYTF1SkxuX1FUR29sWkJRN1BjMGkwZmNGRFY2b0VUZFBJTGxzTjlPczV4RHlvX3o4SkcwNDQydFpPUkVreHdqRXZxRVkzVmZNUE5SOHRWQWxB",
-      "date": "2026-10-26T22:34:45.475101+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.31945",
-      "date": "2026-10-26T22:34:45.475101+00:00"
-    },
     {
       "url": "https://openai.com/index/oracle-apps-in-chatgpt",
       "date": "2026-10-27T22:05:34.714072+00:00"
@@ -272,6 +252,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRHY0WlN1ajFiYUVkNEtCSXQ4YTNCSTlONVBxQ3BsN1lRNjVNdTlRR3BhNW1obHphMWhaUUI5dDVRNmpZRXJDOVUybDdYeGJ0RlhNVEZYcGg2M0Jlcl8tX2twUExCSHplYjllV09JMGZpTmpoUDVnRm0xb0htbUlUNmRuRHRaN01HMEJRc1YzM2x2cnM1aUY1c1NBemtDcnJCWVY0SDQ1eFhLQ1N6MDFYbXIyTXF0MWVHNVBIYUZxU1Bsd2QxMGVBdXdvZU1pd2s?oc=5",
       "date": "2026-11-08T21:56:26.669080+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUTEtcEF6VDk0ajZWRmwyWVRkWkRoTkpZeDFmZVQzVEdvZ3dCT2pSYzRSaGJuYWhrME9zSDNxNzA1SlJzVTRjbUwtY2UyTmJWWFhKNnJnSWJQRlRoRGJ5ZnpSMExuS0ZZWWxHbHU0NmRFaC04ZFNlWFQ0ZWhBeUlGcktiUTdvNXpDQ0JTVkVVUkFqblZmYXY3c1U5T0twSXRiTGdvbG5hRmVqNVpraFNqX2RBTDYtcm1iZmIzeHhZMXhETkdRNGlZWjVYV1Z4dE5LT0h2MUxKeGlfcFNTM2RTUWJnWFQtVl9rbGpjdWFvVTQ",
+      "date": "2026-11-10T01:26:05.573483+00:00"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "date": "2026-11-10T01:26:05.573483+00:00"
+    },
+    {
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "date": "2026-11-10T01:26:05.573483+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.08639",
+      "date": "2026-11-10T01:26:05.573483+00:00"
+    },
+    {
+      "url": "https://openai.com/index/control-room",
+      "date": "2026-11-10T01:26:05.573483+00:00"
     }
   ],
   "word_history": [
@@ -380,6 +380,7 @@
     "Specification Gaming（仕様ゲーミング）",
     "Speculative Decoding（推測的デコーディング）",
     "Perplexity（パープレキシティ）",
-    "LoRA（Low-Rank Adaptation / ロー・ランク適応）"
+    "LoRA（Low-Rank Adaptation / ロー・ランク適応）",
+    "Calibration（キャリブレーション）"
   ]
 }
