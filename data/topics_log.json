@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/updated-model-spec",
-      "date": "2026-10-29T22:40:44.908896+00:00"
-    },
-    {
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "date": "2026-10-29T22:40:44.908896+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1AtYlMxWEZUSDhweUUydXZtVTZPaXRHTkdzREh1aVJycUIwdTZubDlnRmdyUVpycEhoSHVkelZjV0RqV3puWWxKQ3BicU04V2s5V0NYZ0ZXVEhoOVoyWXlKSkRoYUxzTGNTUE0tSVJtV0ZQamVBTG5vdktDZ01qNHVPa0JYMlE5ckp4N2czS01NVTR2S0M1MVphUXBWcWp3T2NwSmhpdnBCUQ",
-      "date": "2026-10-29T22:40:44.908896+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Ibo1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx",
-      "date": "2026-10-29T22:40:44.908896+00:00"
-    },
-    {
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "date": "2026-10-29T22:40:44.908896+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YcDRZY21kbGtpM0JPNy1WcU5MVFh1NUEzakZWd2tyYjA0MS1JUGVGSkNPR2F2YTJFSHNFUUF0bEhPREVYR3lVVmRuS0NFTDdHYWw5eHBBVnh1bzNQRjA4UTNoQXc4clo0ZF82aGM1Mnd2eGdu",
       "date": "2026-10-30T22:12:11.526218+00:00"
@@ -272,6 +252,26 @@
     {
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "date": "2026-11-12T00:29:12.373835+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "date": "2026-11-12T23:28:18.529883+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-4",
+      "date": "2026-11-12T23:28:18.529883+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "date": "2026-11-12T23:28:18.529883+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFlZOXcpSG5YQXoQN",
+      "date": "2026-11-12T23:28:18.529883+00:00"
+    },
+    {
+      "url": "https://openai.com/index/amplitude",
+      "date": "2026-11-12T23:28:18.529883+00:00"
     }
   ],
   "word_history": [
@@ -383,6 +383,7 @@
     "LoRA（Low-Rank Adaptation / ロー・ランク適応）",
     "Calibration（キャリブレーション）",
     "Token Batching（トークンバッチング）",
-    "Tool Calling（ツール呼び出し）"
+    "Tool Calling（ツール呼び出し）",
+    "Adversarial Robustness（敵対的頑健性）"
   ]
 }
