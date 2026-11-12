@@ -1,26 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "date": "2026-10-28T22:28:24.582472+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "date": "2026-10-28T22:28:24.582472+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYUlNMmpzTGpPU3FOYUwzUGJnREhlSElmSGlzZU02VVJid0M5NUlla25LYW5UZjFLbm1rVnRFQnNiZWd3Mm81N3FxdmdHc3g4M1NTSFR3SE9QcWxWdGJ6QmotWDVqN0xvNFFleDhfTUlqSksyUEhEWnhfeXEzcUYxbU9idS1tc3o5TmZpQVVfMl94ams",
-      "date": "2026-10-28T22:28:24.582472+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.36523",
-      "date": "2026-10-28T22:28:24.582472+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.36187",
-      "date": "2026-10-28T22:28:24.582472+00:00"
-    },
     {
       "url": "https://openai.com/index/updated-model-spec",
       "date": "2026-10-29T22:40:44.908896+00:00"
@@ -272,6 +252,26 @@
     {
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "date": "2026-11-10T23:08:01.995706+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "date": "2026-11-12T00:29:12.373835+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORDktNDkwaVVERDJRZTNBSTFqRWFiekJyTXl3MjJadDk3LWxlemI5d1p0N3BMSlROaXhzUWpROFpLdjVQckxWcmFEYk9OUEdRbUVOeTJFUUY5eFVCaE0zbGpIZVM2SjhxY2VQWVlRak0tTklrXy1IaG5XNmkzTU4yNkdUXzdTMjVwVHE2QTJhQUpPZw?oc=5",
+      "date": "2026-11-12T00:29:12.373835+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaC1aQnhlT1QyRFRRWklxeHpRak5famVfOFpxR2xsaGw3QS1RTlJDYm9tXzQxd3hqbV85NkxnbzJ4R2s4aVltMVFxMU5ETmlaTVAzdU9aUFNqbnpuZTJGeVd3VEdUaVpfSElmbW9mNEIzNnFKYjRVekhWWkxHNkd1NjVGMTMzTTZzSEZFeWdRYU9YYTNaclVEUVQyeWZrYjhCM2NtMXB3QUg5NjAsdEVrYzM0MUdqdWp5eVk4NQ?oc=5",
+      "date": "2026-11-12T00:29:12.373835+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbk5oM3JOSDludmtlT1k0S2NjRGVoejB0dnowWmpwNXZITEVIM20ycnhVcFU5czVYNjBJZGJIZnMwTnNVS0dORnNNNjA5OWJoOU41dzgwRDkxMnNBM3F1dktZVndra3FETElQU1cwLTNmamhudFhCSnhHdUlXVmN3SndnUGVWdTZpR2llX2hvQVU?oc=5",
+      "date": "2026-11-12T00:29:12.373835+00:00"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "date": "2026-11-12T00:29:12.373835+00:00"
     }
   ],
   "word_history": [
@@ -382,6 +382,7 @@
     "Perplexity（パープレキシティ）",
     "LoRA（Low-Rank Adaptation / ロー・ランク適応）",
     "Calibration（キャリブレーション）",
-    "Token Batching（トークンバッチング）"
+    "Token Batching（トークンバッチング）",
+    "Tool Calling（ツール呼び出し）"
   ]
 }
