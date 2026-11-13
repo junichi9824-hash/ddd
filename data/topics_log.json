@@ -1,26 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YcDRZY21kbGtpM0JPNy1WcU5MVFh1NUEzakZWd2tyYjA0MS1JUGVGSkNPR2F2YTJFSHNFUUF0bEhPREVYR3lVVmRuS0NFTDdHYWw5eHBBVnh1bzNQRjA4UTNoQXc4clo0ZF82aGM1Mnd2eGdu",
-      "date": "2026-10-30T22:12:11.526218+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaHlzVEpsNmNoRVZLRExRWXpGTElBdkJ3QWRsbEFiYkZTR0JzRU1IQ2QzU0xGVnpKam1DWU1veTdMbGM2U21MMEJTY1M0bnR3dXFNWG9HUXc4cmRKOUxLRmpoY0NzMGRjdXZjM2RHeWUyTV9admpjNnNxWmdCSlQxZF9Dd2lzRlBwellKNFVqeGw4TmNvSnZSeFFXQWswVkxZQlZxRmFtU2R5MGlOSUN1UVpaeXRRcXFNRjl2SS1yelVLaE4ydHpmNE1VX0xXbEItWHFlRElBc2ZLQQ",
-      "date": "2026-10-30T22:12:11.526218+00:00"
-    },
-    {
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "date": "2026-10-30T22:12:11.526218+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNElBZndyYXBPOGNzdXZDUmNNV2VybEplZUN6LXBvWFZPS3VVWlVYWFYxT1pscTYxdVpQMWdoYjhySkNHNEQzMGYwNHlrWU5DQlB5TFJlTzg2S05DaExtS1NYSzRocENNdmVzVVJxU2lYVy1iWFhUQ3BiRlRvOUNVUUpjWDgyRDYwSEl6bmxYS0pMWnJKNjM2VjBLVlZYaXUyOXFLYWxkbXktZ2tTLXJJSHJxZkw0Nm8tTjRkMmY2cE11YjFpTl8yeGxR",
-      "date": "2026-10-30T22:12:11.526218+00:00"
-    },
-    {
-      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-      "date": "2026-10-30T22:12:11.526218+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWxtSWxQWFFKLVc1dUZCdGtGOElTdFlWeTJZV0FWZ0MzbXBzbkpNSzNmclhleVlWblpHeElhSHhNMDZtcHlKWjBZTVFEQk9MRDJlcWZDWFZQYzlUZDdGcVBDTVk0RndNdC1iVG9taW9vY0FCdTF6WWVzSjdhQVp1Yk1jUkQ4QU9jZjdCTlRCZmZmZTBranBrSzh0cDcydmVWVmpYQ21SOXFyYUkyTUZFU0VVZzdXUnY0S2Q0bzE5ZU1XcGRxVUh2bDdyNHM2RGV3MUlJUVVBS3g1S28",
       "date": "2026-10-31T21:22:41.715515+00:00"
@@ -272,6 +252,26 @@
     {
       "url": "https://openai.com/index/amplitude",
       "date": "2026-11-12T23:28:18.529883+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "date": "2026-11-13T23:27:41.054703+00:00"
+    },
+    {
+      "url": "https://www.theregister.com/2025/01/15/chinese_ai_blackwell/",
+      "date": "2026-11-13T23:27:41.054703+00:00"
+    },
+    {
+      "url": "https://www.wsj.com/articles/exclusive-chinas-moonshot-ai-restructures-to-pave-way-for-ipo",
+      "date": "2026-11-13T23:27:41.054703+00:00"
+    },
+    {
+      "url": "https://cryptobriefing.com/deepseek-opens-full-app-toolkit-developers-api/",
+      "date": "2026-11-13T23:27:41.054703+00:00"
+    },
+    {
+      "url": "https://www.biggofinance.com/news/1234567-three-way-ai-image-generation-battle",
+      "date": "2026-11-13T23:27:41.054703+00:00"
     }
   ],
   "word_history": [
@@ -384,6 +384,7 @@
     "Calibration（キャリブレーション）",
     "Token Batching（トークンバッチング）",
     "Tool Calling（ツール呼び出し）",
-    "Adversarial Robustness（敵対的頑健性）"
+    "Adversarial Robustness（敵対的頑健性）",
+    "Function Calling（ファンクション・コーリング）"
   ]
 }
