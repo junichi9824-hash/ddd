@@ -1,26 +1,6 @@
 {
-  "category_index": 3,
+  "category_index": 4,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "date": "2026-11-03T23:10:41.315407+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "date": "2026-11-03T23:10:41.315407+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.41172",
-      "date": "2026-11-03T23:10:41.315407+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52NkNkNjNrLXlxV3lCc1ZyRzg3UDF3LXhqM3pQSFowSUJESzdFbXJHWHFfU3Q4dTBVd2ZLRlRkWTdWdW94TlJaMGxEMGtEVGkweDlJc2Z0NzRNTGxNQno0YzBaOGt2eUlQRmNQd0dnTDk",
-      "date": "2026-11-03T23:10:41.315407+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.41291",
-      "date": "2026-11-03T23:10:41.315407+00:00"
-    },
     {
       "url": "https://openai.com/index/openai-to-acquire-pierre",
       "date": "2026-11-04T23:32:21.532412+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://openai.com/index/lvmh-media-division-partnership",
       "date": "2026-11-17T01:49:22.755731+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "date": "2026-11-18T00:53:07.191921+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeXlVdWtHM1RhaUpabTFVNF85X00zVWt0Mi1hRTZ6TFhKY1JDQ3BlcDcweGpEa1NRMzBkZ2JGTklxcjFOcE5LRjdGYkJlZlJMM2NxcDZwWXNFWWUwSEVkX0x1NG85R1NmRllqMWVGZkZyTG8yVzFPelJSLUY5OVJqSmlRU3lSZTdqR2JKQjV6a2FPcVpDemc",
+      "date": "2026-11-18T00:53:07.191921+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "date": "2026-11-18T00:53:07.191921+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUlZDVGtRcmIxb0c5b0llVEFVUFB2ajVnVmowTjNuMGF2WWlkUXdKdTA3TUlpNldvTzEtVUt3YUY3RUFLRDl2RHJmSk96V3hCZkRBX2QyR2dVcGlsT1UzTHRIX2E5RGJSdmh2b2EtYl9kdktqeDU2clluUFAxbzhZVFFqNWRnekY1ZUx2YXJiNklNWkctNVRsTHllMnNJdWUzbEZkSGRWNmg2d2FPNm5sN1JUbWZSNkJPaHV4WkhBQUgyVzdIRzhPNlZJeDlMbzc4RGN3aGd1VmJRXzNaTkRneGVRT1NWVWYzTzNsRlN3d29aRkJuQi1sMTFpT2NZMXM",
+      "date": "2026-11-18T00:53:07.191921+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/advancing-claude-for-financial-services",
+      "date": "2026-11-18T00:53:07.191921+00:00"
     }
   ],
   "word_history": [
@@ -392,6 +392,7 @@
     "Function Calling（ファンクション・コーリング）",
     "Speculative Decoding Variants / 推測的デコーディング系手法",
     "Supervised Fine-Tuning (SFT / 教師あり微調整)",
-    "Human Label Variation (HLV, 人間ラベル変動)"
+    "Human Label Variation (HLV, 人間ラベル変動)",
+    "Quantization（量子化）"
   ]
 }
