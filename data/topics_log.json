@@ -1,22 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "date": "2026-11-04T23:32:21.532412+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWRQWmRtMFZFaDVDWGpNYXg2WV9pcVlKcVItSXlrS0twTU55X3VPZU1NSFFOUGhQUmlMcXg5dkVIemtCMFYydFdxc2lDOTQzUFZYNjhZOEpBTHlzdmt2V0JRRXlqRG9DZ0xnSFI3Y0stYnNyRFZpNzg5ekh6czVoVW5vUk40WEE5ZVA1ZVNseXplX3Z3b2hGTUFiN1RvS3Vk",
-      "date": "2026-11-04T23:32:21.532412+00:00"
-    },
-    {
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "date": "2026-11-04T23:32:21.532412+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE03X2dYVkt1SUJiSmZuU2VRekhXalgtZVBfcVdwdFc3M3VEYjUtVWxNamhQSjRFeFVVSXhsam1jMVdCajBORlZjUVJpQ0F2SXhzVmZsUWdBNGFSamsyVjZCcklzazh1aTd2TFU5VVJlVk9NeTE3SWh0cEZia2h6NWsyMWRCWENXVnRHU0VQdjNqeWpxRmdtMzFCMnJlM3h4ZFlHWVlBSQ",
-      "date": "2026-11-04T23:32:21.532412+00:00"
-    },
     {
       "url": "https://openai.com/index/introducing-gpt-6-cyber",
       "date": "2026-11-05T23:31:58.256465+00:00"
@@ -276,6 +260,26 @@
     {
       "url": "https://www.anthropic.com/news/advancing-claude-for-financial-services",
       "date": "2026-11-18T00:53:07.191921+00:00"
+    },
+    {
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "date": "2026-11-19T00:11:29.248264+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "date": "2026-11-19T00:11:29.248264+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PT2NxZXBuM1dyOENLX2NYeEpxc3VjRVFoU1lhRXZSeldhdzY3MlN4UHV4bEozOTBfb1Q4US1MTmV0UHczRE1aTFUyRHFxMmpKZnRqMURITTl5YS11cDdKUE40Nk5DU29URGU0andUei1TajlJbDdR",
+      "date": "2026-11-19T00:11:29.248264+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.21885",
+      "date": "2026-11-19T00:11:29.248264+00:00"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "date": "2026-11-19T00:11:29.248264+00:00"
     }
   ],
   "word_history": [
@@ -393,6 +397,7 @@
     "Speculative Decoding Variants / 推測的デコーディング系手法",
     "Supervised Fine-Tuning (SFT / 教師あり微調整)",
     "Human Label Variation (HLV, 人間ラベル変動)",
-    "Quantization（量子化）"
+    "Quantization（量子化）",
+    "Tool Composition（ツール合成）"
   ]
 }
