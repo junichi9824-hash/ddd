@@ -1,26 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "date": "2026-11-06T22:58:49.807385+00:00"
-    },
-    {
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "date": "2026-11-06T22:58:49.807385+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNazMxSWVtZVBLd3E5MTdKTmFVblp2Uk1Jb09HeW9WeURBS3B1c241VWJ1UC12b3lvX1VLTG1lOWxCWlo3bC1aejBiejFzUmZxU3FkUW1NNVJlektIeHVSWE5ZbnprMVBudTVMbVpReFo2cjJWelhPTGVmejJDOUxnc0RVa2d0dDdWeW1uNFVnRG1iLXJsRjlLYThmVEJ3TGdxQWZ6SXVleTZmYmNyQXV4Y0RZRHVwMl8ya2pFMg",
-      "date": "2026-11-06T22:58:49.807385+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.06969",
-      "date": "2026-11-06T22:58:49.807385+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.07238",
-      "date": "2026-11-06T22:58:49.807385+00:00"
-    },
     {
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "date": "2026-11-07T21:42:42.148691+00:00"
@@ -280,6 +260,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdE5MUDNQNXlvMGk2ZmF5ellRVVpSekxPd0NmZnI2cWJkbGJVdTFUZkl6Z1o3d1NjeDVoQUtUUHhDQjhfNjQ3RUM3R3lmXzZYRkVydTBjeE1MVzFjQXpVX3FNTG1Qb3p3UQ",
       "date": "2026-11-20T00:32:36.945524+00:00"
+    },
+    {
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "date": "2026-11-20T23:55:22.688251+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "date": "2026-11-20T23:55:22.688251+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGV4Y2t4X29ZMkFRTnYxOHh5TGYzajQ3NGVEcUdIeUNCaVpFZHhFZ1JuS0J5MGkyVThkdzh6cUwwRlJTVFZubVZ2RlNpblBITXVlY3JURmMwZV9xWHhSMmRfWUVtX0NaR2NUWEozbDA0UkZRXzB0NWVWcktzZmFKV0ZUX0VCMW9IYkVWNXJlLUFfejlyQk5xNEY2ZlNXblVqUm9FUGRfQjJUR0szeDRfWjRad2ZEaTdkem9lVFMtMGlXWDBoMnc",
+      "date": "2026-11-20T23:55:22.688251+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFBVV95cUxQZW5vNWFHcUViMGpKQXJPSk16SlM5ZmxPN3RVamRlVTVlNldWU0FjdjdqZlh4NHpaMDhjUzhCNHFmYUt3QTR4OHJTMHBnVmw2anB2M3dTck5BUmtjUnVzelBfX0dlVnlhNnZuc00zYWs5Z3FIdXpyeFdVcnFZUQ",
+      "date": "2026-11-20T23:55:22.688251+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ2hBSEZVclQwb0hIYXFPNG9Ta0JLd00wUHhVSXhYUG9jQkxjb1h6SnFnWXZFUXRMaVdsN0g4UmVlcG9wVU1ZbjZhOGt1QmdiWkRqd3hrYkZRYTZhdFBpbkxhYnBoaDI1SERVUjdibHZOTkl5cGROaHNtVTJXVEdTT1VnanhBdU9nekV0RDQwNnRSYm5paGl1U0xHMA",
+      "date": "2026-11-20T23:55:22.688251+00:00"
     }
   ],
   "word_history": [
@@ -399,6 +399,7 @@
     "Human Label Variation (HLV, 人間ラベル変動)",
     "Quantization（量子化）",
     "Tool Composition（ツール合成）",
-    "Sycophancy（おべっか・曲学阿世）"
+    "Sycophancy（おべっか・曲学阿世）",
+    "知識蒸留（Knowledge Distillation）"
   ]
 }
