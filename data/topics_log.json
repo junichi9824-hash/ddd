@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "date": "2026-11-05T23:31:58.256465+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "date": "2026-11-05T23:31:58.256465+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aWotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVHSAYQBQVVfeXFMTXVzSHktMk1IYWR5bm41MWpEQmRpZkkwbS1LSVNZZm02Q05uZE56ekhLZjBKV0RLWlVhdVoteHFra2hPOFdMNXEweDc4eUhvWTlqQWxwcXpMdURoMzVmUnBaMFRBc0RtTG1FQXhSekFZeDhSM25Yc3o2THdGckl0cEtLSG9q",
-      "date": "2026-11-05T23:31:58.256465+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.06062",
-      "date": "2026-11-05T23:31:58.256465+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
-      "date": "2026-11-05T23:31:58.256465+00:00"
-    },
     {
       "url": "https://openai.com/index/partnering-with-hacktron",
       "date": "2026-11-06T22:58:49.807385+00:00"
@@ -280,6 +260,26 @@
     {
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
       "date": "2026-11-19T00:11:29.248264+00:00"
+    },
+    {
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "date": "2026-11-20T00:32:36.945524+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.21641",
+      "date": "2026-11-20T00:32:36.945524+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.21622",
+      "date": "2026-11-20T00:32:36.945524+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOajJmd0xhRzRteGVQN1A2ckd6ekxjYmN6ZV81eExJMlA5b3REDUR",
+      "date": "2026-11-20T00:32:36.945524+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdE5MUDNQNXlvMGk2ZmF5ellRVVpSekxPd0NmZnI2cWJkbGJVdTFUZkl6Z1o3d1NjeDVoQUtUUHhDQjhfNjQ3RUM3R3lmXzZYRkVydTBjeE1MVzFjQXpVX3FNTG1Qb3p3UQ",
+      "date": "2026-11-20T00:32:36.945524+00:00"
     }
   ],
   "word_history": [
@@ -398,6 +398,7 @@
     "Supervised Fine-Tuning (SFT / 教師あり微調整)",
     "Human Label Variation (HLV, 人間ラベル変動)",
     "Quantization（量子化）",
-    "Tool Composition（ツール合成）"
+    "Tool Composition（ツール合成）",
+    "Sycophancy（おべっか・曲学阿世）"
   ]
 }
