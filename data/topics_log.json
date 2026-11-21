@@ -1,26 +1,6 @@
 {
-  "category_index": 0,
+  "category_index": 1,
   "seen_urls": [
-    {
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "date": "2026-11-07T21:42:42.148691+00:00"
-    },
-    {
-      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "date": "2026-11-07T21:42:42.148691+00:00"
-    },
-    {
-      "url": "https://hunch.net/?p=13764006",
-      "date": "2026-11-07T21:42:42.148691+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYzBUaDlpMDloc1l1dm9wbnlIYUNHajc3QmRQX2Q0WTVvSk5pR2xpQlFULThPRHFQMDRVV3pDZFJsMzR4N0ZJeWl3Z3lEUTRBaV9EMUNFYi1NbzRRMGo3QlhxMk5qT1lmUTcyRVZBczJwNGtUNWNvZkVHcVoxRnJoUFBiSE9XUjUxTVhiR0NB",
-      "date": "2026-11-07T21:42:42.148691+00:00"
-    },
-    {
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "date": "2026-11-07T21:42:42.148691+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXBLN3Nwd181RFJQQzBkdGo0TUFhbGZpQ1Zxb0dPWXBORHdzeG5US1ZIOGtGUTFfc2ZSVktjMktVMmtSOUZ0SkVkZ2s4cEJWWWgyQVpSRDVGTUlqWnJ6bjdybkhHaTM5czBaZXpvelNlNTZ4WUd4Y0trdk1RQlpxZXd1MFRMb0dSclE3SXpPU2RFWG9JTFlhOVcyVzVJNjFHaUpsUFNZTC10blFqVWc?oc=5",
       "date": "2026-11-08T21:56:26.669080+00:00"
@@ -280,6 +260,22 @@
     {
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ2hBSEZVclQwb0hIYXFPNG9Ta0JLd00wUHhVSXhYUG9jQkxjb1h6SnFnWXZFUXRMaVdsN0g4UmVlcG9wVU1ZbjZhOGt1QmdiWkRqd3hrYkZRYTZhdFBpbkxhYnBoaDI1SERVUjdibHZOTkl5cGROaHNtVTJXVEdTT1VnanhBdU9nekV0RDQwNnRSYm5paGl1U0xHMA",
       "date": "2026-11-20T23:55:22.688251+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazZ3M05BODZVdGhSSTBXcjZ4YmV4LUpxYzZmazJyRkFncU9KSGlMSV9kaFVyMGJqd0VER2k0c2xBcDlyZmwxWE5SeThIWkF1N1JKd0xXTVFENVBKaFRPeC1JMUJSaEpwSEJBV2lCNDJTTDJTYnd0ZDdSZkFlN2RjMjZXM2ZYc1d5TnJTdTZRS05XbjdTWm9kYWNuaXRoNVdFWFo4cTFxZWRkM0JScVVESklrbnZfQ1lqQnc",
+      "date": "2026-11-21T23:01:33.847674+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYXR0OUhCeUx3ZURTeWN4VUJ5QTJZcEt4U0lWZ090dUptMEZIcl9yV2I3VDU5QWwyUVRxZzlEbHI2VjZOUDQyNk5FTXF1QUNJUi1fX3BEQjBCbE5pTGdUaVRfV3ZyaER1X1did09yMFdzV0hnT0ZMV3JKUldrbkkwdmZzd0J4ZDFic293TkdzZFdWMVBkdjJTRDc5eGxoZVZpZWVpMTZiZzF6M2JOUExTUmlBZUlhMlRONWFrMVRqX1NvUVBmOFdFblc5Vm9uOWRMNUc4aE5Bc1owT3ltQVBqX2lqVnRlM29Bc0xFSGNad1FEM1JjR3c",
+      "date": "2026-11-21T23:01:33.847674+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0tuUWxnMnlCTVQwbjRueGk4d3pma2RzbndwN2t1QXRpdzU4SlZGQ3Q3ZG5oZXphVkVmVE5mRnBNcHRjOWxxaldobTY2VDRRdnNJbDJEdlhSLXdrMzhtWjh2V29CUGZUWUZRaHNyczdzUHR3dUtaOUs1QzNudGdDcjZwd29JdkQtaTg0UG9UV0xTRFVaY09iSkdJV04",
+      "date": "2026-11-21T23:01:33.847674+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQZGw4SXliaVBSLTN6UzdueVpzZ2ZPRlhBQkdZbEpaQ3R3Qi1aQ3ozSWVuYXVuVjdNdVp2N0xTUTV1amhycGNWeDFTYkJLNVZ2ZzR4LS0yU295TlJWQUhxeTFDSGNRcFEwRGpVd0NsTmplX1ZFX1F4Y1hKUDdJY01MbXV5dlVWM0dqUTNaSG9wODBrZjBXV25yVG9hNndaQVQ3LVVwcEo5V2I3QlFKY08tYXhIaGJ2Z1JRMU4tdHhJNFpDbHRhcUVQUmRzY2V1TC1RU1RKaEN5QUc2M1ZMQXNhcmtGN0d1ZWNDUWxjSC1lR3JFQlZKTFlRNjlJVlZfUFhYV1kwc0JWaWtWN3hXQlNKODRMalRLc3lRMjU4UnNIMGhPMng4Q3g3Y1hlT3JzQm9zbzNybUZjSkVlSWxfY19Hcnk2d19NLU9maTZETjcwZmg3NnN1WFlLa2hLZGhCV0lPTnIzYjg0c0oyYmEwLS1VY0xKNXJWTmxOYUNYSDZLNmdtWkg3V3c",
+      "date": "2026-11-21T23:01:33.847674+00:00"
     }
   ],
   "word_history": [
@@ -400,6 +396,7 @@
     "Quantization（量子化）",
     "Tool Composition（ツール合成）",
     "Sycophancy（おべっか・曲学阿世）",
-    "知識蒸留（Knowledge Distillation）"
+    "知識蒸留（Knowledge Distillation）",
+    "Layer Normalization（レイヤー正規化）"
   ]
 }
