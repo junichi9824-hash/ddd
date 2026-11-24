@@ -1,26 +1,6 @@
 {
-  "category_index": 2,
+  "category_index": 3,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUTEtcEF6VDk0ajZWRmwyWVRkWkRoTkpZeDFmZVQzVEdvZ3dCT2pSYzRSaGJuYWhrME9zSDNxNzA1SlJzVTRjbUwtY2UyTmJWWFhKNnJnSWJQRlRoRGJ5ZnpSMExuS0ZZWWxHbHU0NmRFaC04ZFNlWFQ0ZWhBeUlGcktiUTdvNXpDQ0JTVkVVUkFqblZmYXY3c1U5T0twSXRiTGdvbG5hRmVqNVpraFNqX2RBTDYtcm1iZmIzeHhZMXhETkdRNGlZWjVYV1Z4dE5LT0h2MUxKeGlfcFNTM2RTUWJnWFQtVl9rbGpjdWFvVTQ",
-      "date": "2026-11-10T01:26:05.573483+00:00"
-    },
-    {
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "date": "2026-11-10T01:26:05.573483+00:00"
-    },
-    {
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "date": "2026-11-10T01:26:05.573483+00:00"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.08639",
-      "date": "2026-11-10T01:26:05.573483+00:00"
-    },
-    {
-      "url": "https://openai.com/index/control-room",
-      "date": "2026-11-10T01:26:05.573483+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0M3I2X29STjU3RnZPdUdOb2k3ZmVTVlhlSzhwVEJqYWJTSVVCRUw0cGZObWlnNW5sSmhNelFwRGhQbk1wU3VFaEtoNDluNmxkalY3RU4xR2dyd3Q0c2FxWlRqamxUNkdVMkFpQ0dSdFBsZw",
       "date": "2026-11-10T23:08:01.995706+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
       "date": "2026-11-22T23:31:05.203751+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2g3RTUyekt0X3psZHZVVlpWLW9sSVI4V24tdUg0RlBqYV82QnpSWFp6Y2JtZlEyRTlCWUI4djBEeERtM3hCN19GaDVrQnQzdDk4T1lQcXU4MnJFSVhULVYxbFdWT3FUV21DVVY2TkZVVUNZYzlJSk9ndm5qYUpQU1NNNGQ2TzVlSVJGYXNyckhFWFUtSUNpbzIyUDJaalJUUTFoaldvenRSNGJ2aXE4Q0N3?oc=5",
+      "date": "2026-11-24T03:55:55.497109+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQdU9uV3Bxc2p2U1RiVG91eGw5bU41LV9sN255aVo1SHJoUkpEWmpvZm1EcFA1NW9nRFNLc0RpRUw1OTBTRzY0b1JveGdDMVRxTC10OUMwY2g2dHpyMG83Y0pyc2pwemRqVEV3QW5yaW95NWdMQWc?oc=5",
+      "date": "2026-11-24T03:55:55.497109+00:00"
+    },
+    {
+      "url": "https://openai.com/index/introducing-shirudo",
+      "date": "2026-11-24T03:55:55.497109+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlRMc081VXpzbVdJOWlhMEZwaXJZN0tpYWx3ZDkzeVliYnRWakh3d2NERHJOT0VHNXZKTlF0UE04a1Y1X2ZTakFQNEtyWW5vMXF0bzM4eEhZVW81UmRQU2phRHZoUWhWTTNLRUNrRng3Y1lBX3dWUWVaVVZTdDNreExFMjhWNWFOVGl3NFdpa1pobnpyZEl3azFIeV9jR19uN1dEWk1nejZDeEVBSVJqRGhWaFB6ZWZV?oc=5",
+      "date": "2026-11-24T03:55:55.497109+00:00"
+    },
+    {
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "date": "2026-11-24T03:55:55.497109+00:00"
     }
   ],
   "word_history": [
@@ -398,6 +398,7 @@
     "Sycophancy（おべっか・曲学阿世）",
     "知識蒸留（Knowledge Distillation）",
     "Layer Normalization（レイヤー正規化）",
-    "Prompt Engineering（プロンプト・エンジニアリング）"
+    "Prompt Engineering（プロンプト・エンジニアリング）",
+    "Process Reward Model（プロセス報酬モデル）"
   ]
 }
