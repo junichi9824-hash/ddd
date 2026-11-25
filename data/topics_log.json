@@ -1,26 +1,6 @@
 {
-  "category_index": 3,
+  "category_index": 4,
   "seen_urls": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0M3I2X29STjU3RnZPdUdOb2k3ZmVTVlhlSzhwVEJqYWJTSVVCRUw0cGZObWlnNW5sSmhNelFwRGhQbk1wU3VFaEtoNDluNmxkalY3RU4xR2dyd3Q0c2FxWlRqamxUNkdVMkFpQ0dSdFBsZw",
-      "date": "2026-11-10T23:08:01.995706+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "date": "2026-11-10T23:08:01.995706+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "date": "2026-11-10T23:08:01.995706+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/roadshow-launch",
-      "date": "2026-11-10T23:08:01.995706+00:00"
-    },
-    {
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "date": "2026-11-10T23:08:01.995706+00:00"
-    },
     {
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
       "date": "2026-11-12T00:29:12.373835+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
       "date": "2026-11-24T03:55:55.497109+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "date": "2026-11-25T02:12:47.761539+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2g3RTUyekt0X3psZHZVVlpWLW9sSVI4V24tdUg0RlBqYV82QnpSWFp6Y2JtZlEyRTlCWUI4djBEeERtM3hCN19GaDVrQnQzdDk4T1lQcXU4MnJFSVhULVYxbFdWT3FUV25DVVY2TkZVVUNZYzlJSk9ndm5qYUpQU1NNNGQ2TzVlSVJGYXNyckhFWFUtSUNpbzIyUDJaalJUUTFoaldvenRSNGJ2aXE4Q0N3",
+      "date": "2026-11-25T02:12:47.761539+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBULWZwY3RYeVBTWmRWaXNyZWpPMHpReUNWTTdSeVJoanFsWlpzZmhoSFZwRGdSTWhkWEVLamxnZjNKWER3bTF5S1hB",
+      "date": "2026-11-25T02:12:47.761539+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4QTBzSERCNGZfOC12ZzdrVml0MUw0bFhqZnRFZ2xFcGNwLWx0ZnE4U284bDZYbzR6SDk5QlVOVmJzRFd2VnhqOFlDZFFjdGNzWENkSDFNRlRKQjZrZzNibjQ4MVAxN2dLQ0ZaZ3gxVWtmZjA",
+      "date": "2026-11-25T02:12:47.761539+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc25lOXFTRHdqMzdNdzZyX2E3dUIxTXp1QmE1WlRyUTF3MzFSZDBMWndQMHNoeGpUSzJDRklpbk9XLVYxXzdTMnNGVGdQUzRRN3hCU0RSMTJpOFRLeW5vN0ozbWdIYk9tVzVUb3NIN2U0aVhjVjJyX290WlBxeG5uaGFjbnJsTGpVanRIbGlxNDcwWWd3MXlrWVFNekxtMk9RWmxVeXRLLXRnSHBvb3FvZnhSMlM4Ql9EODVmbkFHV01UaHJ5dHJ2bVR6bGVXZw",
+      "date": "2026-11-25T02:12:47.761539+00:00"
     }
   ],
   "word_history": [
@@ -399,6 +399,7 @@
     "知識蒸留（Knowledge Distillation）",
     "Layer Normalization（レイヤー正規化）",
     "Prompt Engineering（プロンプト・エンジニアリング）",
-    "Process Reward Model（プロセス報酬モデル）"
+    "Process Reward Model（プロセス報酬モデル）",
+    "Chain-of-Thought (CoT / 思考の連鎖)"
   ]
 }
