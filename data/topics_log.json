@@ -1,26 +1,6 @@
 {
-  "category_index": 4,
+  "category_index": 5,
   "seen_urls": [
-    {
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "date": "2026-11-12T00:29:12.373835+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORDktNDkwaVVERDJRZTNBSTFqRWFiekJyTXl3MjJadDk3LWxlemI5d1p0N3BMSlROaXhzUWpROFpLdjVQckxWcmFEYk9OUEdRbUVOeTJFUUY5eFVCaE0zbGpIZVM2SjhxY2VQWVlRak0tTklrXy1IaG5XNmkzTU4yNkdUXzdTMjVwVHE2QTJhQUpPZw?oc=5",
-      "date": "2026-11-12T00:29:12.373835+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaC1aQnhlT1QyRFRRWklxeHpRak5famVfOFpxR2xsaGw3QS1RTlJDYm9tXzQxd3hqbV85NkxnbzJ4R2s4aVltMVFxMU5ETmlaTVAzdU9aUFNqbnpuZTJGeVd3VEdUaVpfSElmbW9mNEIzNnFKYjRVekhWWkxHNkd1NjVGMTMzTTZzSEZFeWdRYU9YYTNaclVEUVQyeWZrYjhCM2NtMXB3QUg5NjAsdEVrYzM0MUdqdWp5eVk4NQ?oc=5",
-      "date": "2026-11-12T00:29:12.373835+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbk5oM3JOSDludmtlT1k0S2NjRGVoejB0dnowWmpwNXZITEVIM20ycnhVcFU5czVYNjBJZGJIZnMwTnNVS0dORnNNNjA5OWJoOU41dzgwRDkxMnNBM3F1dktZVndra3FETElQU1cwLTNmamhudFhCSnhHdUlXVmN3SndnUGVWdTZpR2llX2hvQVU?oc=5",
-      "date": "2026-11-12T00:29:12.373835+00:00"
-    },
-    {
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "date": "2026-11-12T00:29:12.373835+00:00"
-    },
     {
       "url": "https://www.anthropic.com/news/s1-sec",
       "date": "2026-11-12T23:28:18.529883+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc25lOXFTRHdqMzdNdzZyX2E3dUIxTXp1QmE1WlRyUTF3MzFSZDBMWndQMHNoeGpUSzJDRklpbk9XLVYxXzdTMnNGVGdQUzRRN3hCU0RSMTJpOFRLeW5vN0ozbWdIYk9tVzVUb3NIN2U0aVhjVjJyX290WlBxeG5uaGFjbnJsTGpVanRIbGlxNDcwWWd3MXlrWVFNekxtMk9RWmxVeXRLLXRnSHBvb3FvZnhSMlM4Ql9EODVmbkFHV01UaHJ5dHJ2bVR6bGVXZw",
       "date": "2026-11-25T02:12:47.761539+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmanpmbmR5S2VSTkR4OWh4MEVLdXdCb2JFcVJKT0FtbDNyelF2TFZuWWhXWjg2S3Y4c3dfQkdSUmdTb1BneWpna1BGSENFanpRVjNZa2lVb0hldzBYTU5WejNGVDRTUDNjeXl3UEpn",
+      "date": "2026-11-26T01:45:02.015683+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDdYYmxSMWVDWG9ET0VuVGtPYUF3MkcwR2ctem1pR1VDc2NNVnFnZk9yN2VNQzEtNjJzV2ZRUldsc3dqRl9lWEJHcWJqemJYNm9YMGJ4UTJkR0xrVkQ4MXVqZ1BReFFfbjZtUzZHbjVnblQwWERCSTFmaVpIQ2JINS1rUFFIOVhuNFd3eHJvZjZwQTJr",
+      "date": "2026-11-26T01:45:02.015683+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVRkMl9VdTI5Y2xQTmZQWXlZRzdVZnVuRG9wNVIwLW5jQnpNcXpGMGM1T0YwWXdtYjBIM1JqTnJPZDBTc2ZoWnlKUHZMWkxBQXlTVExNbVlBWWdNUXNrcXFoZUx1eU5VRlBwbGFZaHY4ZWpTc01uT1FWZzd0NDlkcUhDeVVDbng4Ry1kY2dvdGMwZGViOGMzeFd4TWFJQTNPemlnTU9mUU4wbzJEVFhVeDROZHFnci1RRUtoSGoyNHQ",
+      "date": "2026-11-26T01:45:02.015683+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHNveWdUd2dxTTJ2N3BaZExJUGg0VFNMS2xqNGZBeFFENnA5THE4WTlqa21VRlNxczl3NHVaVzZJQjFKdVlBbkVYOUlqek1tMlVZY0wwQ3lqQW5MeTM1SkRJVmN1SlpTSG1PYjlfaWcya2Fod1oyVHp6TkNkSVZtcFR3anlEUkZEa0VYYWR0Skh1Zw",
+      "date": "2026-11-26T01:45:02.015683+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPajNDWnpxajVnN2dPVnBXZ2RUSkxhLW1JT25PcE1lSHF1Q25tSV9nUkNIaHYyNEVEV3cza0w1eHd1RmUtMDFkekNRdDhOMTFZazRPUXRpcXhBNWY5RkJDcF8ybGpmRWtvQXJlM3FJZ3dJZE81LWVXMjBmeDRRZkhTZjNNQy1zOWR4TVptQ0dJUFBGZTR3eHlndDVIUHdXbDBLdHVGMHN0LUJPR1NEUHFRSC1BdGNfanpBV0h6UUcwWFJlYS1GRTBLOA",
+      "date": "2026-11-26T01:45:02.015683+00:00"
     }
   ],
   "word_history": [
@@ -400,6 +400,7 @@
     "Layer Normalization（レイヤー正規化）",
     "Prompt Engineering（プロンプト・エンジニアリング）",
     "Process Reward Model（プロセス報酬モデル）",
-    "Chain-of-Thought (CoT / 思考の連鎖)"
+    "Chain-of-Thought (CoT / 思考の連鎖)",
+    "Tool Composition（ツール合成）"
   ]
 }
