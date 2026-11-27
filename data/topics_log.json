@@ -1,26 +1,6 @@
 {
-  "category_index": 5,
+  "category_index": 6,
   "seen_urls": [
-    {
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "date": "2026-11-12T23:28:18.529883+00:00"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-4",
-      "date": "2026-11-12T23:28:18.529883+00:00"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "date": "2026-11-12T23:28:18.529883+00:00"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFlZOXcpSG5YQXoQN",
-      "date": "2026-11-12T23:28:18.529883+00:00"
-    },
-    {
-      "url": "https://openai.com/index/amplitude",
-      "date": "2026-11-12T23:28:18.529883+00:00"
-    },
     {
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "date": "2026-11-13T23:27:41.054703+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPajNDWnpxajVnN2dPVnBXZ2RUSkxhLW1JT25PcE1lSHF1Q25tSV9nUkNIaHYyNEVEV3cza0w1eHd1RmUtMDFkekNRdDhOMTFZazRPUXRpcXhBNWY5RkJDcF8ybGpmRWtvQXJlM3FJZ3dJZE81LWVXMjBmeDRRZkhTZjNNQy1zOWR4TVptQ0dJUFBGZTR3eHlndDVIUHdXbDBLdHVGMHN0LUJPR1NEUHFRSC1BdGNfanpBV0h6UUcwWFJlYS1GRTBLOA",
       "date": "2026-11-26T01:45:02.015683+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNU9tZmh6STA3Ui1FY1FBcGhPLWMwODNCMmNXbGhndDVmWW9uTnB2WXY5ejI5R3FVUHp2WEYteFpvTFBhVDZYbFozTXp5T0RpaE4zUUhBaDhiVDAxUkY2RURGQWFFaE1BRTVmdmdXTDh3UEdReDM5N0pjSjBzUXB3UEpPa05ma2ZoWDZhTzhJbTNFeDBfQllEWS02eHhST1FPRWI0VlRMOEhHanpvUjZpWkNPWEJLS1BlSllaZ25XeTRGUXF3bUZEcE5n?oc=5",
+      "date": "2026-11-27T01:40:03.745102+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWFRM1RFUmt3UGhIbw?oc=5",
+      "date": "2026-11-27T01:40:03.745102+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmanpmbmR5S2VSTkR4OWh4MEVLdXdCb2JFcVJKT0FtbDNyelF2TFZuWWhXWjg2S3Y4c3dfQkdSUmdTb1BneWpna1BGSENFanpRVjNZa2lVb0hldzBYTU5WejNGVDRTUDNjeXl3UEpn?oc=5",
+      "date": "2026-11-27T01:40:03.745102+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjFPRUpYdWhvSngxLTk1eWxVS0lBSjdxdm5jVWNZQ0IxdTFxOUwwdExYZHk2bUxVUF9nUlByWXdQNEk0YmlEUEhpdDdUbWtVMDJkOU1ud0pTNlV3R2NQMUg0Ynp0TDYtQWJDSzVDalkxbVQzcmFfV29SOXg0dS1uTmE4ZGJNUkdPLTRhQkhMQy1CSk1lZkE?oc=5",
+      "date": "2026-11-27T01:40:03.745102+00:00"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.33174",
+      "date": "2026-11-27T01:40:03.745102+00:00"
     }
   ],
   "word_history": [
@@ -401,6 +401,7 @@
     "Prompt Engineering（プロンプト・エンジニアリング）",
     "Process Reward Model（プロセス報酬モデル）",
     "Chain-of-Thought (CoT / 思考の連鎖)",
-    "Tool Composition（ツール合成）"
+    "Tool Composition（ツール合成）",
+    "Extraneous Cognitive Load（外在認知負荷）"
   ]
 }
