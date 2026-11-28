@@ -1,26 +1,6 @@
 {
-  "category_index": 6,
+  "category_index": 0,
   "seen_urls": [
-    {
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "date": "2026-11-13T23:27:41.054703+00:00"
-    },
-    {
-      "url": "https://www.theregister.com/2025/01/15/chinese_ai_blackwell/",
-      "date": "2026-11-13T23:27:41.054703+00:00"
-    },
-    {
-      "url": "https://www.wsj.com/articles/exclusive-chinas-moonshot-ai-restructures-to-pave-way-for-ipo",
-      "date": "2026-11-13T23:27:41.054703+00:00"
-    },
-    {
-      "url": "https://cryptobriefing.com/deepseek-opens-full-app-toolkit-developers-api/",
-      "date": "2026-11-13T23:27:41.054703+00:00"
-    },
-    {
-      "url": "https://www.biggofinance.com/news/1234567-three-way-ai-image-generation-battle",
-      "date": "2026-11-13T23:27:41.054703+00:00"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKWkdubnhYS0czMHM0OEJ2aUdSS0NtOHkzZTA0Y0N4cWFid0puTnFGRkZ6aTNWNk9sNWQ0X0hJT3RLRDl6WjNlTjB1LVlHT0ttRXB2d1h2UWtQc0VmcEZXZHIzcnY3MmNKdmg3anJpc2NFd3RyQ2c",
       "date": "2026-11-14T22:15:25.538255+00:00"
@@ -276,6 +256,26 @@
     {
       "url": "https://arxiv.org/abs/2611.33174",
       "date": "2026-11-27T01:40:03.745102+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnBvSkttSHlvMkQ2bmlGZXllMkJ2WnU4d2tUQ3J3TGl1SEZRWFMxV01HOTJEcTNCRkNqTWE1Q2U0SjJvVFZONmtTZ3UwMENibmdfOUg5TklybEhrenUwMzk0SGZaVDczUVFlc1JRVEFqZ1gyQmt3MUZ6RmxwVmtWMWNfOHNCWk5iMV9HWGgyUFZWZUJEaWgwcmlMOFJTZlhkbXNSblA4bw?oc=5",
+      "date": "2026-11-28T01:19:54.332097+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelFESXVudzdtQ1RxUFNxWlBkNG9DNmp3NnlSVFhLV2xYWnVmV1dZYm4xTUN5VFJWSGVRMG8xZ21ZV05Zcl9UNjRSSElON0NpMkQ2bDhrU3NSd0FiQjFjSVoycDZONmpNc2puWmkzSkhZRDhhRXhLcllDYXhfQ0loMVNUZ0UwQ2JRTDNEOXhXcw?oc=5",
+      "date": "2026-11-28T01:19:54.332097+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MQmVzd18ybWJtdkw4Q3NlR3FaaWhsTUFUd2psTFRoXzhhOFZKZUk5MzRQQmhOSmZIOFVqTmZBeEFaT3hGTHNTZF9fd0V1MzFSclZJWmczMXpHa0haTEpZSGlFUkFqX0tnVjM5eXZkSF94Zkg5T1BUeExVNjJZUQ?oc=5",
+      "date": "2026-11-28T01:19:54.332097+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByNV9ILUpRaVg5X1FDQXVDN0xSU0FuMXlrbVpEbFhRZG81LU40eVVCN0FpLVNTQnZiYXByaVB6T2dDSmpDVWZWU2hOM2xhU3huQy04TlgxOTY1V3l0cXZ4ZzNlZF9zRVhyX2N3dG9MSmQ?oc=5",
+      "date": "2026-11-28T01:19:54.332097+00:00"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGdEQ1NSd0Z2OUJrOWNpWHNWT1Vad3gzUGViT1lvQW1SanVmWHA0ZzhVYzRnNFJLOHpWSlE1blZHS3BRaUN5bVRXdW5GajF0eXY3ay10bzkwUktZY3FhSXQ0NUxHOHd1cTZ3MjVTOVFFaHBwMUpTN1dtb2NMS29laThLMVBzNzE0YXNKWGtaNGljcV9Pa1RUcGFDelVpZHVMWXFpSzlLbGxzZTJq?oc=5",
+      "date": "2026-11-28T01:19:54.332097+00:00"
     }
   ],
   "word_history": [
@@ -402,6 +402,7 @@
     "Process Reward Model（プロセス報酬モデル）",
     "Chain-of-Thought (CoT / 思考の連鎖)",
     "Tool Composition（ツール合成）",
-    "Extraneous Cognitive Load（外在認知負荷）"
+    "Extraneous Cognitive Load（外在認知負荷）",
+    "RAG (Retrieval-Augmented Generation / 検索拡張生成)"
   ]
 }
